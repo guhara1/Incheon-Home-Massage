@@ -578,8 +578,8 @@ _bupyeong_body = """
     부평구의 중심은 단연 <a href="/incheon/station/bupyeong-station/">부평역</a>(1호선·인천 1호선 환승)입니다.
     인천에서 서울 방면으로의 접근성이 가장 좋은 역으로, 역 주변에 CGV·롯데백화점·부평 문화의거리가 있습니다.
     <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역</a>(인천 1호선)은 부평구청과 삼산 방면 주거 지구를 담당합니다.
-    <a href="/incheon/station/bugae-station/">부개역</a>(1호선)은 부개동 주거 단지 이용객의 주요 역이며,
-    <a href="/incheon/station/galsan-station/">갈산역</a>(인천 1호선)과 삼산체육관역(인천 1호선)은 삼산 생활권 역세권입니다.
+    <a href="/incheon/bupyeong-gu/bugae-dong/">부개역</a>(1호선)은 부개동 주거 단지 이용객의 주요 역이며,
+    <a href="/incheon/station/bupyeong-gu-office-station/">갈산역</a>(인천 1호선)과 삼산체육관역(인천 1호선)은 삼산 생활권 역세권입니다.
     <a href="/incheon/station/dongam-station/">동암역</a>(1호선)은 부평구 동부 방면 이동 거점입니다.
     인천 지하철 정보: <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 사이트</a>
   </p>
@@ -682,9 +682,9 @@ _gyeyang_body = """
     <a href="/incheon/station/gyeyang-station/">계양역</a>(인천 1호선·공항철도 환승)은 계양구의 최대 교통 거점으로,
     공항철도(AREX)를 통해 인천공항과 서울역을 직결합니다.
     계양역 근처에는 신규 오피스텔과 상업 복합 시설이 개발 중이어서 방문 수요가 꾸준히 증가하고 있습니다.
-    <a href="/incheon/station/gyulhyeon-station/">귤현역</a>(공항철도)과 <a href="/incheon/station/bakchon-station/">박촌역</a>(인천 1호선)은 계양구 북부 생활권을 담당합니다.
-    <a href="/incheon/station/imhak-station/">임학역</a>(인천 1호선), <a href="/incheon/station/gyesan-station/">계산역</a>(인천 1호선),
-    경인교대입구역(인천 1호선), <a href="/incheon/station/jakjeon-station/">작전역</a>(인천 1호선)이 계양구 중·남부 생활권을 순서대로 관통합니다.
+    <a href="/incheon/station/gyeyang-station/">귤현역</a>(공항철도)과 <a href="/incheon/station/gyeyang-station/">박촌역</a>(인천 1호선)은 계양구 북부 생활권을 담당합니다.
+    <a href="/incheon/station/gyeyang-station/">임학역</a>(인천 1호선), <a href="/incheon/gyeyang-gu/gyesan-dong/">계산역</a>(인천 1호선),
+    경인교대입구역(인천 1호선), <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전역</a>(인천 1호선)이 계양구 중·남부 생활권을 순서대로 관통합니다.
     인천 지하철 운행 정보는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 사이트</a>에서 확인하세요.
   </p>
 </section>
