@@ -23,6 +23,7 @@ from content.site import (BASE_URL, BRAND, NAV, PHONE, PHONE_DISPLAY,
                           TELEGRAM_URL, AREA_SERVED, SERVICE_AREA_TEXT,
                           NAVER_SITE_VERIFICATION, GOOGLE_SITE_VERIFICATION,
                           INDEXNOW_KEY, RSS_TITLE, RSS_DESC)
+from content.admin_dong import render_admin_dong
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # Cloudflare Pages가 빌드를 실행하지 않고 저장소 루트를 그대로 배포하므로
@@ -238,6 +239,8 @@ def render_page(page: dict) -> str:
     desc = page["desc"]
     h1 = page.get("h1") or title
     body = page["body"]
+    # 구·군 페이지에는 대표 동(행정동) 안내 섹션을 자동 추가한다.
+    body += render_admin_dong(path)
     crumbs = page.get("breadcrumb") or []
     extra_head = page.get("extra_head", "")
     hero = page.get("hero", "")

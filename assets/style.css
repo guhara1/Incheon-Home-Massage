@@ -1064,3 +1064,34 @@ strong {
 @media (max-width: 640px) {
   .page-content > section { padding: 20px 18px; }
 }
+
+/* ── 구·군 페이지: 대표 동(행정동) 안내 링크 ───────── */
+.dong-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 10px;
+  margin: 6px 0 4px;
+  line-height: 2;
+}
+.dong-links a {
+  display: inline-block;
+  padding: 5px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--glass-strong);
+  color: var(--gold-soft);
+  font-size: 0.9rem;
+  white-space: nowrap;
+  transition: var(--transition);
+}
+.dong-links a:hover {
+  border-color: rgba(255, 107, 53, 0.5);
+  color: var(--orange-light);
+  background: rgba(255, 107, 53, 0.08);
+  transform: translateY(-1px);
+}
+#admin-dong h3 {
+  margin-top: 16px;
+  font-size: 1.02rem;
+  color: var(--gold-soft);
+}
