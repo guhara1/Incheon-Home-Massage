@@ -22,7 +22,7 @@ from content import PAGES
 from content.site import (BASE_URL, BRAND, NAV, PHONE, PHONE_DISPLAY,
                           TELEGRAM_URL, AREA_SERVED, SERVICE_AREA_TEXT,
                           NAVER_SITE_VERIFICATION, GOOGLE_SITE_VERIFICATION,
-                          INDEXNOW_KEY, RSS_TITLE, RSS_DESC)
+                          INDEXNOW_KEY, RSS_TITLE, RSS_DESC, PRICING)
 from content.admin_dong import render_admin_dong
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -35,7 +35,7 @@ MIN_INDEX_CHARS = 2000
 def text_length(body_html: str) -> int:
     """태그를 제거한 본문 글자수(공백 포함, 연속 공백은 1자).
     공통 요금 블록은 페이지 고유 본문이 아니므로 측정에서 제외한다."""
-    text = re.sub(r'<section class="pricing">.*?</section>', " ", body_html, flags=re.S)
+    text = re.sub(r'<section class="pricing"[^>]*>.*?</section>', " ", body_html, flags=re.S)
     text = re.sub(r"<[^>]+>", " ", text)
     text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
@@ -196,9 +196,54 @@ SAMPLE_REVIEWS = [
 ]
 
 
+def _offers():
+    """기본 요금(코스)을 Offer 목록 스키마로 변환."""
+    base = BASE_URL.rstrip("/")
+    return [
+        {
+            "@type": "Offer",
+            "name": c["name"],
+            "price": str(c["price"]),
+            "priceCurrency": "KRW",
+            "description": c["desc"],
+            "url": base + "/reservation/",
+            "availability": "https://schema.org/InStock",
+        }
+        for c in PRICING
+    ]
+
+
+def render_pricing() -> str:
+    """모든 페이지 하단 공통 가격표(class="pricing" → 색인 글자수에서 제외)."""
+    cards = []
+    for c in PRICING:
+        feat = " price-card-featured" if c.get("featured") else ""
+        badge = '<span class="price-badge">추천</span>' if c.get("featured") else ""
+        btn = "price-btn price-btn-featured" if c.get("featured") else "price-btn"
+        price = f"{c['price']:,}"
+        cards.append(
+            f'<div class="price-card{feat}">{badge}'
+            f'<p class="price-name">{c["name"]}</p>'
+            f'<p class="price-amount">{price}<span>원</span></p>'
+            f'<p class="price-min">{c["min"]}</p>'
+            f'<p class="price-desc">{c["desc"]}</p>'
+            f'<a class="{btn}" href="tel:{PHONE}">예약 문의</a>'
+            f"</div>"
+        )
+    return (
+        '<section class="pricing" id="pricing">'
+        "<h2>코스 시간으로 보는 기본 요금</h2>"
+        '<p class="pricing-sub">관리 시간(60·90·120분)을 기준으로 정리한 기본 금액입니다. '
+        "표시되지 않은 별도 비용은 두지 않는 것을 원칙으로 안내합니다.</p>"
+        f'<div class="pricing-grid">{"".join(cards)}</div>'
+        '<p class="pricing-note">방문 지역과 시간대, 이동 거리에 따라 최종 금액은 통화 시 확정됩니다. '
+        '<a href="/reservation/">요금·예약 기준 자세히 보기 →</a></p>'
+        "</section>"
+    )
+
+
 def make_service_schema(title: str, canonical: str) -> dict:
-    """페이지 단위 Service 스키마 + AggregateRating + Review (샘플).
-    방문형 서비스이므로 LocalBusiness 대신 Service 타입에 부착한다."""
+    """페이지 단위 Service 스키마 + AggregateRating + Review + Offer (요금)."""
     base = BASE_URL.rstrip("/")
     return {
         "@context": "https://schema.org",
@@ -208,6 +253,7 @@ def make_service_schema(title: str, canonical: str) -> dict:
         "url": canonical,
         "provider": {"@id": base + "/#organization"},
         "areaServed": {"@type": "AdministrativeArea", "name": AREA_SERVED},
+        "offers": _offers(),
         "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": AGGREGATE_RATING["value"],
@@ -241,6 +287,8 @@ def render_page(page: dict) -> str:
     body = page["body"]
     # 구·군 페이지에는 대표 동(행정동) 안내 섹션을 자동 추가한다.
     body += render_admin_dong(path)
+    # 모든 페이지 하단에 공통 가격표를 추가한다(메인 포함).
+    body += render_pricing()
     crumbs = page.get("breadcrumb") or []
     extra_head = page.get("extra_head", "")
     hero = page.get("hero", "")
