@@ -12,6 +12,20 @@ TELEGRAM_URL = "https://t.me/googleseolab"
 AREA_SERVED = "인천광역시"
 SERVICE_AREA_TEXT = "인천광역시 전지역"
 
+# ── 검색엔진 등록·색인 ──────────────────────────────
+# 네이버 서치어드바이저 사이트 소유확인 메타 (홈 포함 전 페이지 출력)
+NAVER_SITE_VERIFICATION = "449daf38d5eb7a0e419cf743b7ba0a542bb6335e"
+# 구글 서치콘솔 메타 토큰이 있으면 입력 (없으면 빈 문자열 → 출력 안 함)
+GOOGLE_SITE_VERIFICATION = ""
+
+# IndexNow 키 (빙·네이버·얀덱스 등 즉시 색인 통보용)
+# 루트에 <키>.txt 파일로도 게시되어 소유 확인에 사용된다.
+INDEXNOW_KEY = "246497306624e87a1aad9965d295f98c"
+
+# RSS 피드 메타
+RSS_TITLE = "간다GO 인천 출장마사지·홈타이"
+RSS_DESC = "인천 구·군·지역·역세권·생활권별 방문 가능 지역과 예약 전 확인사항 안내"
+
 # 상단 메뉴 — 키워드 반복 없음, 지역명·역명만 표시 (지시서 4항)
 NAV = [
     ("인천 홈", "/", []),

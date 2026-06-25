@@ -59,9 +59,35 @@ python3 build.py
 - **Pretendard 폰트**, 반응형, 접근성(WAI-ARIA), 정적 HTML(빠른 로딩)
 - **푸터 오렌지 CTA**: 웹사이트 제작문의·제휴문의 버튼(텔레그램 연결)
 
+## 검색엔진 등록·즉시 색인
+
+빌드 시 자동 생성: `sitemap.xml`(lastmod 포함), `rss.xml`, `robots.txt`, IndexNow 키 파일(`<키>.txt`), `tools/urls.txt`.
+모든 페이지 `<head>`에 네이버 소유확인 메타가 출력된다.
+
+**1) 소유 확인·사이트맵 등록 (가장 중요)**
+- 네이버 서치어드바이저: 사이트 등록 → (메타 자동 출력됨) 확인 → `sitemap.xml`·`rss.xml` 제출
+- 구글 서치콘솔: 사이트 등록 → `sitemap.xml` 제출. 구글 메타 토큰이 있으면 `content/site.py`의 `GOOGLE_SITE_VERIFICATION`에 입력 후 재빌드
+- 빙 웹마스터: 사이트 등록(구글 서치콘솔 가져오기 가능) → `sitemap.xml` 제출
+
+**2) IndexNow 즉시 통보 (빙·네이버·얀덱스) — 글 올릴 때마다**
+```bash
+python3 build.py                                   # 빌드(키 파일·urls.txt 갱신)
+# 배포(푸시) 후:
+python3 tools/indexnow.py                           # 전체 일괄 통보(첫 통보)
+python3 tools/indexnow.py https://incheon-home-massage.pages.dev/yeonsu-gu/songdo/   # 특정 URL만
+```
+- 키: `246497306624e87a1aad9965d295f98c` (루트 `<키>.txt`로 게시되어 소유 자동 확인)
+
+**3) 구글 즉시 통보 (구글은 IndexNow 미참여) — 선택**
+```bash
+export GOOGLE_APPLICATION_CREDENTIALS=/path/service-account.json
+python3 tools/google_indexing.py                    # tools/urls.txt 전체
+```
+서비스 계정을 서치콘솔 "소유자"로 추가해야 함. `tools/ping_sitemap.py`는 보조용(구글·빙 sitemap ping은 폐지됨).
+
 ## 배포 전 할 일
 
-1. `content/site.py`의 `BASE_URL`을 실제 도메인으로 변경
+1. `content/site.py`의 `BASE_URL`을 실제 도메인으로 변경(현재 incheon-home-massage.pages.dev)
 2. `python3 build.py` 재실행
-3. Google Search Console에 `sitemap.xml` 제출
+3. 위 "검색엔진 등록·즉시 색인" 절차 수행
 4. 2026년 개편 후 제물포구·영종구·검단구 색인·리디렉션·canonical 조정

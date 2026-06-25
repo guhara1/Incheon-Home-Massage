@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://incheon-home-massage.pages.dev/sitemap.xml
+# RSS: https://incheon-home-massage.pages.dev/rss.xml
