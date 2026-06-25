@@ -27,9 +27,9 @@ _bupyeong_dong_body = """
     정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 문의해 주세요.
   </p>
   <p>
-    부평동은 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>의 핵심 지역으로,
+    부평동은 <a href="/life/bupyeong-station-market/">부평역·부평시장 생활권</a>의 핵심 지역으로,
     지하철 1호선·7호선 환승이 가능한 부평역과 인접해 있어 서울·경기 방면 광역 이동도 편리합니다.
-    <a href="/incheon/bupyeong-gu/">부평구</a> 전체 생활권을 아우르는 중심 상권으로
+    <a href="/bupyeong-gu/">부평구</a> 전체 생활권을 아우르는 중심 상권으로
     유동 인구가 항상 많고 편의 인프라가 집중된 지역입니다.
   </p>
   <p>
@@ -51,9 +51,9 @@ _bupyeong_dong_body = """
     더욱 원활한 예약이 가능합니다.
   </p>
   <p>
-    <a href="/incheon/station/bupyeong-station/">부평역 출장마사지</a> 안내 페이지에서
+    <a href="/station/bupyeong-station/">부평역 출장마사지</a> 안내 페이지에서
     역 주변 방문 가능 범위를 별도로 확인하실 수 있습니다.
-    <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역</a> 방면도 부평동과
+    <a href="/station/bupyeong-gu-office-station/">부평구청역</a> 방면도 부평동과
     인접해 있어 같은 생활권으로 운영됩니다.
     부평시장역 인근 골목 상권과 전통시장 주변 주거지도 방문 범위에 포함되어 있습니다.
   </p>
@@ -75,8 +75,8 @@ _bupyeong_dong_body = """
     <li><strong>방문지 공간 확보</strong>: 방문형 서비스 특성상 매트를 펼 수 있는 바닥 공간 확보가 필요합니다.</li>
   </ul>
   <p>
-    자세한 이용 절차는 <a href="/incheon/check/">이용 전 확인사항</a> 페이지와
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다.
+    자세한 이용 절차는 <a href="/check/">이용 전 확인사항</a> 페이지와
+    <a href="/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다.
     처음 이용하시는 분들은 두 페이지를 모두 읽어 보시면 예약부터 방문까지의 흐름을 이해하는 데 도움이 됩니다.
   </p>
 </section>
@@ -84,19 +84,19 @@ _bupyeong_dong_body = """
 <section>
   <h2>부평동 인접 지역 연결 정보</h2>
   <p>
-    부평동 북쪽으로는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>이 이어지며,
-    동쪽으로는 <a href="/incheon/bupyeong-gu/bugae-dong/">부개동</a>이 연결됩니다.
-    남쪽 방향으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>과
-    <a href="/incheon/station/jemulpo-station/">제물포역</a> 생활권이 인접해 있습니다.
-    또한 서측으로는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>과
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>이 위치합니다.
+    부평동 북쪽으로는 <a href="/bupyeong-gu/sangok-dong/">산곡동</a>이 이어지며,
+    동쪽으로는 <a href="/bupyeong-gu/bugae-dong/">부개동</a>이 연결됩니다.
+    남쪽 방향으로는 <a href="/michuhol-gu/juan-dong/">주안동</a>과
+    <a href="/station/jemulpo-station/">제물포역</a> 생활권이 인접해 있습니다.
+    또한 서측으로는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>과
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a>이 위치합니다.
     같은 부평구 내 인접 동 간 이동이 원활하여 복합 일정에도 유연하게 대응할 수 있습니다.
   </p>
   <p>
-    계양구 방면으로는 <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a>·
-    <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>이 차량으로 15분 내외 거리에 위치합니다.
+    계양구 방면으로는 <a href="/gyeyang-gu/gyesan-dong/">계산동</a>·
+    <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>이 차량으로 15분 내외 거리에 위치합니다.
     인천 전체 생활권 안내는 상단 내비게이션을 통해 각 구·동 페이지를 참고해 주세요.
-    미추홀구 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a> 방면도 부평동에서
+    미추홀구 <a href="/michuhol-gu/dohwa-dong/">도화동</a> 방면도 부평동에서
     차량으로 이동 가능한 생활권입니다.
   </p>
 </section>
@@ -111,9 +111,9 @@ _bupyeong_dong_body = """
     예약부터 방문까지의 대기 시간을 최소화할 수 있습니다.
   </p>
   <p>
-    서비스 이용 전 궁금한 사항은 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서
+    서비스 이용 전 궁금한 사항은 <a href="/guide/">홈타이 이용 가이드</a>에서
     상세하게 안내받으실 수 있으며, 예약 가능 여부와 일정 확인은
-    <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고해 주세요.
+    <a href="/reservation/">예약 안내</a> 페이지를 참고해 주세요.
   </p>
 </section>
 
@@ -123,7 +123,7 @@ _bupyeong_dong_body = """
     간다GO는 예약 과정에서 수집되는 고객 정보를 관련 법령에 따라 안전하게 관리합니다.
     수집 목적은 방문 서비스 제공 및 예약 확인에 한정되며, 목적 달성 후에는 안전하게 파기합니다.
     개인정보 수집·이용 목적, 보유 기간, 제3자 제공 여부 등 세부 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.
   </p>
   <p>
     부평구청 및 부평동 주민센터 관련 행정 정보는
@@ -148,8 +148,8 @@ _bugae_dong_body = """
     정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 확인해 주세요.
   </p>
   <p>
-    부개동은 <a href="/incheon/bupyeong-gu/">부평구</a>의 동쪽 경계에 위치하며,
-    <a href="/incheon/namdong-gu/">남동구</a>와 인접해 있어 두 구 경계 지역의 방문도
+    부개동은 <a href="/bupyeong-gu/">부평구</a>의 동쪽 경계에 위치하며,
+    <a href="/namdong-gu/">남동구</a>와 인접해 있어 두 구 경계 지역의 방문도
     사전 협의를 통해 가능합니다. 부개동은 부평 생활권과 남동구 간석·구월 생활권 사이의
     중간 거점 역할을 하는 지역으로, 두 방향으로의 접근이 모두 수월합니다.
   </p>
@@ -169,9 +169,9 @@ _bugae_dong_body = """
     방문형 서비스 이용 시 이동 편의성이 높습니다.
   </p>
   <p>
-    부개동 북부는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 이어지며,
+    부개동 북부는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과 이어지며,
     부평로·굴포천 방향으로 생활권이 자연스럽게 연결됩니다.
-    <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과도
+    <a href="/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과도
     가까워 상업 시설 이용이 편리합니다.
     부개동 주민들은 부평역 상권을 주로 이용하면서도 독립적인 근린 생활권을 유지합니다.
   </p>
@@ -194,8 +194,8 @@ _bugae_dong_body = """
     <li><strong>단지 방문자 등록</strong>: 일부 단지는 방문자 사전 등록이 필요하므로 관리사무소 정책을 미리 확인하세요.</li>
   </ul>
   <p>
-    이용 절차와 주의 사항은 <a href="/incheon/check/">이용 전 확인사항</a> 및
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
+    이용 절차와 주의 사항은 <a href="/check/">이용 전 확인사항</a> 및
+    <a href="/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
     처음 방문형 서비스를 이용하시는 분들은 이용 가이드에서 전반적인 진행 방식을 먼저 확인하시면
     예약 과정이 한층 매끄럽게 진행됩니다.
   </p>
@@ -204,16 +204,16 @@ _bugae_dong_body = """
 <section>
   <h2>부개동 인접 지역 연결 정보</h2>
   <p>
-    부개동 서쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>이 연결됩니다.
-    남쪽으로는 <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>이 인접해 있으며,
-    <a href="/incheon/station/dongam-station/">동암역</a> 생활권과도 가깝습니다.
-    동쪽으로는 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a> 방향으로 이동이 가능합니다.
+    부개동 서쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a>이 연결됩니다.
+    남쪽으로는 <a href="/namdong-gu/ganseok-dong/">간석동</a>이 인접해 있으며,
+    <a href="/station/dongam-station/">동암역</a> 생활권과도 가깝습니다.
+    동쪽으로는 <a href="/namdong-gu/guwol-dong/">구월동</a> 방향으로 이동이 가능합니다.
   </p>
   <p>
-    <a href="/incheon/station/bupyeong-station/">부평역</a>에서 1호선으로 한 정거장 거리에 있어
+    <a href="/station/bupyeong-station/">부평역</a>에서 1호선으로 한 정거장 거리에 있어
     부평 상권과 부개동을 함께 이용하는 수요도 많습니다.
-    계양구 방면 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>까지도
+    계양구 방면 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>까지도
     차량으로 20분 내외로 이동이 가능합니다.
     부개동은 지리적으로 부평구·남동구 접경 지역이므로 양쪽 방향 이동 모두 예약 시 사전 확인이 필요합니다.
   </p>
@@ -223,8 +223,8 @@ _bugae_dong_body = """
   <h2>개인정보 처리 기준 및 예약 안내</h2>
   <p>
     간다GO는 예약 과정에서 취득하는 모든 고객 정보를 개인정보보호법에 따라 관리·보호합니다.
-    수집 목적 및 보유 기간 등 상세 내용은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서
-    확인하실 수 있으며, 예약 흐름 전반은 <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고해 주세요.
+    수집 목적 및 보유 기간 등 상세 내용은 <a href="/support/privacy/">개인정보처리방침</a>에서
+    확인하실 수 있으며, 예약 흐름 전반은 <a href="/reservation/">예약 안내</a> 페이지를 참고해 주세요.
     부개동 거주자분들이 처음 이용하시는 경우 예약 안내 페이지를 먼저 읽어보시면 절차 이해에 도움이 됩니다.
     개인정보는 서비스 목적 달성 후 즉시 파기되며, 제3자 제공은 이루어지지 않습니다.
   </p>
@@ -262,8 +262,8 @@ _samsan_dong_body = """
     정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요.
   </p>
   <p>
-    삼산동은 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>의
-    중심 지역으로, <a href="/incheon/bupyeong-gu/">부평구</a> 내 가장 계획적으로
+    삼산동은 <a href="/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>의
+    중심 지역으로, <a href="/bupyeong-gu/">부평구</a> 내 가장 계획적으로
     개발된 주거 지역 중 하나입니다. 녹지 공간과 아파트 단지가 조화롭게 배치되어
     쾌적한 주거 환경을 유지하고 있습니다.
   </p>
@@ -285,14 +285,14 @@ _samsan_dong_body = """
     연계도 편리합니다.
   </p>
   <p>
-    <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역</a> 주변은
+    <a href="/station/bupyeong-gu-office-station/">부평구청역</a> 주변은
     오피스텔·주거 시설이 혼재한 지역으로, 삼산동과 함께 방문 가능 범위에 포함됩니다.
-    삼산동 남쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 연결되어
+    삼산동 남쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과 연결되어
     부평 상권 이용도 편리합니다. 삼산동 일대는 신개발 지역 특성상 도로 폭이 넓고
     단지 간 이동 동선이 정리되어 있어 방문 시간 예측이 수월합니다.
   </p>
   <p>
-    삼산동 서측으로는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>이 인접하며,
+    삼산동 서측으로는 <a href="/bupyeong-gu/sangok-dong/">산곡동</a>이 인접하며,
     산곡역 생활권과도 간접적으로 연결됩니다.
     삼산동 내 대단지 아파트들은 자체 상업 시설과 주민 편의 시설을 갖추고 있어
     외출 없이도 생활이 가능한 자급자족형 주거 단지 형태를 취하고 있습니다.
@@ -311,8 +311,8 @@ _samsan_dong_body = """
     <li><strong>단지 진입 방법</strong>: 차량 진입 경로와 방문자 주차 구역을 예약 시 확인하세요.</li>
   </ul>
   <p>
-    이용 전 전반적인 사항은 <a href="/incheon/check/">이용 전 확인사항</a>과
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 먼저 확인해 주세요.
+    이용 전 전반적인 사항은 <a href="/check/">이용 전 확인사항</a>과
+    <a href="/guide/">홈타이 이용 가이드</a>를 먼저 확인해 주세요.
     두 페이지 모두 처음 방문형 서비스를 이용하시는 분들을 위한 기초 안내를 포함하고 있습니다.
   </p>
 </section>
@@ -320,17 +320,17 @@ _samsan_dong_body = """
 <section>
   <h2>삼산동 인접 지역 연결 정보</h2>
   <p>
-    삼산동 북쪽으로는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>이 바로 연결되며,
-    서쪽으로는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>이 인접합니다.
-    동쪽으로는 <a href="/incheon/bupyeong-gu/bugae-dong/">부개동</a>으로 이어지고,
-    남쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 직접 연결됩니다.
-    계양구 방면으로는 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>이
+    삼산동 북쪽으로는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>이 바로 연결되며,
+    서쪽으로는 <a href="/bupyeong-gu/sangok-dong/">산곡동</a>이 인접합니다.
+    동쪽으로는 <a href="/bupyeong-gu/bugae-dong/">부개동</a>으로 이어지고,
+    남쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과 직접 연결됩니다.
+    계양구 방면으로는 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>이
     삼산동과 가까운 편입니다.
   </p>
   <p>
     삼산동의 지리적 위치상 부평구 내 어느 동으로든 이동이 편리하며,
     주요 간선 도로를 통해 인접 구까지도 원활하게 연결됩니다.
-    남동구 방면 <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>까지도
+    남동구 방면 <a href="/namdong-gu/ganseok-dong/">간석동</a>까지도
     삼산동에서 차량으로 15분 내외면 도달 가능합니다.
   </p>
 </section>
@@ -340,8 +340,8 @@ _samsan_dong_body = """
   <p>
     예약 과정에서 수집되는 개인정보는 간다GO의 서비스 제공 목적에 한해 처리되며,
     법적 보유 기간이 경과하면 즉시 파기합니다. 개인정보 수집 범위와 처리 방침의 상세 내용은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
-    예약 진행 방법은 <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고해 주세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    예약 진행 방법은 <a href="/reservation/">예약 안내</a> 페이지를 참고해 주세요.
     고객 정보는 예약 및 방문 서비스 제공 목적으로만 사용되며 제3자에게 제공되지 않습니다.
   </p>
   <p>
@@ -379,8 +379,8 @@ _sangok_dong_body = """
     정확한 방문 가능 여부와 이동 가능 시간은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요.
   </p>
   <p>
-    산곡동은 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>의 일부로,
-    <a href="/incheon/bupyeong-gu/">부평구</a> 내에서 청천동과 함께 서부 생활권을 구성합니다.
+    산곡동은 <a href="/life/sangok-cheongcheon/">산곡·청천 생활권</a>의 일부로,
+    <a href="/bupyeong-gu/">부평구</a> 내에서 청천동과 함께 서부 생활권을 구성합니다.
     경인로를 따라 형성된 산업 지대와 배후 주거 지역이 공존하는 지역 특성을 갖고 있습니다.
   </p>
   <p>
@@ -401,11 +401,11 @@ _sangok_dong_body = """
     포함한 복합적인 생활권입니다.
   </p>
   <p>
-    북쪽으로는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>과 연결되며,
-    동쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 인접합니다.
-    남쪽 방향으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동</a> 생활권과
+    북쪽으로는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>과 연결되며,
+    동쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과 인접합니다.
+    남쪽 방향으로는 <a href="/michuhol-gu/juan-dong/">주안동</a> 생활권과
     도로로 이어지며, 산곡동에서 주안역까지 차량으로 10~15분이면 이동이 가능합니다.
-    서쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>과 이어집니다.
+    서쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>과 이어집니다.
   </p>
   <p>
     산곡동 내 재개발·재건축이 진행 중인 구역도 있어 방문 주소를 명확히 제공해 주시면
@@ -426,8 +426,8 @@ _sangok_dong_body = """
     <li><strong>재개발 구역 주의</strong>: 재건축 진행 중인 구역 내 방문 시 현장 상황에 따라 진입이 제한될 수 있습니다.</li>
   </ul>
   <p>
-    이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지,
-    이용 방법 전반은 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
+    이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지,
+    이용 방법 전반은 <a href="/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
     방문 전 준비해야 할 환경 조건과 예약 시 필요한 정보를 안내 페이지에서 상세히 안내드립니다.
   </p>
 </section>
@@ -435,17 +435,17 @@ _sangok_dong_body = """
 <section>
   <h2>산곡동 인접 지역 연결 정보</h2>
   <p>
-    산곡동 북부는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>과 경계를 맞대고 있으며,
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>도 동쪽에 가깝게 위치합니다.
-    서쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>과 연결되며,
-    <a href="/incheon/station/seongnam-station/">석남역</a>까지 차량으로 10분 내외입니다.
-    남동쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>이 이어지고,
-    <a href="/incheon/station/bupyeong-station/">부평역</a>까지 차량 또는 전철로 이동이 가능합니다.
+    산곡동 북부는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>과 경계를 맞대고 있으며,
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a>도 동쪽에 가깝게 위치합니다.
+    서쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>과 연결되며,
+    <a href="/station/seongnam-station/">석남역</a>까지 차량으로 10분 내외입니다.
+    남동쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>이 이어지고,
+    <a href="/station/bupyeong-station/">부평역</a>까지 차량 또는 전철로 이동이 가능합니다.
   </p>
   <p>
-    산곡동에서 계양구 방면으로는 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>이
+    산곡동에서 계양구 방면으로는 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>이
     가장 가까운 인접 지역으로, 차량으로 15분 내외면 이동이 가능합니다.
-    서구 방면으로는 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>과도 연결됩니다.
+    서구 방면으로는 <a href="/seo-gu/gajeong-dong/">가정동</a>과도 연결됩니다.
   </p>
 </section>
 
@@ -455,8 +455,8 @@ _sangok_dong_body = """
     간다GO가 수집하는 개인정보는 방문 서비스 제공 목적으로만 사용되며,
     법령이 정한 기간 이후에는 안전하게 파기됩니다. 제3자 제공은 원칙적으로 하지 않으며
     예외 사항은 개인정보처리방침에 명시되어 있습니다.
-    세부 처리 방침은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
-    예약 절차와 이용 방법은 <a href="/incheon/reservation/">예약 안내</a>에서 안내해 드립니다.
+    세부 처리 방침은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    예약 절차와 이용 방법은 <a href="/reservation/">예약 안내</a>에서 안내해 드립니다.
   </p>
   <p>
     산곡동이 위치한 부평구의 행정 정보는
@@ -493,8 +493,8 @@ _cheongcheon_dong_body = """
     정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 문의해 주세요.
   </p>
   <p>
-    청천동은 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>의 핵심 구성 지역이며,
-    <a href="/incheon/bupyeong-gu/">부평구</a> 내에서 계양구와 경계를 접하는 북단에 위치합니다.
+    청천동은 <a href="/life/sangok-cheongcheon/">산곡·청천 생활권</a>의 핵심 구성 지역이며,
+    <a href="/bupyeong-gu/">부평구</a> 내에서 계양구와 경계를 접하는 북단에 위치합니다.
     두 구의 생활권이 교차하는 지점인 만큼 계양구 방문 수요와 연계 운영이 가능합니다.
   </p>
   <p>
@@ -509,22 +509,22 @@ _cheongcheon_dong_body = """
 <section>
   <h2>산곡·갈산 인접 생활권 특성</h2>
   <p>
-    청천동은 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a> 북쪽에 바로 인접하며,
+    청천동은 <a href="/bupyeong-gu/sangok-dong/">산곡동</a> 북쪽에 바로 인접하며,
     갈산역 생활권과도 연결됩니다. 갈산로·청천로 등 주요 생활 도로가 단지들을 가로지르며
     이동 접근성을 높여 줍니다. 계양구 효성동과도 지근 거리에 있어 계양 방면 방문 수요와
     함께 연계 운영이 가능합니다.
   </p>
   <p>
-    청천동 동쪽으로는 <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>이 이어지며,
+    청천동 동쪽으로는 <a href="/bupyeong-gu/samsan-dong/">삼산동</a>이 이어지며,
     삼산체육관역 생활권과 자연스럽게 연결됩니다.
-    <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역</a>도 차량으로
+    <a href="/station/bupyeong-gu-office-station/">부평구청역</a>도 차량으로
     10분 내외 거리에 있어 부평구청 생활권 이용이 편리합니다.
     청천동 주민들은 삼산동 상권을 함께 이용하는 경우가 많습니다.
   </p>
   <p>
     굴포천을 따라 이어지는 자전거 도로와 산책로는 청천동 일대의 생활 환경을 쾌적하게 만드는
     주요 인프라입니다. 이러한 환경 덕분에 청천동은 주거 선호도가 높은 지역 중 하나입니다.
-    계양구 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>과 접경하는 북쪽 지역은
+    계양구 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>과 접경하는 북쪽 지역은
     두 구 경계를 활용한 광역 이동 수요가 존재합니다.
   </p>
 </section>
@@ -540,8 +540,8 @@ _cheongcheon_dong_body = """
     <li><strong>당일 예약</strong>: 당일 예약은 담당자 배정 상황에 따라 가능 여부가 결정되므로 조기 문의를 권장합니다.</li>
   </ul>
   <p>
-    이용 전 점검 사항은 <a href="/incheon/check/">이용 전 확인사항</a>에서,
-    전반적인 서비스 안내는 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    이용 전 점검 사항은 <a href="/check/">이용 전 확인사항</a>에서,
+    전반적인 서비스 안내는 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
     방문형 서비스를 처음 이용하시는 분들을 위한 상세한 안내가 두 페이지 모두에 수록되어 있습니다.
   </p>
 </section>
@@ -549,17 +549,17 @@ _cheongcheon_dong_body = """
 <section>
   <h2>청천동 인접 지역 연결 정보</h2>
   <p>
-    청천동 남쪽으로는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>과
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>이 연결됩니다.
-    북쪽으로는 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>이 인접해 있으며,
+    청천동 남쪽으로는 <a href="/bupyeong-gu/sangok-dong/">산곡동</a>과
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a>이 연결됩니다.
+    북쪽으로는 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>이 인접해 있으며,
     계양구 방면으로 이동이 가능합니다.
-    서쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a> 방향으로
-    이어지며, <a href="/incheon/seo-gu/">서구</a> 경계와도 가깝습니다.
-    동쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>으로 연결되어
+    서쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a> 방향으로
+    이어지며, <a href="/seo-gu/">서구</a> 경계와도 가깝습니다.
+    동쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>으로 연결되어
     부평 중심 상권 이용도 편리합니다.
   </p>
   <p>
-    청천동에서 계양구 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>까지도
+    청천동에서 계양구 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>까지도
     차량으로 15분 내외면 이동이 가능합니다.
   </p>
 </section>
@@ -569,8 +569,8 @@ _cheongcheon_dong_body = """
   <p>
     간다GO는 서비스 예약 과정에서 수집하는 고객 정보를 목적 달성 후 즉시 파기하며,
     제3자에게 제공하지 않습니다. 청천동 방문 예약과 관련해 수집되는 정보의 처리 기준은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>을 참고해 주세요.
-    예약 문의 및 이용 방법은 <a href="/incheon/reservation/">예약 안내</a> 페이지를 통해 확인할 수 있습니다.
+    <a href="/support/privacy/">개인정보처리방침</a>을 참고해 주세요.
+    예약 문의 및 이용 방법은 <a href="/reservation/">예약 안내</a> 페이지를 통해 확인할 수 있습니다.
     개인정보는 예약 완료 및 서비스 제공 목적에만 사용되며, 목적 종료 후 즉시 파기됩니다.
   </p>
   <p>
@@ -607,8 +607,8 @@ _gyesan_dong_body = """
     함께 아우릅니다. 정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 확인해 주세요.
   </p>
   <p>
-    계산동은 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>의 중심 지역이며,
-    <a href="/incheon/gyeyang-gu/">계양구</a> 남부의 대표적인 주거 밀집 지역입니다.
+    계산동은 <a href="/life/gyesan-jakjeon/">계산·작전 생활권</a>의 중심 지역이며,
+    <a href="/gyeyang-gu/">계양구</a> 남부의 대표적인 주거 밀집 지역입니다.
     계산택지지구는 1990년대 조성된 신도시형 주거 단지로, 넓은 도로와 풍부한 녹지가
     쾌적한 생활 환경을 만들고 있습니다.
   </p>
@@ -630,10 +630,10 @@ _gyesan_dong_body = """
     방문형 서비스 이용 시 접근이 편리합니다.
   </p>
   <p>
-    <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>은 계산동 동쪽에 바로 인접하며,
+    <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>은 계산동 동쪽에 바로 인접하며,
     작전역 생활권과 함께 계양구 남부 광역 생활권을 형성합니다.
-    서쪽으로는 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>이 연결됩니다.
-    계산동에서 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>까지
+    서쪽으로는 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>이 연결됩니다.
+    계산동에서 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>까지
     차량으로 약 15분, 전철로는 30분 내외 소요됩니다.
   </p>
   <p>
@@ -655,8 +655,8 @@ _gyesan_dong_body = """
     <li><strong>학원가 인근 주차</strong>: 경인교대입구역 근처 학원가 밀집 구역은 저녁 시간대 주차가 어려울 수 있으니 확인이 필요합니다.</li>
   </ul>
   <p>
-    이용 전 체크리스트는 <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서,
-    서비스 이용 흐름은 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    이용 전 체크리스트는 <a href="/check/">이용 전 확인사항</a> 페이지에서,
+    서비스 이용 흐름은 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
     계산동에서 처음 방문형 서비스를 이용하시는 분들을 위해 예약부터 방문까지의 절차를
     안내 페이지에서 순서대로 설명하고 있습니다.
   </p>
@@ -665,16 +665,16 @@ _gyesan_dong_body = """
 <section>
   <h2>계산동 인접 지역 연결 정보</h2>
   <p>
-    계산동 동쪽으로는 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>이 인접하며,
-    서쪽으로는 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>이 연결됩니다.
-    남쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>·
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a> 방향으로 이어지며,
-    <a href="/incheon/station/bupyeong-station/">부평역</a>까지 차량으로 15분 내외입니다.
-    북쪽으로는 <a href="/incheon/station/gyeyang-station/">계양역</a> 방향의
+    계산동 동쪽으로는 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>이 인접하며,
+    서쪽으로는 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>이 연결됩니다.
+    남쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>·
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a> 방향으로 이어지며,
+    <a href="/station/bupyeong-station/">부평역</a>까지 차량으로 15분 내외입니다.
+    북쪽으로는 <a href="/station/gyeyang-station/">계양역</a> 방향의
     계양구 북부 지역과 연결됩니다.
   </p>
   <p>
-    계산동에서 부평구 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>까지도
+    계산동에서 부평구 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>까지도
     차량으로 20분 내외 거리입니다.
   </p>
 </section>
@@ -684,8 +684,8 @@ _gyesan_dong_body = """
   <p>
     간다GO는 예약 시 수집하는 성함·연락처 등의 정보를 서비스 제공 목적에만 한정하여 사용하며,
     이후 안전하게 파기합니다. 개인정보 처리에 관한 전반적인 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
-    예약 방법 및 절차는 <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
+    예약 방법 및 절차는 <a href="/reservation/">예약 안내</a> 페이지를 참고하세요.
     고객의 개인정보 보호는 간다GO 서비스 운영의 기본 원칙 중 하나입니다.
   </p>
   <p>
@@ -724,8 +724,8 @@ _jakjeon_dong_body = """
     방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 미리 확인해 주세요.
   </p>
   <p>
-    작전동은 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>을 구성하는 핵심 지역이며,
-    <a href="/incheon/gyeyang-gu/">계양구</a> 내 가장 유동 인구가 많은 상권 중 하나입니다.
+    작전동은 <a href="/life/gyesan-jakjeon/">계산·작전 생활권</a>을 구성하는 핵심 지역이며,
+    <a href="/gyeyang-gu/">계양구</a> 내 가장 유동 인구가 많은 상권 중 하나입니다.
     대형 마트와 의료 시설이 집중되어 있어 지역 거주자의 생활 편의성이 높습니다.
   </p>
   <p>
@@ -746,15 +746,15 @@ _jakjeon_dong_body = """
     주거 지역은 작전주공·코오롱·현대아이파크 등 다양한 브랜드 아파트 단지들이 분포해 있습니다.
   </p>
   <p>
-    <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a>은 작전역에서 1~2정거장 거리로 가까우며,
-    <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>은 작전역 서측에 바로 인접합니다.
-    남쪽으로는 <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>과
-    <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>이 위치합니다.
+    <a href="/gyeyang-gu/gyesan-dong/">계산동</a>은 작전역에서 1~2정거장 거리로 가까우며,
+    <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>은 작전역 서측에 바로 인접합니다.
+    남쪽으로는 <a href="/bupyeong-gu/samsan-dong/">삼산동</a>과
+    <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>이 위치합니다.
     작전동 상권은 계양구 내에서 주민들이 가장 많이 이용하는 생활 상권으로 손꼽힙니다.
   </p>
   <p>
     작전동 북동쪽으로 계양구청 방면으로 이동하면 계양구의 행정 중심지와 연결되며,
-    <a href="/incheon/station/gyeyang-station/">계양역</a> 생활권으로도 이어집니다.
+    <a href="/station/gyeyang-station/">계양역</a> 생활권으로도 이어집니다.
     경인고속도로와의 접근성 덕분에 서울 방면 이동도 수월하여 다양한 생활 패턴을 가진 거주자들이 많습니다.
   </p>
 </section>
@@ -770,8 +770,8 @@ _jakjeon_dong_body = """
     <li><strong>방문지 공간 확보</strong>: 소형 오피스텔이나 원룸은 매트 설치 공간이 협소할 수 있으므로 방문 전 확인이 필요합니다.</li>
   </ul>
   <p>
-    이용 전 체크사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지와
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 통해 확인하세요.
+    이용 전 체크사항은 <a href="/check/">이용 전 확인사항</a> 페이지와
+    <a href="/guide/">홈타이 이용 가이드</a>를 통해 확인하세요.
     처음 이용하시는 분들도 안내 페이지를 먼저 살펴보시면 방문 전 준비를 효율적으로 하실 수 있습니다.
   </p>
 </section>
@@ -779,15 +779,15 @@ _jakjeon_dong_body = """
 <section>
   <h2>작전동 인접 지역 연결 정보</h2>
   <p>
-    작전동 서쪽으로는 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a>이 바로 이어지며,
-    동쪽으로는 <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a>이 인접합니다.
-    남쪽으로는 <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>과
-    <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a> 방향으로 연결됩니다.
-    북쪽으로는 <a href="/incheon/station/gyeyang-station/">계양역</a> 생활권과
+    작전동 서쪽으로는 <a href="/gyeyang-gu/hyoseong-dong/">효성동</a>이 바로 이어지며,
+    동쪽으로는 <a href="/gyeyang-gu/gyesan-dong/">계산동</a>이 인접합니다.
+    남쪽으로는 <a href="/bupyeong-gu/samsan-dong/">삼산동</a>과
+    <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a> 방향으로 연결됩니다.
+    북쪽으로는 <a href="/station/gyeyang-station/">계양역</a> 생활권과
     이어지는 계양구 중부 지역입니다.
   </p>
   <p>
-    부평구 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>까지는 차량으로 20분 내외이며,
+    부평구 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>까지는 차량으로 20분 내외이며,
     경인고속도로를 이용하면 더욱 빠른 광역 이동이 가능합니다.
   </p>
 </section>
@@ -797,8 +797,8 @@ _jakjeon_dong_body = """
   <p>
     간다GO는 예약 시 수집되는 고객 정보를 관련 법령에 따라 보호하고 있으며,
     서비스 목적 외의 용도로 활용하지 않습니다. 작전동 방문 예약과 관련된 개인정보 처리
-    세부 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
-    예약 방법은 <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고해 주세요.
+    세부 사항은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
+    예약 방법은 <a href="/reservation/">예약 안내</a> 페이지를 참고해 주세요.
     고객 정보는 예약 목적 이외에는 절대 활용되지 않습니다.
   </p>
   <p>
@@ -836,8 +836,8 @@ _hyoseong_dong_body = """
     정확한 방문 가능 여부는 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요.
   </p>
   <p>
-    효성동은 <a href="/incheon/gyeyang-gu/">계양구</a> 내 조용하고 안정적인 주거 환경으로
-    알려진 지역으로, <a href="/incheon/bupyeong-gu/">부평구</a> 청천동과 직접 경계를 맞대고 있습니다.
+    효성동은 <a href="/gyeyang-gu/">계양구</a> 내 조용하고 안정적인 주거 환경으로
+    알려진 지역으로, <a href="/bupyeong-gu/">부평구</a> 청천동과 직접 경계를 맞대고 있습니다.
     두 구의 주거 환경이 연속적으로 이어지는 지역 특성상 부평·계양 두 구 생활권을 함께
     이용하는 주민들도 많습니다.
   </p>
@@ -860,14 +860,14 @@ _hyoseong_dong_body = """
     단지 내 주차 공간이 확보되어 있어 방문형 서비스 이용이 비교적 수월합니다.
   </p>
   <p>
-    동쪽으로는 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>이 인접하며,
-    남동쪽으로는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>이 바로 연결됩니다.
-    <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a>은 효성동 북동쪽에 위치합니다.
+    동쪽으로는 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>이 인접하며,
+    남동쪽으로는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>이 바로 연결됩니다.
+    <a href="/gyeyang-gu/gyesan-dong/">계산동</a>은 효성동 북동쪽에 위치합니다.
     효성동에서 부평구 방면으로 이동 시 청천동을 거쳐 이어지는 도로를 주로 이용합니다.
   </p>
   <p>
-    효성동 서측으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>이 이어지며,
-    <a href="/incheon/seo-gu/">서구</a> 방면과도 연결됩니다. 이 지역까지의 이동도
+    효성동 서측으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>이 이어지며,
+    <a href="/seo-gu/">서구</a> 방면과도 연결됩니다. 이 지역까지의 이동도
     사전 문의를 통해 협의가 가능합니다.
     효성동은 지하철역 이용보다 버스와 차량 이동이 생활의 주를 이루는 지역으로,
     대중교통 이용 시 작전역·계산역 방면 버스 노선을 주로 활용합니다.
@@ -885,8 +885,8 @@ _hyoseong_dong_body = """
     <li><strong>차량 진입 경로</strong>: 외부에서 효성동으로 진입할 때 간선 도로와 이면도로 경로가 혼재하므로 정확한 주소 안내가 중요합니다.</li>
   </ul>
   <p>
-    이용 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>에서,
-    전반적인 서비스 흐름은 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    이용 전 준비 사항은 <a href="/check/">이용 전 확인사항</a>에서,
+    전반적인 서비스 흐름은 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
     안내 페이지를 통해 예약 단계부터 방문 완료까지 전체 흐름을 미리 파악해 두시면 좋습니다.
   </p>
 </section>
@@ -894,19 +894,19 @@ _hyoseong_dong_body = """
 <section>
   <h2>효성동 인접 지역 연결 정보</h2>
   <p>
-    효성동 동쪽으로는 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동</a>과
-    <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a>이 연결됩니다.
-    남쪽 방향으로는 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동</a>·
-    <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>이 인접해 있으며,
-    <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동</a>과도 차량으로 15분 이내 거리입니다.
-    서쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>과
-    <a href="/incheon/seo-gu/">서구</a> 경계가 이어집니다.
-    <a href="/incheon/station/gyeyang-station/">계양역</a> 방향의 계양구 북부 지역까지도
+    효성동 동쪽으로는 <a href="/gyeyang-gu/jakjeon-dong/">작전동</a>과
+    <a href="/gyeyang-gu/gyesan-dong/">계산동</a>이 연결됩니다.
+    남쪽 방향으로는 <a href="/bupyeong-gu/cheongcheon-dong/">청천동</a>·
+    <a href="/bupyeong-gu/sangok-dong/">산곡동</a>이 인접해 있으며,
+    <a href="/bupyeong-gu/samsan-dong/">삼산동</a>과도 차량으로 15분 이내 거리입니다.
+    서쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>과
+    <a href="/seo-gu/">서구</a> 경계가 이어집니다.
+    <a href="/station/gyeyang-station/">계양역</a> 방향의 계양구 북부 지역까지도
     차량으로 이동이 가능합니다.
   </p>
   <p>
-    효성동에서 부평구 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>까지는
-    차량으로 약 20분 소요되며, 서구 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>과도
+    효성동에서 부평구 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>까지는
+    차량으로 약 20분 소요되며, 서구 <a href="/seo-gu/gajeong-dong/">가정동</a>과도
     인접한 위치입니다.
   </p>
 </section>
@@ -917,8 +917,8 @@ _hyoseong_dong_body = """
     간다GO는 예약 과정에서 취득한 개인정보를 관련 법령에 따라 안전하게 처리하며,
     서비스 제공 목적 이외의 용도로 활용하지 않습니다. 수집한 정보는 보유 기간 만료 후
     즉시 파기되며, 제3자 제공은 원칙적으로 이루어지지 않습니다.
-    처리 기준 전반은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
-    예약 절차와 이용 안내는 <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고해 주세요.
+    처리 기준 전반은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인해 주세요.
+    예약 절차와 이용 안내는 <a href="/reservation/">예약 안내</a> 페이지를 참고해 주세요.
     효성동 방문 예약을 처음 진행하시는 분들도 예약 안내 페이지를 통해 쉽게 절차를 파악하실 수 있습니다.
   </p>
   <p>
@@ -935,74 +935,74 @@ _hyoseong_dong_body = """
 PAGES = [
     # 1. 부평동
     create_page(
-        path="incheon/bupyeong-gu/bupyeong-dong/",
+        path="bupyeong-gu/bupyeong-dong/",
         title="부평동 출장마사지｜부평역·부평시장 생활권 안내",
         desc="부평동 출장마사지 예약 전 부평역·부평시장역·부평구청역·부평문화의거리 생활권을 확인하세요.",
         h1="부평동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("부평구", "/incheon/bupyeong-gu/"), ("부평동", "")],
+        breadcrumb=[("인천", "/"), ("부평구", "/bupyeong-gu/"), ("부평동", "")],
         body_content=_bupyeong_dong_body,
     ),
     # 2. 부개동
     create_page(
-        path="incheon/bupyeong-gu/bugae-dong/",
+        path="bupyeong-gu/bugae-dong/",
         title="부개동 출장마사지｜부개역·부평 인접 생활권 안내",
         desc="부개동 출장마사지 예약 전 부개역 주변 주거 단지와 부평 인접 생활권 방문 가능 여부를 확인하세요.",
         h1="부개동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("부평구", "/incheon/bupyeong-gu/"), ("부개동", "")],
+        breadcrumb=[("인천", "/"), ("부평구", "/bupyeong-gu/"), ("부개동", "")],
         body_content=_bugae_dong_body,
     ),
     # 3. 삼산동
     create_page(
-        path="incheon/bupyeong-gu/samsan-dong/",
+        path="bupyeong-gu/samsan-dong/",
         title="삼산동 출장마사지｜삼산체육관역·부평구청 생활권 안내",
         desc="삼산동 출장마사지 예약 전 삼산체육관역·갈산역·부평구청 인접 생활권 방문 범위를 확인하세요.",
         h1="삼산동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("부평구", "/incheon/bupyeong-gu/"), ("삼산동", "")],
+        breadcrumb=[("인천", "/"), ("부평구", "/bupyeong-gu/"), ("삼산동", "")],
         body_content=_samsan_dong_body,
     ),
     # 4. 산곡동
     create_page(
-        path="incheon/bupyeong-gu/sangok-dong/",
+        path="bupyeong-gu/sangok-dong/",
         title="산곡동 출장마사지｜산곡역·청천동 생활권 안내",
         desc="산곡동 출장마사지 예약 전 산곡역·청천동 인접 생활권 방문 가능 여부와 확인사항을 살펴보세요.",
         h1="산곡동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("부평구", "/incheon/bupyeong-gu/"), ("산곡동", "")],
+        breadcrumb=[("인천", "/"), ("부평구", "/bupyeong-gu/"), ("산곡동", "")],
         body_content=_sangok_dong_body,
     ),
     # 5. 청천동
     create_page(
-        path="incheon/bupyeong-gu/cheongcheon-dong/",
+        path="bupyeong-gu/cheongcheon-dong/",
         title="청천동 출장마사지｜산곡·갈산 인접 생활권 안내",
         desc="청천동 출장마사지 예약 전 산곡·갈산 인접 생활권의 방문 가능 범위와 확인사항을 안내합니다.",
         h1="청천동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("부평구", "/incheon/bupyeong-gu/"), ("청천동", "")],
+        breadcrumb=[("인천", "/"), ("부평구", "/bupyeong-gu/"), ("청천동", "")],
         body_content=_cheongcheon_dong_body,
     ),
     # 6. 계산동
     create_page(
-        path="incheon/gyeyang-gu/gyesan-dong/",
+        path="gyeyang-gu/gyesan-dong/",
         title="계산동 출장마사지｜계산역·작전동 인접권 안내",
         desc="계산동 출장마사지 예약 전 계산역·경인교대입구역·작전동 인접 생활권을 확인하세요.",
         h1="계산동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("계양구", "/incheon/gyeyang-gu/"), ("계산동", "")],
+        breadcrumb=[("인천", "/"), ("계양구", "/gyeyang-gu/"), ("계산동", "")],
         body_content=_gyesan_dong_body,
     ),
     # 7. 작전동
     create_page(
-        path="incheon/gyeyang-gu/jakjeon-dong/",
+        path="gyeyang-gu/jakjeon-dong/",
         title="작전동 출장마사지｜작전역·계산동 생활권 안내",
         desc="작전동 출장마사지 예약 전 작전역·계산·효성 인접 생활권 방문 가능 여부를 확인하세요.",
         h1="작전동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("계양구", "/incheon/gyeyang-gu/"), ("작전동", "")],
+        breadcrumb=[("인천", "/"), ("계양구", "/gyeyang-gu/"), ("작전동", "")],
         body_content=_jakjeon_dong_body,
     ),
     # 8. 효성동
     create_page(
-        path="incheon/gyeyang-gu/hyoseong-dong/",
+        path="gyeyang-gu/hyoseong-dong/",
         title="효성동 출장마사지｜작전·계산 인접 생활권 안내",
         desc="효성동 출장마사지 예약 전 작전·계산 인접 차량 이동권 방문 가능 여부와 확인사항을 안내합니다.",
         h1="효성동 출장마사지·홈타이 안내",
-        breadcrumb=[("인천", "/incheon/"), ("계양구", "/incheon/gyeyang-gu/"), ("효성동", "")],
+        breadcrumb=[("인천", "/"), ("계양구", "/gyeyang-gu/"), ("효성동", "")],
         body_content=_hyoseong_dong_body,
     ),
 ]

@@ -25,21 +25,21 @@ _cheongna_body = """
 
 <section>
 <h2>청라국제도시역과 주변 교통 환경</h2>
-<p><a href="/incheon/station/cheongna-international-city-station/">청라국제도시역</a>은 인천도시철도 2호선의 주요 역으로, 역 주변으로 대형 쇼핑몰과 오피스텔이 밀집해 있습니다. 인천광역시가 계획한 청라국제도시는 약 5만 8천 세대 규모의 주거 인프라를 갖추고 있으며, 청라 호수공원을 중심으로 생활편의 시설이 고르게 분포해 있습니다.</p>
+<p><a href="/station/cheongna-international-city-station/">청라국제도시역</a>은 인천도시철도 2호선의 주요 역으로, 역 주변으로 대형 쇼핑몰과 오피스텔이 밀집해 있습니다. 인천광역시가 계획한 청라국제도시는 약 5만 8천 세대 규모의 주거 인프라를 갖추고 있으며, 청라 호수공원을 중심으로 생활편의 시설이 고르게 분포해 있습니다.</p>
 <p>도로 환경도 잘 정비되어 있어 차량을 이용한 이동이 편리합니다. 청라 커낼웨이·호수공원 동측 단지·서측 단지 등 구역이 넓기 때문에 예약 시 구체적인 주소를 미리 공유하시면 방문 시간을 정확하게 안내드릴 수 있습니다.</p>
-<p>인접 역세권 정보는 <a href="/incheon/station/geomam-station/">검암역</a>과 <a href="/incheon/station/gajeong-station/">가정역</a> 페이지를 함께 참고하세요.</p>
+<p>인접 역세권 정보는 <a href="/station/geomam-station/">검암역</a>과 <a href="/station/gajeong-station/">가정역</a> 페이지를 함께 참고하세요.</p>
 </section>
 
 <section>
 <h2>청라국제도시 주요 아파트·오피스텔 단지</h2>
 <p>청라국제도시 내 주요 거주지는 커낼웨이 주변 초고층 오피스텔, 청라 힐스테이트, 청라 롯데캐슬, e편한세상 청라 등 대형 브랜드 아파트가 주축을 이루고 있습니다. 각 단지는 내부 보안 시스템이 철저하며, 방문 전 관리사무소 방문 등록 여부를 확인하시는 것이 좋습니다.</p>
-<p>오피스텔 이용 고객분들은 프런트 데스크 운영 시간과 방문자 안내 절차가 다를 수 있으므로, 예약 전 건물 출입 방식을 먼저 안내해 주시기 바랍니다. <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서 공통 체크리스트를 확인하실 수 있습니다.</p>
+<p>오피스텔 이용 고객분들은 프런트 데스크 운영 시간과 방문자 안내 절차가 다를 수 있으므로, 예약 전 건물 출입 방식을 먼저 안내해 주시기 바랍니다. <a href="/check/">이용 전 확인사항</a> 페이지에서 공통 체크리스트를 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>청라 인접 지역 — 검암·가정·루원 연계 안내</h2>
-<p>청라국제도시와 경계를 마주하는 인접 지역으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>, <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>, <a href="/incheon/seo-gu/luwon-area/">루원시티</a>가 있습니다. 청라에서 가정로를 따라 남쪽으로 이동하면 루원시티·가정역 생활권과 연결되며, 서쪽으로는 아라뱃길을 경계로 검암동과 이어집니다.</p>
-<p>또한 청라 서쪽의 <a href="/incheon/seo-gu/geomdan-area/">검단 지역</a>은 청라와 생활권이 일부 겹치는 신도시 지역입니다. 서구 전체 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
+<p>청라국제도시와 경계를 마주하는 인접 지역으로는 <a href="/seo-gu/geomam-dong/">검암동</a>, <a href="/seo-gu/gajeong-dong/">가정동</a>, <a href="/seo-gu/luwon-area/">루원시티</a>가 있습니다. 청라에서 가정로를 따라 남쪽으로 이동하면 루원시티·가정역 생활권과 연결되며, 서쪽으로는 아라뱃길을 경계로 검암동과 이어집니다.</p>
+<p>또한 청라 서쪽의 <a href="/seo-gu/geomdan-area/">검단 지역</a>은 청라와 생활권이 일부 겹치는 신도시 지역입니다. 서구 전체 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
 <p>청라국제도시의 주거·업무 환경에 대한 공식 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 
@@ -50,16 +50,16 @@ _cheongna_body = """
 <li>방문 가능 주소 (동명·동호수) 사전 안내</li>
 <li>건물 보안 및 방문자 등록 절차 확인</li>
 <li>예약 가능 시간대 사전 조율</li>
-<li>개인정보 처리 기준 확인 — <a href="/incheon/support/privacy/">개인정보처리방침</a> 참조</li>
+<li>개인정보 처리 기준 확인 — <a href="/support/privacy/">개인정보처리방침</a> 참조</li>
 </ul>
-<p><a href="/incheon/life/cheongna-international-city/">청라국제도시 생활권</a> 페이지에서 더 넓은 범위의 안내를 확인하실 수 있으며, 예약 전 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 먼저 읽어보시기를 권장합니다.</p>
+<p><a href="/life/cheongna-international-city/">청라국제도시 생활권</a> 페이지에서 더 넓은 범위의 안내를 확인하실 수 있으며, 예약 전 <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>를 먼저 읽어보시기를 권장합니다.</p>
 </section>
 
 <section>
 <h2>청라 생활권 주요 상권·도로·공공시설</h2>
 <p>청라국제도시를 남북으로 가로지르는 청라커낼로와 장고개로는 단지 내 주요 간선 도로로, 차량 이동 시 기준이 됩니다. 단지 서측에 위치한 이마트 청라점과 홈플러스 청라점, 스타필드 청라(예정) 등 대형 상권이 형성되어 있어 주거 편의성이 높습니다. 청라국제도시 남부에는 인천청라병원·청라중학교·청라초등학교 등 공공·교육시설이 분포합니다.</p>
-<p>호수공원 주변은 산책로와 수변 공원이 잘 갖춰져 있어 생활환경이 쾌적하며, 공원 인근 오피스텔 단지는 관광객·단기 체류자 이용도 많습니다. 청라 생활권 내 <a href="/incheon/seo-gu/geomam-dong/">검암·아라 생활권</a>과 <a href="/incheon/station/cheongna-international-city-station/">청라국제도시역 역세권</a>은 출퇴근 수요가 높은 지역으로, 평일 오전·저녁 시간대 방문 예약 시 혼잡도를 고려한 일정 조율이 필요합니다.</p>
-<p>청라 생활권 통합 안내는 <a href="/incheon/life/cheongna-international-city/">청라국제도시 생활권</a> 페이지를 참고하시고, 서구 전반 정보는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지에서 확인하실 수 있습니다. 인접 <a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a>와 <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a> 안내도 함께 확인하세요.</p>
+<p>호수공원 주변은 산책로와 수변 공원이 잘 갖춰져 있어 생활환경이 쾌적하며, 공원 인근 오피스텔 단지는 관광객·단기 체류자 이용도 많습니다. 청라 생활권 내 <a href="/seo-gu/geomam-dong/">검암·아라 생활권</a>과 <a href="/station/cheongna-international-city-station/">청라국제도시역 역세권</a>은 출퇴근 수요가 높은 지역으로, 평일 오전·저녁 시간대 방문 예약 시 혼잡도를 고려한 일정 조율이 필요합니다.</p>
+<p>청라 생활권 통합 안내는 <a href="/life/cheongna-international-city/">청라국제도시 생활권</a> 페이지를 참고하시고, 서구 전반 정보는 <a href="/seo-gu/">인천 서구</a> 페이지에서 확인하실 수 있습니다. 인접 <a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a>와 <a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a> 안내도 함께 확인하세요.</p>
 </section>
 
 <section>
@@ -69,11 +69,11 @@ _cheongna_body = """
 """
 
 p_cheongna = create_page(
-    path="incheon/seo-gu/cheongna/",
+    path="seo-gu/cheongna/",
     title="청라 출장마사지｜청라국제도시 생활권 안내",
     desc="청라 출장마사지 예약 전 청라국제도시역·커낼웨이·청라 아파트 단지 방문 가능 지역을 확인하세요.",
     h1="청라 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("청라", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("청라", "")],
     body_content=_cheongna_body,
 )
 
@@ -85,12 +85,12 @@ _geomdan_body = """
 <section>
 <h2>검단 출장마사지 — 검단신도시·검단사거리 생활권 안내</h2>
 <p>검단신도시는 인천 서구 서북부에 조성 중인 대규모 2기 신도시로, 완정역·검단사거리역·검단오류역 등 수도권 지하철 5호선 연장 노선이 개통되면서 접근성이 크게 향상되었습니다. <strong>검단 출장마사지</strong> 문의는 검단신도시 아파트 단지와 검단사거리 주변 주거지에서 주로 들어오며, 단지별로 출입 규정이 다를 수 있으므로 예약 전 주소와 함께 건물 출입 방식을 먼저 확인해 주시기 바랍니다.</p>
-<p>인천 서구는 향후 행정구역 개편에 따라 검단구 분리가 예정되어 있어 일부 주소 체계가 변경될 수 있습니다. 정확한 방문 가능 여부와 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 확인하시기 바랍니다. 검단신도시 방문형 관리 서비스 이용 전 <a href="/incheon/check/">이용 전 확인사항</a>도 반드시 확인해 주시기 바랍니다.</p>
+<p>인천 서구는 향후 행정구역 개편에 따라 검단구 분리가 예정되어 있어 일부 주소 체계가 변경될 수 있습니다. 정확한 방문 가능 여부와 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 확인하시기 바랍니다. 검단신도시 방문형 관리 서비스 이용 전 <a href="/check/">이용 전 확인사항</a>도 반드시 확인해 주시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검단신도시 주요 역과 교통 환경</h2>
-<p><a href="/incheon/station/geomdan-sageori-station/">검단사거리역</a>은 검단 생활권의 중심 역으로, 대형 마트·학원가·의료시설이 역 주변에 밀집해 있습니다. <a href="/incheon/station/wanjeong-station/">완정역</a>은 검단신도시 동측 입구 역할을 하며, 기존 인천 도심과의 연결이 편리합니다. <a href="/incheon/station/geomdan-oryu-station/">검단오류역</a>은 신도시 서쪽 방향으로 추가 주거 단지와 이어집니다.</p>
+<p><a href="/station/geomdan-sageori-station/">검단사거리역</a>은 검단 생활권의 중심 역으로, 대형 마트·학원가·의료시설이 역 주변에 밀집해 있습니다. <a href="/station/wanjeong-station/">완정역</a>은 검단신도시 동측 입구 역할을 하며, 기존 인천 도심과의 연결이 편리합니다. <a href="/station/geomdan-oryu-station/">검단오류역</a>은 신도시 서쪽 방향으로 추가 주거 단지와 이어집니다.</p>
 <p>검단신도시 내 도로는 격자형으로 잘 정비되어 있어 차량 이동이 수월하지만, 입주가 진행 중인 단지에서는 일시적으로 주차 여건이 변동될 수 있습니다. 예약 시 방문 예정 단지 명칭을 함께 알려주시면 더욱 정확하게 안내드릴 수 있습니다.</p>
 </section>
 
@@ -98,13 +98,13 @@ _geomdan_body = """
 <h2>검단신도시 아파트 단지별 방문 안내</h2>
 <p>검단신도시는 AB구역·CD구역·EF구역 등 여러 블록으로 나뉘어 단계적으로 입주가 진행되고 있습니다. 브랜드 아파트 단지는 출입 보안이 철저하여 방문 전 동·호수 주소를 정확하게 전달하고 방문자 등록 가능 여부를 사전에 확인하시는 것이 중요합니다.</p>
 <p>마전지구 및 검단 구시가지(검단1·2·3동 일대)는 검단신도시와 별도의 주거 환경을 갖추고 있으며, 빌라·단독주택·소형 오피스텔이 혼재되어 있습니다. 해당 지역 방문 시 구체적인 번지 주소를 미리 알려주시면 방문 가능 여부를 보다 정확하게 안내드릴 수 있습니다.</p>
-<p>이용 전 공통 체크리스트는 <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>이용 전 공통 체크리스트는 <a href="/check/">이용 전 확인사항</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>검단 인접 지역 — 청라·검암·가정 연계</h2>
-<p>검단신도시 동쪽으로는 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>와 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>이 인접해 있으며, 남쪽으로는 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>과 <a href="/incheon/seo-gu/luwon-area/">루원시티</a> 생활권과 연결됩니다. 검단사거리에서 가정로를 이용하면 인천 서구 남부 지역으로 이동이 가능합니다.</p>
-<p>서구 전체 생활권 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를, 검단신도시 생활권 전반 정보는 <a href="/incheon/life/geomdan-newtown/">검단신도시 생활권</a> 페이지를 참고하시기 바랍니다. 인천광역시 행정구역 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
+<p>검단신도시 동쪽으로는 <a href="/seo-gu/cheongna/">청라국제도시</a>와 <a href="/seo-gu/geomam-dong/">검암동</a>이 인접해 있으며, 남쪽으로는 <a href="/seo-gu/gajeong-dong/">가정동</a>과 <a href="/seo-gu/luwon-area/">루원시티</a> 생활권과 연결됩니다. 검단사거리에서 가정로를 이용하면 인천 서구 남부 지역으로 이동이 가능합니다.</p>
+<p>서구 전체 생활권 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를, 검단신도시 생활권 전반 정보는 <a href="/life/geomdan-newtown/">검단신도시 생활권</a> 페이지를 참고하시기 바랍니다. 인천광역시 행정구역 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -114,31 +114,31 @@ _geomdan_body = """
 <li>신규 입주 단지 방문자 등록 가능 여부 확인</li>
 <li>검단사거리역·완정역·검단오류역 인근 여부 안내</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 확인 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 확인 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>예약 전 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 확인하시기 바랍니다.</p>
+<p>예약 전 <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>를 확인하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검단신도시 주요 상권·교육·공공시설</h2>
 <p>검단신도시 내 상업지구는 검단사거리역 주변에 집중되어 있으며, 롯데마트 검단점·이마트 검단점·홈플러스 검단점 등 대형 마트가 입주 단계에 맞춰 순차 개점하고 있습니다. 단지 내 근린상가에는 카페·의원·약국·편의점이 고르게 분포해 있어 생활 편의성이 높아지고 있습니다.</p>
 <p>검단신도시 각 학군별로 초·중학교가 단지와 함께 조성되어 있으며, 검단오류도서관·검단어울림문화센터 등 공공문화시설도 개관하고 있습니다. 완정로·서운로·검단로 등 주요 간선 도로가 격자형으로 정비되어 있어 단지 간 차량 이동이 수월합니다.</p>
-<p>검단신도시와 인접한 <a href="/incheon/seo-gu/cheongna/">청라국제도시 생활권</a>과 <a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a> 페이지도 함께 참고하세요. 검단 생활권 통합 정보는 <a href="/incheon/life/geomdan-newtown/">검단신도시 생활권</a>에서, 인천 서구 전체 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 확인하시기 바랍니다.</p>
+<p>검단신도시와 인접한 <a href="/seo-gu/cheongna/">청라국제도시 생활권</a>과 <a href="/seo-gu/geomam-dong/">검암동 출장마사지</a> 페이지도 함께 참고하세요. 검단 생활권 통합 정보는 <a href="/life/geomdan-newtown/">검단신도시 생활권</a>에서, 인천 서구 전체 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 확인하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검단 방문형 관리 서비스 예약 문의</h2>
 <p>검단신도시·검단사거리 생활권의 방문형 관리 서비스는 사전 예약제로 운영되며, 입주 진행 단지는 방문 가능 여부가 달라질 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다.</p>
-<p>검단신도시와 이어지는 <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 참고하세요. <a href="/incheon/station/geomam-station/">검암역 인근 생활권</a>과 <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a> 안내도 확인하시고, 개인정보 수집·이용 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서, 상세 예약 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 검단신도시 야간 방문은 단지 보안 게이트 운영 시간을 확인하신 후 예약하시기 바랍니다. 검단 지역의 추가 이동비 및 거리 기준도 예약 전 반드시 확인하세요. 검단신도시 행정 및 도시개발 현황 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>검단신도시와 이어지는 <a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 참고하세요. <a href="/station/geomam-station/">검암역 인근 생활권</a>과 <a href="/life/geomam-ara/">검암·아라 생활권</a> 안내도 확인하시고, 개인정보 수집·이용 기준은 <a href="/support/privacy/">개인정보처리방침</a>에서, 상세 예약 절차는 <a href="/reservation/">예약 안내</a>에서 안내드립니다. 검단신도시 야간 방문은 단지 보안 게이트 운영 시간을 확인하신 후 예약하시기 바랍니다. 검단 지역의 추가 이동비 및 거리 기준도 예약 전 반드시 확인하세요. 검단신도시 행정 및 도시개발 현황 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 """
 
 p_geomdan = create_page(
-    path="incheon/seo-gu/geomdan-area/",
+    path="seo-gu/geomdan-area/",
     title="검단 출장마사지｜검단신도시·검단사거리 생활권 안내",
     desc="검단 출장마사지 예약 전 검단신도시·완정역·검단사거리역 방문 가능 지역과 출입 안내를 확인하세요.",
     h1="검단 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("검단", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("검단", "")],
     body_content=_geomdan_body,
 )
 
@@ -149,34 +149,34 @@ p_geomdan = create_page(
 _geomam_body = """
 <section>
 <h2>검암동 출장마사지 — 검암역·아라 생활권 안내</h2>
-<p>검암동은 인천 서구 중북부에 위치한 지역으로, 인천도시철도 2호선과 공항철도(AREX)가 교차하는 <a href="/incheon/station/geomam-station/">검암역</a>을 중심으로 형성된 생활권입니다. <strong>검암동 출장마사지</strong> 관련 문의는 검암역 주변 아파트·오피스텔과 검암경서 지구, 아라뱃길 인근 주거 단지에서 주로 들어옵니다. 방문 가능 주소와 예약 가능 시간을 사전에 확인한 후 예약해 주시면 더욱 원활하게 안내드릴 수 있습니다.</p>
+<p>검암동은 인천 서구 중북부에 위치한 지역으로, 인천도시철도 2호선과 공항철도(AREX)가 교차하는 <a href="/station/geomam-station/">검암역</a>을 중심으로 형성된 생활권입니다. <strong>검암동 출장마사지</strong> 관련 문의는 검암역 주변 아파트·오피스텔과 검암경서 지구, 아라뱃길 인근 주거 단지에서 주로 들어옵니다. 방문 가능 주소와 예약 가능 시간을 사전에 확인한 후 예약해 주시면 더욱 원활하게 안내드릴 수 있습니다.</p>
 <p>공항철도 이용 고객 중 검암역에서 환승하는 경우에는 검암동 주거 생활권과 공항 방면 이동 기준이 달라질 수 있으므로 주소를 명확히 알려주시기 바랍니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검암역과 아라뱃길 주변 환경</h2>
 <p>검암역은 수도권 광역급행철도(공항철도)와 인천 2호선이 교차하는 환승역으로, 서울 도심과 인천공항 양 방향 접근이 모두 편리합니다. 역 주변으로는 검암경서지구 아파트 단지가 형성되어 있으며, 아라뱃길(경인아라뱃길) 북측 제방 인근에는 주거·산업 혼재 지역이 분포합니다.</p>
-<p>아라뱃길 주변은 산책로와 자전거 도로가 잘 갖춰져 있으며, 검암 서쪽으로는 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>와 경계를 이루고, 남쪽으로는 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>과 연결됩니다.</p>
+<p>아라뱃길 주변은 산책로와 자전거 도로가 잘 갖춰져 있으며, 검암 서쪽으로는 <a href="/seo-gu/cheongna/">청라국제도시</a>와 경계를 이루고, 남쪽으로는 <a href="/seo-gu/gajeong-dong/">가정동</a>과 연결됩니다.</p>
 <p>인천 교통 노선 정보는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>검암동 주요 단지 및 방문 경로</h2>
 <p>검암경서지구는 검암동 서쪽에 새롭게 조성된 아파트 단지 밀집 지역으로, 단지 내 보안 시스템과 방문자 등록 절차가 적용됩니다. 검암동 구도심(검암1·2동 일대)은 빌라·저층 주거지가 혼재해 있으며, 골목 구조가 복잡할 수 있습니다.</p>
-<p>방문 예약 시 검암경서지구 단지명, 구도심 지번 주소, 또는 검암역 기준 도보 거리를 함께 알려주시면 방문 경로 안내가 수월해집니다. 이용 전 공통 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>방문 예약 시 검암경서지구 단지명, 구도심 지번 주소, 또는 검암역 기준 도보 거리를 함께 알려주시면 방문 경로 안내가 수월해집니다. 이용 전 공통 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>검암 인접 지역 — 청라·가정·루원 연계</h2>
-<p>검암동 인근에는 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>, <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>, <a href="/incheon/seo-gu/luwon-area/">루원시티</a>가 위치합니다. 검암역에서 2호선을 이용하면 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>·<a href="/incheon/seo-gu/gajeong-dong/">가정동</a>·루원시티 방면으로 빠르게 이동할 수 있습니다.</p>
-<p>서구 전체 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를, 검암·아라 생활권 상세 정보는 <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a> 페이지를 참고하시기 바랍니다.</p>
+<p>검암동 인근에는 <a href="/seo-gu/cheongna/">청라국제도시</a>, <a href="/seo-gu/gajeong-dong/">가정동</a>, <a href="/seo-gu/luwon-area/">루원시티</a>가 위치합니다. 검암역에서 2호선을 이용하면 <a href="/seo-gu/seongnam-dong/">석남동</a>·<a href="/seo-gu/gajeong-dong/">가정동</a>·루원시티 방면으로 빠르게 이동할 수 있습니다.</p>
+<p>서구 전체 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를, 검암·아라 생활권 상세 정보는 <a href="/life/geomam-ara/">검암·아라 생활권</a> 페이지를 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검암동 주요 생활 인프라와 도로 환경</h2>
 <p>검암경서지구에는 이편한세상·검암역 로열파크씨티 등 대규모 브랜드 아파트가 밀집해 있으며, 단지 내 상가와 근린공원이 함께 조성되어 있습니다. 검암역 인근에는 하나로마트와 소형 상가가 자리 잡고 있으며, 공항철도 이용객을 위한 환승 주차장도 운영됩니다.</p>
 <p>검암동을 관통하는 서운로와 원당대로는 청라·검단 방면과 가정·부평 방면을 연결하는 주요 간선 도로입니다. 차량 이용 시 원당대로를 기준으로 단지별 진입로를 확인하시면 방문 경로 안내가 수월합니다. 단지 외곽 아라뱃길 북측은 공업·창고 지역이 혼재해 있어, 주거지와 다른 환경임을 참고하시기 바랍니다.</p>
-<p>검암동에서 북쪽으로는 <a href="/incheon/seo-gu/geomdan-area/">검단신도시</a> 방면과 이어지며, 고속도로(인천국제공항고속도로)를 이용하면 영종도 방면으로의 연결도 가능합니다. 야간 방문의 경우 단지 보안 시스템 운영 상황과 방문자 게이트 운영 시간을 미리 확인하시는 것이 좋습니다.</p>
+<p>검암동에서 북쪽으로는 <a href="/seo-gu/geomdan-area/">검단신도시</a> 방면과 이어지며, 고속도로(인천국제공항고속도로)를 이용하면 영종도 방면으로의 연결도 가능합니다. 야간 방문의 경우 단지 보안 시스템 운영 상황과 방문자 게이트 운영 시간을 미리 확인하시는 것이 좋습니다.</p>
 </section>
 
 <section>
@@ -187,24 +187,24 @@ _geomam_body = """
 <li>아라뱃길 인근 주거지 방문 가능 여부 확인</li>
 <li>공항철도 환승 목적 단기 체류자의 경우 체류 주소 확인 필요</li>
 <li>예약 가능 시간대 사전 조율</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a> 참조</li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a> 참조</li>
 </ul>
-<p>검암동 인근 <a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>, <a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>, <a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 안내도 함께 확인하세요. 검암·아라 생활권 통합 정보는 <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a> 페이지에서 확인하실 수 있으며, 예약 전 <a href="/incheon/reservation/">예약 안내</a> 및 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 먼저 읽어보시기를 권장합니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주시기 바랍니다.</p>
+<p>검암동 인근 <a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>, <a href="/seo-gu/gajeong-dong/">가정동 출장마사지</a>, <a href="/seo-gu/luwon-area/">루원시티 출장마사지</a> 안내도 함께 확인하세요. 검암·아라 생활권 통합 정보는 <a href="/life/geomam-ara/">검암·아라 생활권</a> 페이지에서 확인하실 수 있으며, 예약 전 <a href="/reservation/">예약 안내</a> 및 <a href="/guide/">홈타이 이용 가이드</a>를 먼저 읽어보시기를 권장합니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>검암동 역세권 생활 특성 — 공항철도·2호선 환승 생활권</h2>
-<p>검암역은 인천도시철도 2호선과 공항철도(AREX)가 교차하는 복합 환승역으로, 서울 홍대입구·공덕·김포공항 방면과 인천공항을 연결하는 교통 요지입니다. 검암역에서 2호선을 이용하면 <a href="/incheon/station/gajeong-station/">가정역</a>·<a href="/incheon/station/seongnam-station/">석남역</a>·<a href="/incheon/station/seo-gu-office-station/">서구청역</a> 방면으로 이어지며, 인천 서구 전역을 철도로 이동할 수 있습니다. 공항철도를 이용하면 인천공항 방면과 서울 방면 모두 빠르게 연결됩니다.</p>
-<p>검암동 주거지 방문 시 공항철도 이용 목적인 경우와 인천 도심 거주 목적인 경우 방문 주소와 생활권이 다를 수 있으므로 예약 시 체류 목적과 주소를 명확히 안내해 주시기 바랍니다. 검암동과 경계를 이루는 인접 생활권인 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>·<a href="/incheon/seo-gu/geomdan-area/">검단신도시</a>·<a href="/incheon/seo-gu/gajeong-dong/">가정동</a>·<a href="/incheon/seo-gu/seongnam-dong/">석남동</a> 페이지도 함께 참고하시기 바랍니다. <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a>과 <a href="/incheon/seo-gu/">인천 서구</a> 안내도 확인하세요.</p>
+<p>검암역은 인천도시철도 2호선과 공항철도(AREX)가 교차하는 복합 환승역으로, 서울 홍대입구·공덕·김포공항 방면과 인천공항을 연결하는 교통 요지입니다. 검암역에서 2호선을 이용하면 <a href="/station/gajeong-station/">가정역</a>·<a href="/station/seongnam-station/">석남역</a>·<a href="/station/seo-gu-office-station/">서구청역</a> 방면으로 이어지며, 인천 서구 전역을 철도로 이동할 수 있습니다. 공항철도를 이용하면 인천공항 방면과 서울 방면 모두 빠르게 연결됩니다.</p>
+<p>검암동 주거지 방문 시 공항철도 이용 목적인 경우와 인천 도심 거주 목적인 경우 방문 주소와 생활권이 다를 수 있으므로 예약 시 체류 목적과 주소를 명확히 안내해 주시기 바랍니다. 검암동과 경계를 이루는 인접 생활권인 <a href="/seo-gu/cheongna/">청라국제도시</a>·<a href="/seo-gu/geomdan-area/">검단신도시</a>·<a href="/seo-gu/gajeong-dong/">가정동</a>·<a href="/seo-gu/seongnam-dong/">석남동</a> 페이지도 함께 참고하시기 바랍니다. <a href="/life/geomam-ara/">검암·아라 생활권</a>과 <a href="/seo-gu/">인천 서구</a> 안내도 확인하세요.</p>
 </section>
 """
 
 p_geomam = create_page(
-    path="incheon/seo-gu/geomam-dong/",
+    path="seo-gu/geomam-dong/",
     title="검암동 출장마사지｜검암역·아라 생활권 안내",
     desc="검암동 출장마사지 예약 전 검암역·검암경서지구·아라뱃길 인근 방문 가능 지역을 확인하세요.",
     h1="검암동 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("검암동", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("검암동", "")],
     body_content=_geomam_body,
 )
 
@@ -215,33 +215,33 @@ p_geomam = create_page(
 _gajeong_body = """
 <section>
 <h2>가정동 출장마사지 — 가정역·루원 생활권 안내</h2>
-<p>가정동은 인천 서구 남부의 주거 생활권으로, 인천도시철도 2호선 <a href="/incheon/station/gajeong-station/">가정역</a>과 가정중앙시장역을 중심으로 상업·주거가 혼재된 지역입니다. <strong>가정동 출장마사지</strong>를 문의하시는 분들은 가정동 아파트 단지와 빌라 주거지, 루원시티 주변 주거지에서 많이 연락 주십니다. 방문 가능 지역과 예약 가능 여부를 사전에 확인해 주시면 보다 원활하게 안내드릴 수 있습니다.</p>
+<p>가정동은 인천 서구 남부의 주거 생활권으로, 인천도시철도 2호선 <a href="/station/gajeong-station/">가정역</a>과 가정중앙시장역을 중심으로 상업·주거가 혼재된 지역입니다. <strong>가정동 출장마사지</strong>를 문의하시는 분들은 가정동 아파트 단지와 빌라 주거지, 루원시티 주변 주거지에서 많이 연락 주십니다. 방문 가능 지역과 예약 가능 여부를 사전에 확인해 주시면 보다 원활하게 안내드릴 수 있습니다.</p>
 <p>가정동은 루원시티 개발 이전과 이후의 주거 환경이 혼재하여, 가정1동(구시가지)과 루원시티 신규 단지가 같은 생활권 내에 공존합니다. 예약 시 단지명 또는 도로명 주소를 구체적으로 전달해 주시면 더욱 정확한 안내가 가능합니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>가정역과 가정중앙시장역 주변 환경</h2>
 <p>인천 2호선 가정역 주변은 루원시티 대형 아파트·상업시설과 인접해 있으며, 역세권 도보 이용이 편리한 단지가 많습니다. 가정중앙시장역 일대는 전통 상권과 빌라·저층 주거지가 어우러진 지역으로, 가정중앙시장을 중심으로 골목형 주거지가 형성되어 있습니다.</p>
-<p>두 역 사이의 가정동 구도심은 저층 주거지와 소형 빌라가 밀집해 있어, 주소 전달 시 번지와 건물명을 함께 안내해 주시면 방문이 수월합니다. 가정로를 따라 북쪽으로 이동하면 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>와 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>으로 이어집니다.</p>
+<p>두 역 사이의 가정동 구도심은 저층 주거지와 소형 빌라가 밀집해 있어, 주소 전달 시 번지와 건물명을 함께 안내해 주시면 방문이 수월합니다. 가정로를 따라 북쪽으로 이동하면 <a href="/seo-gu/cheongna/">청라국제도시</a>와 <a href="/seo-gu/geomam-dong/">검암동</a>으로 이어집니다.</p>
 </section>
 
 <section>
 <h2>가정동 주거 환경과 방문 유의사항</h2>
 <p>가정동 내 루원시티 신규 단지는 아파트 단지별 보안 및 방문자 출입 시스템이 구축되어 있으며, 방문 전 동·호수와 방문자 등록 가능 여부를 미리 확인하시기 바랍니다. 구시가지 빌라 주거지는 주차 공간이 협소한 경우가 있으므로 차량 이용 시 사전 안내가 필요합니다.</p>
-<p>이용 전 공통 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하시고, 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하실 수 있습니다. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 안내되어 있습니다.</p>
+<p>이용 전 공통 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하시고, 예약 방법과 절차는 <a href="/reservation/">예약 안내</a> 페이지에서 확인하실 수 있습니다. 개인정보 처리 기준은 <a href="/support/privacy/">개인정보처리방침</a>에 안내되어 있습니다.</p>
 </section>
 
 <section>
 <h2>가정동 인접 지역 — 루원·석남·검암 연계 안내</h2>
-<p>가정동과 맞닿은 <a href="/incheon/seo-gu/luwon-area/">루원시티</a>는 가정역을 공유하는 생활권으로, 두 지역의 주거 시설 일부가 겹치기도 합니다. 남쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>과 인접하며, 서구청역 방면과 연결됩니다. 북쪽으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>과 이어집니다.</p>
-<p>가정동이 속한 서구 전체 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지에서, 루원·가정 통합 생활권 정보는 <a href="/incheon/life/luwon-gajeong/">루원·가정 생활권</a> 페이지에서 확인하실 수 있습니다. 인천광역시 서구 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 조회 가능합니다.</p>
+<p>가정동과 맞닿은 <a href="/seo-gu/luwon-area/">루원시티</a>는 가정역을 공유하는 생활권으로, 두 지역의 주거 시설 일부가 겹치기도 합니다. 남쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>과 인접하며, 서구청역 방면과 연결됩니다. 북쪽으로는 <a href="/seo-gu/geomam-dong/">검암동</a>과 이어집니다.</p>
+<p>가정동이 속한 서구 전체 안내는 <a href="/seo-gu/">인천 서구</a> 페이지에서, 루원·가정 통합 생활권 정보는 <a href="/life/luwon-gajeong/">루원·가정 생활권</a> 페이지에서 확인하실 수 있습니다. 인천광역시 서구 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 조회 가능합니다.</p>
 </section>
 
 <section>
 <h2>가정동 주요 랜드마크·상권·교육시설</h2>
 <p>가정동과 루원시티 일대에는 루원시티 상업가로를 중심으로 카페·음식점·의원·학원이 집중되어 있습니다. 가정중앙시장은 지역 주민의 일상 장보기와 근린 상권이 활성화된 전통 시장으로, 시장 인근은 빌라 밀집 주거지와 맞닿아 있습니다.</p>
-<p>가정초·가정중·가정고 등 학교가 가정동 내에 분포하며, 서구청·서구 문화회관도 가정동 생활권과 가까운 거리에 있습니다. 가정로를 따라 북쪽으로 이동하면 <a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a> 생활권과 이어지며, 남쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a> 방면과 연결됩니다.</p>
-<p>가정동에서 서쪽으로는 <a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 생활권과도 차량으로 연결되며, <a href="/incheon/station/gajeong-station/">가정역</a>을 이용하면 인천 2호선 전 노선을 통해 인천 시내 주요 역세권으로 이동이 가능합니다. 가정동 야간 방문의 경우 구시가지 골목 주거지는 주차 여건이 제한될 수 있으므로 예약 시 차량 이용 여부를 미리 알려주시기 바랍니다.</p>
+<p>가정초·가정중·가정고 등 학교가 가정동 내에 분포하며, 서구청·서구 문화회관도 가정동 생활권과 가까운 거리에 있습니다. 가정로를 따라 북쪽으로 이동하면 <a href="/seo-gu/geomam-dong/">검암동 출장마사지</a> 생활권과 이어지며, 남쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a> 방면과 연결됩니다.</p>
+<p>가정동에서 서쪽으로는 <a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 생활권과도 차량으로 연결되며, <a href="/station/gajeong-station/">가정역</a>을 이용하면 인천 2호선 전 노선을 통해 인천 시내 주요 역세권으로 이동이 가능합니다. 가정동 야간 방문의 경우 구시가지 골목 주거지는 주차 여건이 제한될 수 있으므로 예약 시 차량 이용 여부를 미리 알려주시기 바랍니다.</p>
 </section>
 
 <section>
@@ -252,24 +252,24 @@ _gajeong_body = """
 <li>방문자 등록 및 건물 출입 방식 사전 조율</li>
 <li>루원시티 신규 단지 방문 시 지하 주차장 진입 가능 여부 확인</li>
 <li>예약 가능 시간대 확인</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>루원·가정 생활권 통합 안내는 <a href="/incheon/life/luwon-gajeong/">루원·가정 생활권</a> 페이지를, 서구 전체 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다. 인접 <a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>와 <a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 함께 확인하세요. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 희망 주소와 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
+<p>루원·가정 생활권 통합 안내는 <a href="/life/luwon-gajeong/">루원·가정 생활권</a> 페이지를, 서구 전체 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다. 인접 <a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>와 <a href="/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 함께 확인하세요. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 희망 주소와 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>가정동 생활 인프라와 방문 시 참고사항</h2>
 <p>가정동에는 인천 서구청 인근으로 행정복지센터·보건지소·소방서 등 공공기관이 밀집해 있으며, 가정중앙시장은 신선 식재료와 생활용품을 구입할 수 있는 전통 시장으로 지역민이 자주 이용합니다. 루원시티 상업지구에는 의원·약국·카페·편의점이 고르게 분포해 있어 생활 편의성이 높습니다.</p>
-<p>가정동에서 인접한 서구 생활권을 이어가는 페이지로 <a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a>·<a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>가 있습니다. <a href="/incheon/station/gajeong-station/">가정역 역세권 안내</a>와 <a href="/incheon/life/luwon-gajeong/">루원·가정 생활권</a> 통합 페이지, 그리고 <a href="/incheon/seo-gu/">인천 서구</a> 전체 안내도 함께 확인해 주시기 바랍니다.</p>
+<p>가정동에서 인접한 서구 생활권을 이어가는 페이지로 <a href="/seo-gu/luwon-area/">루원시티 출장마사지</a>·<a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>가 있습니다. <a href="/station/gajeong-station/">가정역 역세권 안내</a>와 <a href="/life/luwon-gajeong/">루원·가정 생활권</a> 통합 페이지, 그리고 <a href="/seo-gu/">인천 서구</a> 전체 안내도 함께 확인해 주시기 바랍니다.</p>
 </section>
 """
 
 p_gajeong = create_page(
-    path="incheon/seo-gu/gajeong-dong/",
+    path="seo-gu/gajeong-dong/",
     title="가정동 출장마사지｜가정역·루원 생활권 안내",
     desc="가정동 출장마사지 예약 전 가정역·가정중앙시장역·루원시티 인근 방문 가능 지역을 확인하세요.",
     h1="가정동 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("가정동", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("가정동", "")],
     body_content=_gajeong_body,
 )
 
@@ -280,34 +280,34 @@ p_gajeong = create_page(
 _luwon_body = """
 <section>
 <h2>루원 출장마사지 — 루원시티·가정 생활권 안내</h2>
-<p>루원시티는 인천 서구 가정동 일대에 조성된 신흥 주거·상업 복합 단지로, <a href="/incheon/station/gajeong-station/">가정역</a>을 중심으로 고층 아파트와 상업시설이 집중된 생활권입니다. <strong>루원 출장마사지</strong>를 문의하시는 분들은 루원시티 중심 단지(힐스테이트·라포르테·시티프라디움 등)와 오피스텔 이용객이 많습니다. 단지 규모가 크고 보안 시스템이 잘 갖춰져 있으므로 방문 전 동·호수 주소와 방문자 등록 가능 여부를 반드시 확인해 주시기 바랍니다.</p>
+<p>루원시티는 인천 서구 가정동 일대에 조성된 신흥 주거·상업 복합 단지로, <a href="/station/gajeong-station/">가정역</a>을 중심으로 고층 아파트와 상업시설이 집중된 생활권입니다. <strong>루원 출장마사지</strong>를 문의하시는 분들은 루원시티 중심 단지(힐스테이트·라포르테·시티프라디움 등)와 오피스텔 이용객이 많습니다. 단지 규모가 크고 보안 시스템이 잘 갖춰져 있으므로 방문 전 동·호수 주소와 방문자 등록 가능 여부를 반드시 확인해 주시기 바랍니다.</p>
 <p>루원시티 내 상업지구는 카페·의원·편의시설이 집중되어 있고, 아파트 단지별 정문 위치와 차량 진입로가 다르므로 처음 방문하시는 분은 예약 시 단지명과 동·호수를 정확히 알려주시기 바랍니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요.</p>
 </section>
 
 <section>
 <h2>루원시티 주요 단지 구성</h2>
 <p>루원시티는 인천 서구 최대 규모의 복합 개발 사업지로, 가정역 주변 아파트 단지와 오피스텔, 판매시설이 하나의 블록 안에 구성되어 있습니다. 단지 내 보안 시스템은 무인 경비 및 CCTV가 설치된 경우가 많으며, 방문자 출입 시 사전 등록이 필요한 단지도 있습니다.</p>
-<p>루원시티 인근 오피스텔은 로비 운영 시간에 따라 방문자 안내 절차가 다를 수 있으므로, 예약 전에 오피스텔 프런트 운영 시간을 먼저 확인하시기 바랍니다. 이용 전 공통 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>루원시티 인근 오피스텔은 로비 운영 시간에 따라 방문자 안내 절차가 다를 수 있으므로, 예약 전에 오피스텔 프런트 운영 시간을 먼저 확인하시기 바랍니다. 이용 전 공통 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>루원시티 교통 및 접근 환경</h2>
-<p>가정역은 인천 2호선의 주요 역으로, 검암 방면과 석남·인천터미널 방면을 잇는 교통 요지입니다. 루원시티에서 남쪽으로 이동하면 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>과 <a href="/incheon/station/seo-gu-office-station/">서구청역</a> 방면이 이어지며, 북쪽으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>과 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a>로 연결됩니다.</p>
+<p>가정역은 인천 2호선의 주요 역으로, 검암 방면과 석남·인천터미널 방면을 잇는 교통 요지입니다. 루원시티에서 남쪽으로 이동하면 <a href="/seo-gu/seongnam-dong/">석남동</a>과 <a href="/station/seo-gu-office-station/">서구청역</a> 방면이 이어지며, 북쪽으로는 <a href="/seo-gu/geomam-dong/">검암동</a>과 <a href="/seo-gu/cheongna/">청라국제도시</a>로 연결됩니다.</p>
 <p>차량으로 진입할 경우 루원시티 중심 상업가로(루원로)를 따라 단지 입구로 진입하며, 일부 단지는 지하 주차장 진입로가 별도로 운영됩니다. 방문 시 차량 이용 계획을 예약 시 함께 안내해 주시면 세부 경로를 안내드릴 수 있습니다.</p>
 <p>인천 도시철도 노선도는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>루원 인접 지역 — 가정·석남·검암 연계</h2>
-<p>루원시티와 생활권이 이어지는 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>은 가정역을 공유하는 지역으로 두 생활권이 사실상 맞닿아 있습니다. 남쪽으로는 <a href="/incheon/seo-gu/seongnam-dong/">석남동</a>이 인접하며, 북쪽으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>과 이어집니다. 루원·가정 생활권 통합 안내는 <a href="/incheon/life/luwon-gajeong/">루원·가정 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
-<p>서구 전체 방문 가능 지역 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
+<p>루원시티와 생활권이 이어지는 <a href="/seo-gu/gajeong-dong/">가정동</a>은 가정역을 공유하는 지역으로 두 생활권이 사실상 맞닿아 있습니다. 남쪽으로는 <a href="/seo-gu/seongnam-dong/">석남동</a>이 인접하며, 북쪽으로는 <a href="/seo-gu/geomam-dong/">검암동</a>과 이어집니다. 루원·가정 생활권 통합 안내는 <a href="/life/luwon-gajeong/">루원·가정 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>서구 전체 방문 가능 지역 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>루원시티 주요 단지 특성과 생활 인프라</h2>
 <p>루원시티는 힐스테이트 루원시티·라포르테·시티프라디움 등 대규모 브랜드 아파트와 오피스텔이 혼합된 복합 단지입니다. 단지 저층부 상가에는 카페·음식점·학원·의원이 밀집해 있으며, 루원로를 따라 걷기 편한 보행 거리가 형성되어 있습니다. 가정역 지상 출구와 직결된 일부 단지는 지하철 역세권 도보 접근이 매우 편리합니다.</p>
-<p>루원시티 인근 가정중앙시장은 루원시티와 구시가지 가정동의 경계에 위치해 있으며, 전통 시장 상권과 신도시 편의시설이 공존하는 독특한 생활 환경을 형성하고 있습니다. <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>와 <a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 안내도 함께 참고하세요.</p>
-<p>루원시티 일대는 서구청역·가정역·가정중앙시장역 3개 역이 도보권 내에 있어 인천 2호선 이동이 편리하며, <a href="/incheon/station/seo-gu-office-station/">서구청역</a>을 통해 인천 서구 행정시설과도 가깝습니다. 단지 내 야간 조명과 보안카메라가 잘 갖춰져 있어 야간 방문 시에도 안전하지만, 외부 방문자는 단지 보안 시스템에 따라 사전 등록이 필요합니다.</p>
+<p>루원시티 인근 가정중앙시장은 루원시티와 구시가지 가정동의 경계에 위치해 있으며, 전통 시장 상권과 신도시 편의시설이 공존하는 독특한 생활 환경을 형성하고 있습니다. <a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a>와 <a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 안내도 함께 참고하세요.</p>
+<p>루원시티 일대는 서구청역·가정역·가정중앙시장역 3개 역이 도보권 내에 있어 인천 2호선 이동이 편리하며, <a href="/station/seo-gu-office-station/">서구청역</a>을 통해 인천 서구 행정시설과도 가깝습니다. 단지 내 야간 조명과 보안카메라가 잘 갖춰져 있어 야간 방문 시에도 안전하지만, 외부 방문자는 단지 보안 시스템에 따라 사전 등록이 필요합니다.</p>
 </section>
 
 <section>
@@ -318,24 +318,24 @@ _luwon_body = """
 <li>오피스텔 프런트 운영 시간 확인</li>
 <li>지하 주차장 진입 가능 여부 및 차량 방문 계획 사전 안내</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 확인 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 확인 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>루원시티·가정 생활권 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 예약 절차와 유의사항은 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다. 서구 전체 방문 가능 지역 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
+<p>루원시티·가정 생활권 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 예약 절차와 유의사항은 <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다. 서구 전체 방문 가능 지역 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>루원시티 상업지구와 오피스텔 방문 안내</h2>
 <p>루원시티 중심 상업가로에는 대형 마트·멀티플렉스 영화관·의원·학원가가 밀집해 있으며, 단지 내 오피스텔은 가정역 도보 3~5분 거리에 위치합니다. 오피스텔의 경우 로비 CCTV와 무인 발급기형 출입 시스템을 운영하는 경우가 많으므로, 방문 전 세대에서 출입 코드나 방문자 등록을 먼저 처리해 주시기 바랍니다.</p>
-<p>루원시티 인근에서 이어지는 생활권 안내는 <a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>·<a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/gajeong-station/">가정역 역세권</a>과 <a href="/incheon/life/luwon-gajeong/">루원·가정 생활권</a> 통합 안내, <a href="/incheon/seo-gu/">인천 서구</a> 전체 페이지도 함께 확인하시기 바랍니다.</p>
+<p>루원시티 인근에서 이어지는 생활권 안내는 <a href="/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>·<a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a> 페이지를 참고하세요. <a href="/station/gajeong-station/">가정역 역세권</a>과 <a href="/life/luwon-gajeong/">루원·가정 생활권</a> 통합 안내, <a href="/seo-gu/">인천 서구</a> 전체 페이지도 함께 확인하시기 바랍니다.</p>
 </section>
 """
 
 p_luwon = create_page(
-    path="incheon/seo-gu/luwon-area/",
+    path="seo-gu/luwon-area/",
     title="루원 출장마사지｜루원시티·가정 생활권 안내",
     desc="루원 출장마사지 예약 전 루원시티·가정역·석남 인근 방문 가능 지역과 단지 출입 절차를 확인하세요.",
     h1="루원 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("루원", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("루원", "")],
     body_content=_luwon_body,
 )
 
@@ -346,7 +346,7 @@ p_luwon = create_page(
 _seongnam_body = """
 <section>
 <h2>석남동 출장마사지 — 석남역·서구청 생활권 안내</h2>
-<p>석남동은 인천 서구 중앙부에 위치한 주거 밀집 지역으로, 인천도시철도 2호선 <a href="/incheon/station/seongnam-station/">석남역</a>과 <a href="/incheon/station/seo-gu-office-station/">서구청역</a>을 중심으로 아파트·빌라·단독주택이 혼재된 생활권입니다. <strong>석남동 출장마사지</strong> 관련 문의는 석남역 인근 아파트와 서구청 주변 주거지, 석남시장 인근 빌라 단지에서 주로 접수됩니다.</p>
+<p>석남동은 인천 서구 중앙부에 위치한 주거 밀집 지역으로, 인천도시철도 2호선 <a href="/station/seongnam-station/">석남역</a>과 <a href="/station/seo-gu-office-station/">서구청역</a>을 중심으로 아파트·빌라·단독주택이 혼재된 생활권입니다. <strong>석남동 출장마사지</strong> 관련 문의는 석남역 인근 아파트와 서구청 주변 주거지, 석남시장 인근 빌라 단지에서 주로 접수됩니다.</p>
 <p>석남동은 서구의 행정 중심지인 인천 서구청이 위치한 지역으로, 공공기관과 상업시설이 고르게 분포해 있습니다. 방문 전 정확한 주소와 건물 출입 방식을 알려주시면 방문 경로를 더욱 정확하게 안내드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요.</p>
 </section>
 
@@ -359,20 +359,20 @@ _seongnam_body = """
 <section>
 <h2>석남동 주거 환경과 방문 유의사항</h2>
 <p>석남동 내 신규 아파트 단지는 보안 시스템이 구축되어 있어 방문자 출입 시 등록이 필요할 수 있습니다. 구도심 저층 주거지(빌라·연립)는 출입이 비교적 자유롭지만, 주차 공간과 건물 내부 동선을 미리 확인하시기 바랍니다.</p>
-<p>석남동에서 도보 이동이 가능한 인접 생활권으로는 남쪽의 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>과 <a href="/incheon/seo-gu/luwon-area/">루원시티</a>가 있으며, 동쪽으로는 부평구 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a> 생활권과 인접합니다. 이용 전 체크리스트는 <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서 확인하세요.</p>
+<p>석남동에서 도보 이동이 가능한 인접 생활권으로는 남쪽의 <a href="/seo-gu/gajeong-dong/">가정동</a>과 <a href="/seo-gu/luwon-area/">루원시티</a>가 있으며, 동쪽으로는 부평구 <a href="/bupyeong-gu/sangok-dong/">산곡동</a> 생활권과 인접합니다. 이용 전 체크리스트는 <a href="/check/">이용 전 확인사항</a> 페이지에서 확인하세요.</p>
 </section>
 
 <section>
 <h2>석남동 인접 지역 연계 안내</h2>
-<p>석남동과 경계를 이루는 <a href="/incheon/seo-gu/gajeong-dong/">가정동</a>은 가정역을 통해 이어지며, 루원시티 개발로 두 지역의 생활권이 더욱 가까워졌습니다. 북쪽으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동</a>과 연결되고, 동쪽으로는 인천 1호선을 따라 부평구 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>으로 이어집니다.</p>
-<p>서구 전체 방문 가능 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를 참고하시고, 예약 방법은 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 먼저 확인해 주세요.</p>
+<p>석남동과 경계를 이루는 <a href="/seo-gu/gajeong-dong/">가정동</a>은 가정역을 통해 이어지며, 루원시티 개발로 두 지역의 생활권이 더욱 가까워졌습니다. 북쪽으로는 <a href="/seo-gu/geomam-dong/">검암동</a>과 연결되고, 동쪽으로는 인천 1호선을 따라 부평구 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>으로 이어집니다.</p>
+<p>서구 전체 방문 가능 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를 참고하시고, 예약 방법은 <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>를 먼저 확인해 주세요.</p>
 </section>
 
 <section>
 <h2>석남동 주요 랜드마크와 생활 인프라</h2>
 <p>석남동에는 인천 서구청·서구 보건소·서구 문화회관이 밀집해 있어 서구의 행정·문화 중심지 역할을 담당합니다. 석남시장은 역 주변 주민들이 자주 이용하는 재래 시장으로 신선 식품과 생활용품을 주로 취급합니다. 석남동 남쪽으로는 원신교·석남초등학교·인천서여자중학교 등 교육시설이 분포해 있습니다.</p>
-<p>석남로와 봉오대로가 석남동을 관통하는 주요 간선 도로이며, 인천 1호선 석남역과 2호선 환승 편의가 높아 부평구·미추홀구 방면의 도심 이동이 수월합니다. 부평구 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동 출장마사지</a>와 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동 출장마사지</a> 안내도 함께 확인하세요.</p>
-<p>석남동 북쪽으로는 <a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a> 생활권이 이어지며, 석남역 1호선 방향으로는 부평구청역·계산역 등 <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동</a> 방면 연결도 가능합니다. 석남동 내 오피스텔·소형 주거용 건물의 경우 공동현관 도어락이나 인터폰을 통해 방문자 출입이 이루어지므로, 예약 시 해당 방식을 미리 알려주시면 원활한 방문이 가능합니다.</p>
+<p>석남로와 봉오대로가 석남동을 관통하는 주요 간선 도로이며, 인천 1호선 석남역과 2호선 환승 편의가 높아 부평구·미추홀구 방면의 도심 이동이 수월합니다. 부평구 <a href="/bupyeong-gu/sangok-dong/">산곡동 출장마사지</a>와 <a href="/bupyeong-gu/bupyeong-dong/">부평동 출장마사지</a> 안내도 함께 확인하세요.</p>
+<p>석남동 북쪽으로는 <a href="/seo-gu/geomam-dong/">검암동 출장마사지</a> 생활권이 이어지며, 석남역 1호선 방향으로는 부평구청역·계산역 등 <a href="/gyeyang-gu/gyesan-dong/">계산동</a> 방면 연결도 가능합니다. 석남동 내 오피스텔·소형 주거용 건물의 경우 공동현관 도어락이나 인터폰을 통해 방문자 출입이 이루어지므로, 예약 시 해당 방식을 미리 알려주시면 원활한 방문이 가능합니다.</p>
 </section>
 
 <section>
@@ -383,24 +383,24 @@ _seongnam_body = """
 <li>석남시장 인근 빌라 주거지 방문 시 주차 여부 확인</li>
 <li>방문자 등록 절차 및 건물 출입 방식 사전 조율</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 확인 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 확인 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>서구 생활권 통합 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지에서 확인하실 수 있으며, 인접 <a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>와 <a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 함께 참고하세요. 예약 전 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 먼저 확인하시기 바랍니다. 석남동 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다.</p>
+<p>서구 생활권 통합 안내는 <a href="/seo-gu/">인천 서구</a> 페이지에서 확인하실 수 있으며, 인접 <a href="/seo-gu/gajeong-dong/">가정동 출장마사지</a>와 <a href="/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 함께 참고하세요. 예약 전 <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>를 먼저 확인하시기 바랍니다. 석남동 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다.</p>
 </section>
 
 <section>
 <h2>석남동 상권·공공시설과 방문 참고 정보</h2>
 <p>석남동에는 인천 서구청(서구청역 인근)과 서구 보건소가 위치해 있으며, 석남시장은 지역 주민이 이용하는 재래시장으로 시장 주변에 빌라·저층 주거지가 밀집해 있습니다. 석남역 주변 상업가로에는 병원·카페·편의점·학원 등이 고르게 분포하며, 인천 1호선과 2호선 환승이 가능해 부평구·미추홀구 방면 이동도 편리합니다.</p>
-<p>석남동에서 연결되는 서구 생활권 페이지로 <a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a>·<a href="/incheon/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>가 있습니다. <a href="/incheon/station/seongnam-station/">석남역 역세권 안내</a>·<a href="/incheon/station/seo-gu-office-station/">서구청역 생활권</a>·<a href="/incheon/seo-gu/">인천 서구</a> 전체 안내도 함께 참고하세요. 석남동 아파트 단지 야간 방문의 경우 방문자 게이트 운영 시간을 반드시 확인하시기 바랍니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요.</p>
+<p>석남동에서 연결되는 서구 생활권 페이지로 <a href="/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/seo-gu/luwon-area/">루원시티 출장마사지</a>·<a href="/seo-gu/geomam-dong/">검암동 출장마사지</a>·<a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>가 있습니다. <a href="/station/seongnam-station/">석남역 역세권 안내</a>·<a href="/station/seo-gu-office-station/">서구청역 생활권</a>·<a href="/seo-gu/">인천 서구</a> 전체 안내도 함께 참고하세요. 석남동 아파트 단지 야간 방문의 경우 방문자 게이트 운영 시간을 반드시 확인하시기 바랍니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요.</p>
 </section>
 """
 
 p_seongnam = create_page(
-    path="incheon/seo-gu/seongnam-dong/",
+    path="seo-gu/seongnam-dong/",
     title="석남동 출장마사지｜석남역·서구청 생활권 안내",
     desc="석남동 출장마사지 예약 전 석남역·서구청역·석남시장 인근 방문 가능 지역을 확인하세요.",
     h1="석남동 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("서구", "/incheon/seo-gu/"), ("석남동", "")],
+    breadcrumb=[("인천", "/"), ("서구", "/seo-gu/"), ("석남동", "")],
     body_content=_seongnam_body,
 )
 
@@ -412,12 +412,12 @@ _yeongjong_body = """
 <section>
 <h2>영종 출장마사지 — 운서·인천공항 인접 생활권 안내</h2>
 <p>영종도는 인천광역시 중구에 속하는 섬으로, 영종하늘도시·운서·인천공항 주변이 주요 생활권을 형성하고 있습니다. 향후 행정구역 개편에 따라 영종구로 분리될 예정이며, 이에 따라 주소 체계 일부가 변경될 수 있습니다. <strong>영종 출장마사지</strong> 문의는 영종하늘도시 아파트 단지와 운서역 주변 주거지, 중산동 생활권에서 주로 들어옵니다.</p>
-<p>영종도는 본토와 영종대교·인천대교로 연결되어 있으며, 공항철도(AREX)를 통해 서울 도심·인천 도심과의 접근성이 좋아졌습니다. 방문 가능 여부와 예약 가능 시간을 사전에 확인해 주시면 원활하게 안내드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
+<p>영종도는 본토와 영종대교·인천대교로 연결되어 있으며, 공항철도(AREX)를 통해 서울 도심·인천 도심과의 접근성이 좋아졌습니다. 방문 가능 여부와 예약 가능 시간을 사전에 확인해 주시면 원활하게 안내드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 이용 전 <a href="/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>운서역·영종역 역세권과 생활권</h2>
-<p><a href="/incheon/station/unseo-station/">운서역</a>은 공항철도(AREX)의 주요 역으로, 영종하늘도시 중심 생활권과 가장 가까운 역입니다. 운서역 주변에는 영종하늘도시 대규모 아파트 단지와 근린생활시설이 집중되어 있습니다. <a href="/incheon/station/yeongjong-station/">영종역</a>은 영종도 구도심 방면 역으로, 역 주변으로 저층 주거지와 상가가 형성되어 있습니다.</p>
+<p><a href="/station/unseo-station/">운서역</a>은 공항철도(AREX)의 주요 역으로, 영종하늘도시 중심 생활권과 가장 가까운 역입니다. 운서역 주변에는 영종하늘도시 대규모 아파트 단지와 근린생활시설이 집중되어 있습니다. <a href="/station/yeongjong-station/">영종역</a>은 영종도 구도심 방면 역으로, 역 주변으로 저층 주거지와 상가가 형성되어 있습니다.</p>
 <p>두 역 사이의 생활권은 각각 성격이 다르므로, 예약 시 방문 주소가 영종하늘도시 단지인지 영종도 구도심 주거지인지 먼저 확인해 주시면 더욱 정확한 안내가 가능합니다.</p>
 <p>인천 공항철도 이용 안내는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
@@ -425,13 +425,13 @@ _yeongjong_body = """
 <section>
 <h2>영종하늘도시 아파트 단지와 방문 안내</h2>
 <p>영종하늘도시는 계획도시로 조성된 만큼 단지별 도로 체계가 잘 정비되어 있고, 대형 아파트 단지마다 보안 시스템이 구축되어 있습니다. 방문 시 단지명·동·호수를 정확히 전달하고, 방문자 등록 절차가 있는지 미리 확인하시기 바랍니다.</p>
-<p>중산동 구도심은 빌라·단독주택 중심의 저층 주거지로, 골목 구조가 복잡하여 처음 방문하시는 경우 도로명 주소보다 근처 랜드마크를 함께 안내해 주시면 더욱 편리합니다. 이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>중산동 구도심은 빌라·단독주택 중심의 저층 주거지로, 골목 구조가 복잡하여 처음 방문하시는 경우 도로명 주소보다 근처 랜드마크를 함께 안내해 주시면 더욱 편리합니다. 이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>영종 인접 지역 — 운서·인천공항 연계</h2>
-<p>영종도 내 주요 생활권인 <a href="/incheon/jung-gu/unseo-dong/">운서동</a>과 <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 지역</a>은 각각 주거 중심·공항 이용 중심으로 성격이 다릅니다. 공항 인근 숙박시설을 이용하시는 경우에는 <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 페이지를 별도로 확인하시기 바랍니다.</p>
-<p>영종·운서 생활권 통합 안내는 <a href="/incheon/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지를, 중구 전체 안내는 <a href="/incheon/jung-gu/">인천 중구</a> 페이지를 참고하세요. 예약 절차는 <a href="/incheon/reservation/">예약 안내</a>를 먼저 확인해 주시기 바랍니다.</p>
+<p>영종도 내 주요 생활권인 <a href="/jung-gu/unseo-dong/">운서동</a>과 <a href="/jung-gu/incheon-airport-area/">인천공항 지역</a>은 각각 주거 중심·공항 이용 중심으로 성격이 다릅니다. 공항 인근 숙박시설을 이용하시는 경우에는 <a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 페이지를 별도로 확인하시기 바랍니다.</p>
+<p>영종·운서 생활권 통합 안내는 <a href="/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지를, 중구 전체 안내는 <a href="/jung-gu/">인천 중구</a> 페이지를 참고하세요. 예약 절차는 <a href="/reservation/">예약 안내</a>를 먼저 확인해 주시기 바랍니다.</p>
 </section>
 
 <section>
@@ -441,31 +441,31 @@ _yeongjong_body = """
 <li>운서역·영종역 중 가까운 역 기준 위치 확인</li>
 <li>방문자 등록 및 건물 출입 방식 확인</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a> 참조</li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a> 참조</li>
 </ul>
-<p>영종 생활권 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>영종 생활권 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 
 <section>
 <h2>영종도 주요 상권·교육시설과 방문 참고 정보</h2>
 <p>영종하늘도시 내 이마트 영종점·롯데마트 영종점 등 대형 마트와 근린 상업시설이 단지 주변에 고르게 분포해 있어 생활 편의성이 높습니다. 운서역 주변 상업가로에는 카페·음식점·의원·학원이 밀집해 있으며, 공항 방면 이동객들이 단기 체류 숙소로 이용하는 모텔·게스트하우스도 드문드문 분포합니다.</p>
 <p>영종도 내 교육시설로는 영종하늘도시 인근 초·중·고등학교가 단지별로 조성되어 있으며, 영종도서관도 운서 생활권 내에 위치합니다. 영종도로는 영종국제도시길을 따라 차량 이동이 이루어지며, 운서역에서 인천공항까지는 공항철도로 약 5분 이내 이동이 가능합니다.</p>
-<p>영종도 북측의 <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>와 <a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a> 페이지를 함께 참고하시고, 중구 전체 방문 가능 지역은 <a href="/incheon/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. <a href="/incheon/station/unseo-station/">운서역 역세권 안내</a>와 <a href="/incheon/station/yeongjong-station/">영종역 역세권 안내</a>도 참고하세요.</p>
+<p>영종도 북측의 <a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>와 <a href="/jung-gu/unseo-dong/">운서동 출장마사지</a> 페이지를 함께 참고하시고, 중구 전체 방문 가능 지역은 <a href="/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. <a href="/station/unseo-station/">운서역 역세권 안내</a>와 <a href="/station/yeongjong-station/">영종역 역세권 안내</a>도 참고하세요.</p>
 </section>
 
 <section>
 <h2>영종도 생활권 특성 — 하늘도시·중산동·용유 주거 환경</h2>
 <p>영종하늘도시는 을왕산과 인천국제공항 사이에 조성된 계획도시로, 중산동·운서동·하늘도시 각 구역별로 아파트 단지가 분산 배치되어 있습니다. 용유동·무의동 방면은 영종도 남서쪽에 위치한 소규모 주거·관광 지역으로, 하늘도시와 이동 거리가 있으므로 방문 가능 여부를 사전에 확인하시기 바랍니다.</p>
-<p>영종도 공항철도 역세권은 <a href="/incheon/station/yeongjong-station/">영종역</a>·<a href="/incheon/station/unseo-station/">운서역</a>·<a href="/incheon/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a>·<a href="/incheon/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a>으로 이어지며, 각 역 인근 생활권의 성격이 다릅니다. 영종 주거 생활권은 <a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a>·<a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 페이지를, 중구 전체 안내는 <a href="/incheon/jung-gu/">인천 중구</a>를 참고하시고, <a href="/incheon/life/yeongjong-unseo/">영종·운서 생활권</a> 통합 정보도 확인하세요. 예약 전 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 먼저 읽어보시기 권장합니다. 동인천 방면 연계 안내는 <a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요.</p>
+<p>영종도 공항철도 역세권은 <a href="/station/yeongjong-station/">영종역</a>·<a href="/station/unseo-station/">운서역</a>·<a href="/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a>·<a href="/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a>으로 이어지며, 각 역 인근 생활권의 성격이 다릅니다. 영종 주거 생활권은 <a href="/jung-gu/unseo-dong/">운서동 출장마사지</a>·<a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 페이지를, 중구 전체 안내는 <a href="/jung-gu/">인천 중구</a>를 참고하시고, <a href="/life/yeongjong-unseo/">영종·운서 생활권</a> 통합 정보도 확인하세요. 예약 전 <a href="/reservation/">예약 안내</a>와 <a href="/check/">이용 전 확인사항</a>을 먼저 읽어보시기 권장합니다. 동인천 방면 연계 안내는 <a href="/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요.</p>
 </section>
 """
 
 p_yeongjong = create_page(
-    path="incheon/jung-gu/yeongjong-area/",
+    path="jung-gu/yeongjong-area/",
     title="영종 출장마사지｜운서·인천공항 인접 생활권 안내",
     desc="영종 출장마사지 예약 전 영종하늘도시·운서역·영종역 주거 생활권 방문 가능 지역을 확인하세요.",
     h1="영종 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("중구", "/incheon/jung-gu/"), ("영종", "")],
+    breadcrumb=[("인천", "/"), ("중구", "/jung-gu/"), ("영종", "")],
     body_content=_yeongjong_body,
 )
 
@@ -476,8 +476,8 @@ p_yeongjong = create_page(
 _unseo_body = """
 <section>
 <h2>운서동 출장마사지 — 운서역·영종 생활권 안내</h2>
-<p>운서동은 인천광역시 중구 영종도 내의 핵심 주거 지역으로, 공항철도 <a href="/incheon/station/unseo-station/">운서역</a>을 중심으로 영종하늘도시 대단지 아파트가 집중되어 있습니다. <strong>운서동 출장마사지</strong> 문의는 영종하늘도시 내 아파트 단지 거주자분들이 주로 주시며, 영종하늘도시 AB·CD·EF구역 등 단지 구역에 따라 방문 접근 경로가 다를 수 있습니다.</p>
-<p>운서동은 영종도 내에서도 주거 밀도가 가장 높은 지역으로, 대형 마트·학원·의료시설 등 생활편의 인프라가 잘 갖춰져 있습니다. 방문 전 단지명·동·호수를 사전에 안내해 주시면 더욱 신속하게 방문 가능 여부를 확인드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 이용 전 <a href="/incheon/check/">이용 전 확인사항</a>도 먼저 확인하시기 바랍니다.</p>
+<p>운서동은 인천광역시 중구 영종도 내의 핵심 주거 지역으로, 공항철도 <a href="/station/unseo-station/">운서역</a>을 중심으로 영종하늘도시 대단지 아파트가 집중되어 있습니다. <strong>운서동 출장마사지</strong> 문의는 영종하늘도시 내 아파트 단지 거주자분들이 주로 주시며, 영종하늘도시 AB·CD·EF구역 등 단지 구역에 따라 방문 접근 경로가 다를 수 있습니다.</p>
+<p>운서동은 영종도 내에서도 주거 밀도가 가장 높은 지역으로, 대형 마트·학원·의료시설 등 생활편의 인프라가 잘 갖춰져 있습니다. 방문 전 단지명·동·호수를 사전에 안내해 주시면 더욱 신속하게 방문 가능 여부를 확인드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 이용 전 <a href="/check/">이용 전 확인사항</a>도 먼저 확인하시기 바랍니다.</p>
 </section>
 
 <section>
@@ -490,13 +490,13 @@ _unseo_body = """
 <section>
 <h2>운서동 주거지 방문 유의사항</h2>
 <p>운서동 영종하늘도시 단지는 대부분 경비실 또는 무인 보안 게이트가 운영되며, 방문자 등록이 필요한 경우 사전에 세대주 측에서 등록 후 안내해 주시면 방문이 원활합니다. 단지별 차량 진입 가능 여부와 주차 위치도 다를 수 있으므로 확인하시기 바랍니다.</p>
-<p>구도심 영종역 인근 주거지는 빌라·연립 등 저층 주거지 중심으로, 주소 전달 시 지번 또는 도로명을 정확하게 안내해 주시면 방문이 수월합니다. 이용 전 체크리스트는 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 확인하세요.</p>
+<p>구도심 영종역 인근 주거지는 빌라·연립 등 저층 주거지 중심으로, 주소 전달 시 지번 또는 도로명을 정확하게 안내해 주시면 방문이 수월합니다. 이용 전 체크리스트는 <a href="/check/">이용 전 확인사항</a> 페이지를 확인하세요.</p>
 </section>
 
 <section>
 <h2>운서동 인접 지역 — 영종·인천공항 연계 안내</h2>
-<p>운서동과 생활권이 겹치는 <a href="/incheon/jung-gu/yeongjong-area/">영종 전체 생활권</a>에 대한 안내는 영종 페이지를 참고하시고, 공항 이용 목적 방문은 <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 안내 페이지를 별도로 확인하시기 바랍니다.</p>
-<p>영종·운서 통합 생활권 정보는 <a href="/incheon/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지에서, 중구 전체 정보는 <a href="/incheon/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/incheon/reservation/">예약 안내</a>도 먼저 읽어보시기를 권장합니다.</p>
+<p>운서동과 생활권이 겹치는 <a href="/jung-gu/yeongjong-area/">영종 전체 생활권</a>에 대한 안내는 영종 페이지를 참고하시고, 공항 이용 목적 방문은 <a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 안내 페이지를 별도로 확인하시기 바랍니다.</p>
+<p>영종·운서 통합 생활권 정보는 <a href="/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지에서, 중구 전체 정보는 <a href="/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/reservation/">예약 안내</a>도 먼저 읽어보시기를 권장합니다.</p>
 </section>
 
 <section>
@@ -506,31 +506,31 @@ _unseo_body = """
 <li>방문자 게이트 운영 방식 및 등록 절차 확인</li>
 <li>차량 진입 가능 여부 및 주차 위치 안내</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>운서동 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>운서동 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 
 <section>
 <h2>운서동 생활 인프라와 주요 도로 안내</h2>
 <p>운서동에는 이마트 영종점·영종하늘도시 홈플러스 등 대형 마트가 단지 내에 위치해 있으며, 운서역 주변 상업가로에는 음식점·카페·병원·학원이 고르게 분포합니다. 영종하늘도시의 내부 도로는 단지 구역별로 명칭이 구분되어 있으며, 영종국제도시길·하늘도시1로·운서로 등이 주요 이동 경로입니다.</p>
 <p>운서동 인근 관광·레저 시설로는 씨사이드파크·을왕리해수욕장 방면 접근이 차량으로 가능하며, 단기 관광객이나 가족 여행객들이 운서역 인근 숙소에 체류하는 경우도 있습니다. 이러한 숙소는 일반 아파트와 출입 방식이 다를 수 있으므로, 예약 시 숙소 유형과 방문자 출입 가능 여부를 함께 안내해 주시기 바랍니다.</p>
-<p>운서동에서 이어지는 <a href="/incheon/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>, <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 안내도 함께 확인하세요. 영종·운서 통합 생활권 정보는 <a href="/incheon/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 먼저 읽어보시기 바랍니다.</p>
+<p>운서동에서 이어지는 <a href="/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>, <a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a> 안내도 함께 확인하세요. 영종·운서 통합 생활권 정보는 <a href="/life/yeongjong-unseo/">영종·운서 생활권</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/reservation/">예약 안내</a>와 <a href="/check/">이용 전 확인사항</a>을 먼저 읽어보시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>운서동 생활 인프라와 영종하늘도시 거주 특성</h2>
 <p>영종하늘도시 운서동 권역은 대형 마트·복합쇼핑몰·의료기관·초중학교 등 생활 인프라가 집중된 영종도의 핵심 주거 지역입니다. 단지가 구역별로 넓게 펼쳐져 있어 같은 운서동 주소라도 위치에 따라 차량 이동이 10분 이상 걸릴 수 있으므로, 예약 시 단지명과 동·호수를 정확히 안내해 주시기 바랍니다.</p>
-<p>운서동에서 이어지는 인접 생활권은 <a href="/incheon/jung-gu/yeongjong-area/">영종 출장마사지</a>·<a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/unseo-station/">운서역 공항철도 역세권</a>·<a href="/incheon/life/yeongjong-unseo/">영종·운서 생활권</a> 통합 안내·<a href="/incheon/jung-gu/">인천 중구</a> 전체 페이지도 함께 확인하시기 바랍니다. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 참조하세요. 야간 방문 시에도 방문자 게이트 운영 현황을 사전에 확인해 주시기 바랍니다. 운서역에서 공항철도 이용 정보는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>를 참고하세요.</p>
+<p>운서동에서 이어지는 인접 생활권은 <a href="/jung-gu/yeongjong-area/">영종 출장마사지</a>·<a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>·<a href="/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/station/unseo-station/">운서역 공항철도 역세권</a>·<a href="/life/yeongjong-unseo/">영종·운서 생활권</a> 통합 안내·<a href="/jung-gu/">인천 중구</a> 전체 페이지도 함께 확인하시기 바랍니다. 개인정보 처리 기준은 <a href="/support/privacy/">개인정보처리방침</a>을 참조하세요. 야간 방문 시에도 방문자 게이트 운영 현황을 사전에 확인해 주시기 바랍니다. 운서역에서 공항철도 이용 정보는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>를 참고하세요.</p>
 </section>
 """
 
 p_unseo = create_page(
-    path="incheon/jung-gu/unseo-dong/",
+    path="jung-gu/unseo-dong/",
     title="운서동 출장마사지｜운서역·영종 생활권 안내",
     desc="운서동 출장마사지 예약 전 운서역·영종하늘도시 아파트 단지 방문 가능 지역과 출입 절차를 확인하세요.",
     h1="운서동 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("중구", "/incheon/jung-gu/"), ("운서동", "")],
+    breadcrumb=[("인천", "/"), ("중구", "/jung-gu/"), ("운서동", "")],
     body_content=_unseo_body,
 )
 
@@ -547,20 +547,20 @@ _airport_body = """
 
 <section>
 <h2>제1터미널·제2터미널 인근 숙소 이용 안내</h2>
-<p><a href="/incheon/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a> 인근에는 공항 밀착형 호텔과 게스트하우스가 다수 위치하며, 제1터미널 연결통로 인근 숙소는 대부분 체크인 절차가 빠르게 이루어집니다. <a href="/incheon/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a> 인근은 대형 호텔 중심으로, 넓은 부지에 여러 숙박시설이 분산되어 있습니다.</p>
+<p><a href="/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a> 인근에는 공항 밀착형 호텔과 게스트하우스가 다수 위치하며, 제1터미널 연결통로 인근 숙소는 대부분 체크인 절차가 빠르게 이루어집니다. <a href="/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a> 인근은 대형 호텔 중심으로, 넓은 부지에 여러 숙박시설이 분산되어 있습니다.</p>
 <p>T1과 T2 사이의 이동은 셔틀 버스나 공항철도를 이용하게 되며, 방문 전 숙소가 어느 터미널 구역에 속하는지 먼저 확인해 주시기 바랍니다. 이동 시간과 방문 가능 여부를 종합해 안내드리겠습니다.</p>
 </section>
 
 <section>
 <h2>공항 주변 숙소 방문 유의사항</h2>
 <p>공항 인근 비즈니스 호텔과 에어텔 형태의 숙소는 프런트 데스크 운영 시간과 방문자 출입 규정이 다양합니다. 외부 방문자 출입이 제한된 숙소도 있으므로, 예약 전에 숙소 프런트에 방문자 수용 가능 여부를 먼저 확인하신 후 예약해 주시기 바랍니다.</p>
-<p>캡슐형 호텔이나 공유 숙소처럼 공동 시설 형태의 숙소는 별도의 방문자 공간이 없을 수 있어 방문이 어려운 경우가 있습니다. 숙소 유형과 방문자 출입 가능 여부를 예약 시 미리 알려주시면 정확한 안내를 드릴 수 있습니다. 이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>캡슐형 호텔이나 공유 숙소처럼 공동 시설 형태의 숙소는 별도의 방문자 공간이 없을 수 있어 방문이 어려운 경우가 있습니다. 숙소 유형과 방문자 출입 가능 여부를 예약 시 미리 알려주시면 정확한 안내를 드릴 수 있습니다. 이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>인천공항 인근 지역 — 운서·영종 연계 안내</h2>
-<p>공항 이용이 아닌 영종도 주거 생활권에 대한 안내는 <a href="/incheon/jung-gu/unseo-dong/">운서동</a>과 <a href="/incheon/jung-gu/yeongjong-area/">영종 생활권</a> 페이지를 별도로 확인해 주시기 바랍니다. 공항철도를 이용한 이동 안내는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
-<p>인천공항 생활권 통합 정보는 <a href="/incheon/life/incheon-airport/">인천공항 생활권</a> 페이지를, 중구 전체 안내는 <a href="/incheon/jung-gu/">인천 중구</a> 페이지를 참고하시기 바랍니다. 예약 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 확인하세요.</p>
+<p>공항 이용이 아닌 영종도 주거 생활권에 대한 안내는 <a href="/jung-gu/unseo-dong/">운서동</a>과 <a href="/jung-gu/yeongjong-area/">영종 생활권</a> 페이지를 별도로 확인해 주시기 바랍니다. 공항철도를 이용한 이동 안내는 <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
+<p>인천공항 생활권 통합 정보는 <a href="/life/incheon-airport/">인천공항 생활권</a> 페이지를, 중구 전체 안내는 <a href="/jung-gu/">인천 중구</a> 페이지를 참고하시기 바랍니다. 예약 절차는 <a href="/reservation/">예약 안내</a>에서 확인하세요.</p>
 </section>
 
 <section>
@@ -570,31 +570,31 @@ _airport_body = """
 <li>숙소 프런트에 외부 방문자 수용 가능 여부 사전 확인</li>
 <li>체크아웃 시간 이전에 예약 및 방문 완료 계획 확인</li>
 <li>환승 대기 시간 기준 방문 가능 시간 조율</li>
-<li>개인정보 처리 기준 확인 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 확인 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>인천공항 인근 숙소 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 숙소명과 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
+<p>인천공항 인근 숙소 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 숙소명과 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>인천공항 주변 숙소 유형과 차량 이동 기준</h2>
 <p>인천공항 인근 숙소는 크게 공항 터미널 직접 연결형 호텔(그랜드하얏트 인천·파라다이스시티·네스트호텔 등), 영종도 내 독립형 호텔, 운서역 인근 비즈니스 호텔, 소형 게스트하우스 등 4가지 유형으로 나뉩니다. 숙소 유형에 따라 방문자 출입 절차와 차량 진입 가능 여부가 크게 다릅니다.</p>
 <p>대형 호텔은 프런트 데스크를 통해 외부 방문자 등록이 가능한 경우가 많지만, 소형 숙소나 에어비앤비 형태의 공유숙박은 방문자 출입 자체가 어려운 경우도 있습니다. 예약 전 반드시 숙소 측에 외부 방문자 출입 가능 여부를 먼저 확인하신 후 예약 요청을 주시기 바랍니다.</p>
-<p>공항 인근 이동 시 차량을 이용하는 경우 T1 공항 방향 무료순환버스(airside) 경로와 영종국제도시길을 참고하시면 되며, 인천공항 생활권 통합 안내는 <a href="/incheon/life/incheon-airport/">인천공항 생활권</a> 페이지에서 확인하실 수 있습니다. 인접한 <a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a>와 <a href="/incheon/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>도 함께 참고하세요. 인천공항 교통 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다.</p>
+<p>공항 인근 이동 시 차량을 이용하는 경우 T1 공항 방향 무료순환버스(airside) 경로와 영종국제도시길을 참고하시면 되며, 인천공항 생활권 통합 안내는 <a href="/life/incheon-airport/">인천공항 생활권</a> 페이지에서 확인하실 수 있습니다. 인접한 <a href="/jung-gu/unseo-dong/">운서동 출장마사지</a>와 <a href="/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>도 함께 참고하세요. 인천공항 교통 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>인천공항 이용 유형별 방문 안내 — 환승 대기·출장·관광 숙박</h2>
 <p>인천공항 인근 숙박 이용 유형은 크게 환승 대기형·출발 전날 숙박형·출장 비즈니스형으로 나뉩니다. 환승 대기의 경우 체류 가능 시간이 짧으므로 예약 전 체류 시간대와 숙소 위치를 정확히 안내해 주시면 방문 가능 여부를 빠르게 확인드릴 수 있습니다. 비즈니스 호텔은 대부분 프런트 24시간 운영이 원칙이나 외부 방문자 수용 여부는 호텔 정책에 따라 다릅니다.</p>
-<p>공항 인근 지역과 이어지는 영종도 주거 생활권은 <a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a>·<a href="/incheon/jung-gu/yeongjong-area/">영종 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a>·<a href="/incheon/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a> 역세권 안내와 <a href="/incheon/life/incheon-airport/">인천공항 생활권</a> 통합 페이지, <a href="/incheon/jung-gu/">인천 중구</a> 전체 안내도 함께 확인하시기 바랍니다. <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/support/privacy/">개인정보처리방침</a>도 참조하세요.</p>
+<p>공항 인근 지역과 이어지는 영종도 주거 생활권은 <a href="/jung-gu/unseo-dong/">운서동 출장마사지</a>·<a href="/jung-gu/yeongjong-area/">영종 출장마사지</a> 페이지를 참고하세요. <a href="/station/incheon-airport-terminal-1-station/">인천공항1터미널역</a>·<a href="/station/incheon-airport-terminal-2-station/">인천공항2터미널역</a> 역세권 안내와 <a href="/life/incheon-airport/">인천공항 생활권</a> 통합 페이지, <a href="/jung-gu/">인천 중구</a> 전체 안내도 함께 확인하시기 바랍니다. <a href="/reservation/">예약 안내</a>와 <a href="/support/privacy/">개인정보처리방침</a>도 참조하세요.</p>
 </section>
 """
 
 p_airport = create_page(
-    path="incheon/jung-gu/incheon-airport-area/",
+    path="jung-gu/incheon-airport-area/",
     title="인천공항 출장마사지｜공항·숙소 이용 안내",
     desc="인천공항 출장마사지 예약 전 T1·T2 인근 숙소 방문 가능 여부와 방문자 출입 확인사항을 안내합니다.",
     h1="인천공항 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("중구", "/incheon/jung-gu/"), ("인천공항", "")],
+    breadcrumb=[("인천", "/"), ("중구", "/jung-gu/"), ("인천공항", "")],
     body_content=_airport_body,
 )
 
@@ -605,7 +605,7 @@ p_airport = create_page(
 _dongincheon_body = """
 <section>
 <h2>동인천 출장마사지 — 신포·제물포 인접 생활권 안내</h2>
-<p>동인천은 인천광역시 중구와 미추홀구의 경계에 걸쳐 있는 인천의 구도심 생활권으로, <a href="/incheon/station/dongincheon-station/">동인천역</a>을 중심으로 신포국제시장·월미도·제물포 방면이 이어지는 역사적 상권이 형성된 지역입니다. <strong>동인천 출장마사지</strong> 문의는 동인천역 인근 숙박시설·고시원·모텔과 신포시장 주변 주거지에서 주로 접수됩니다.</p>
+<p>동인천은 인천광역시 중구와 미추홀구의 경계에 걸쳐 있는 인천의 구도심 생활권으로, <a href="/station/dongincheon-station/">동인천역</a>을 중심으로 신포국제시장·월미도·제물포 방면이 이어지는 역사적 상권이 형성된 지역입니다. <strong>동인천 출장마사지</strong> 문의는 동인천역 인근 숙박시설·고시원·모텔과 신포시장 주변 주거지에서 주로 접수됩니다.</p>
 <p>동인천 일대는 오래된 건물과 신축 건물이 혼재하며, 일부 골목은 차량 진입이 어려울 수 있습니다. 방문 전 정확한 도로명 주소와 건물명을 미리 안내해 주시면 방문 경로를 사전에 확인하고 신속하게 안내드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주시기 바랍니다.</p>
 </section>
 
@@ -618,13 +618,13 @@ _dongincheon_body = """
 <section>
 <h2>동인천 주거·숙박 환경과 방문 유의사항</h2>
 <p>동인천 구도심은 노후 건물과 신축 건물이 공존하며, 모텔·고시원·원룸 등 다양한 형태의 숙박·주거시설이 혼재해 있습니다. 건물 유형에 따라 방문자 출입 절차가 상이하므로, 예약 시 건물 형태(모텔·원룸·아파트 등)와 정확한 주소를 함께 알려주시기 바랍니다.</p>
-<p>동인천 일대 골목 주거지는 주차 공간이 협소한 경우가 많으므로, 차량 이동 시 주차 가능 여부를 미리 안내해 주시면 방문이 수월합니다. 이용 전 공통 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>동인천 일대 골목 주거지는 주차 공간이 협소한 경우가 많으므로, 차량 이동 시 주차 가능 여부를 미리 안내해 주시면 방문이 수월합니다. 이용 전 공통 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>동인천 인접 지역 — 제물포·신포·주안 연계 안내</h2>
-<p>동인천 남쪽으로는 <a href="/incheon/michuhol-gu/jemulpo-area/">제물포</a> 생활권과 이어지며, <a href="/incheon/station/jemulpo-station/">제물포역</a>까지는 도보 또는 짧은 차량 이동이 가능합니다. 동쪽으로는 인천역(<a href="/incheon/station/incheon-station/">인천역</a>)과 차이나타운·문학경기장 방면과 연결됩니다.</p>
-<p>미추홀구 방면 안내는 <a href="/incheon/michuhol-gu/">인천 미추홀구</a> 페이지를, 동인천·제물포 통합 생활권 정보는 <a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지에서 확인하실 수 있습니다. 예약 방법은 <a href="/incheon/reservation/">예약 안내</a> 페이지를 먼저 확인해 주세요.</p>
+<p>동인천 남쪽으로는 <a href="/michuhol-gu/jemulpo-area/">제물포</a> 생활권과 이어지며, <a href="/station/jemulpo-station/">제물포역</a>까지는 도보 또는 짧은 차량 이동이 가능합니다. 동쪽으로는 인천역(<a href="/station/incheon-station/">인천역</a>)과 차이나타운·문학경기장 방면과 연결됩니다.</p>
+<p>미추홀구 방면 안내는 <a href="/michuhol-gu/">인천 미추홀구</a> 페이지를, 동인천·제물포 통합 생활권 정보는 <a href="/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지에서 확인하실 수 있습니다. 예약 방법은 <a href="/reservation/">예약 안내</a> 페이지를 먼저 확인해 주세요.</p>
 </section>
 
 <section>
@@ -634,32 +634,32 @@ _dongincheon_body = """
 <li>건물 형태(모텔·원룸·고시원 등) 및 방문자 출입 가능 여부 확인</li>
 <li>골목 차량 진입 가능 여부 확인</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>동인천 생활권 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
+<p>동인천 생활권 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>동인천 구도심 상권·문화시설과 방문 참고 정보</h2>
 <p>동인천역 주변은 인천의 역사적 구도심으로, 신포국제시장·차이나타운·개항장 문화거리 등 관광 명소가 몰려 있어 단기 방문객과 관광객의 숙박 수요가 높습니다. 숙박시설은 동인천역 반경 500m 이내에 소형 모텔과 비즈니스 호텔이 집중되어 있으며, 신포시장 인근에는 게스트하우스·고시원도 다수 분포합니다.</p>
-<p>동인천 서쪽의 월미도 방면은 관광지 특성상 주말·휴일에 인파가 몰려 차량 이동이 지체될 수 있으므로, 방문 시간대를 예약 시 미리 조율하시기 바랍니다. 동인천역에서 북쪽으로는 <a href="/incheon/station/incheon-station/">인천역</a> 방면 차이나타운이 이어지고, 남쪽으로는 <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 생활권</a>과 연결됩니다.</p>
-<p>동인천·제물포 통합 생활권 안내는 <a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지에서, 중구 전체 방문 가능 지역은 <a href="/incheon/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/incheon/reservation/">예약 안내</a>도 함께 읽어보시기 바랍니다.</p>
-<p>동인천 인근 중구 생활권으로는 <a href="/incheon/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>와 <a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a>, <a href="/incheon/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>가 있으며, 미추홀구 방면으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동 출장마사지</a>와 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>가 이어집니다. 인천 구도심 관련 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
+<p>동인천 서쪽의 월미도 방면은 관광지 특성상 주말·휴일에 인파가 몰려 차량 이동이 지체될 수 있으므로, 방문 시간대를 예약 시 미리 조율하시기 바랍니다. 동인천역에서 북쪽으로는 <a href="/station/incheon-station/">인천역</a> 방면 차이나타운이 이어지고, 남쪽으로는 <a href="/michuhol-gu/jemulpo-area/">제물포 생활권</a>과 연결됩니다.</p>
+<p>동인천·제물포 통합 생활권 안내는 <a href="/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지에서, 중구 전체 방문 가능 지역은 <a href="/jung-gu/">인천 중구</a> 페이지에서 확인하실 수 있습니다. 예약 전 <a href="/reservation/">예약 안내</a>도 함께 읽어보시기 바랍니다.</p>
+<p>동인천 인근 중구 생활권으로는 <a href="/jung-gu/yeongjong-area/">영종 생활권 출장마사지</a>와 <a href="/jung-gu/unseo-dong/">운서동 출장마사지</a>, <a href="/jung-gu/incheon-airport-area/">인천공항 출장마사지</a>가 있으며, 미추홀구 방면으로는 <a href="/michuhol-gu/juan-dong/">주안동 출장마사지</a>와 <a href="/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>가 이어집니다. 인천 구도심 관련 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>동인천 구도심 재생과 생활권 현황</h2>
 <p>동인천 일대는 인천시의 도시재생사업 대상지로, 신포동·선화동·답동 등 구도심 생활권에 리모델링 건물과 노후 건물이 공존하고 있습니다. 차이나타운·개항장문화지구·인천아트플랫폼 등 문화·관광 자원이 밀집해 있어 외지 방문객도 많습니다. 숙박시설의 경우 관광 목적 모텔과 장기 투숙 고시원이 혼재하며, 건물마다 방문자 출입 환경이 크게 다릅니다.</p>
-<p>동인천에서 연결되는 인근 생활권 안내는 <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/jung-gu/unseo-dong/">운서동 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/dongincheon-station/">동인천역 역세권</a>·<a href="/incheon/station/incheon-station/">인천역 생활권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내와 <a href="/incheon/jung-gu/">인천 중구</a> 전체 페이지도 참고하시기 바랍니다.</p>
+<p>동인천에서 연결되는 인근 생활권 안내는 <a href="/michuhol-gu/jemulpo-area/">제물포 출장마사지</a>·<a href="/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/jung-gu/unseo-dong/">운서동 출장마사지</a> 페이지를 참고하세요. <a href="/station/dongincheon-station/">동인천역 역세권</a>·<a href="/station/incheon-station/">인천역 생활권</a>·<a href="/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내와 <a href="/jung-gu/">인천 중구</a> 전체 페이지도 참고하시기 바랍니다.</p>
 </section>
 """
 
 p_dongincheon = create_page(
-    path="incheon/jung-gu/dongincheon-area/",
+    path="jung-gu/dongincheon-area/",
     title="동인천 출장마사지｜신포·제물포 인접 생활권 안내",
     desc="동인천 출장마사지 예약 전 동인천역·신포시장·월미도 인근 방문 가능 지역을 확인하세요.",
     h1="동인천 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("중구", "/incheon/jung-gu/"), ("동인천", "")],
+    breadcrumb=[("인천", "/"), ("중구", "/jung-gu/"), ("동인천", "")],
     body_content=_dongincheon_body,
 )
 
@@ -670,7 +670,7 @@ p_dongincheon = create_page(
 _jemulpo_body = """
 <section>
 <h2>제물포 출장마사지 — 제물포역·도화 생활권 안내</h2>
-<p>제물포는 인천광역시 미추홀구 북부의 주거·상업 생활권으로, 수도권 광역철도 1호선 <a href="/incheon/station/jemulpo-station/">제물포역</a>을 중심으로 형성된 지역입니다. <strong>제물포 출장마사지</strong> 문의는 제물포역 인근 아파트·빌라와 도화동 주거지, 숭의동 방면 주거 단지에서 주로 들어옵니다.</p>
+<p>제물포는 인천광역시 미추홀구 북부의 주거·상업 생활권으로, 수도권 광역철도 1호선 <a href="/station/jemulpo-station/">제물포역</a>을 중심으로 형성된 지역입니다. <strong>제물포 출장마사지</strong> 문의는 제물포역 인근 아파트·빌라와 도화동 주거지, 숭의동 방면 주거 단지에서 주로 들어옵니다.</p>
 <p>제물포역 주변은 오래된 상권과 주거지가 혼재되어 있으며, 역 남쪽으로는 인하대학교 방면 생활권과 연결됩니다. 방문 가능 지역과 예약 가능 시간을 사전에 확인해 주시면 원활하게 안내드릴 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요.</p>
 </section>
 
@@ -682,14 +682,14 @@ _jemulpo_body = """
 
 <section>
 <h2>도화동·숭의동 인접 주거지 방문 안내</h2>
-<p>제물포역 남쪽의 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>은 미추홀구의 주요 주거 생활권으로, 빌라·아파트가 혼재된 지역입니다. 숭의동은 제물포역과 주안역 사이의 주거지로, 재개발 구역과 기존 주거지가 공존하고 있습니다.</p>
-<p>도화동 및 숭의동 방면 방문 시에는 구체적인 주소와 함께 주변 랜드마크(학교·의원·편의점 등)를 알려주시면 방문 경로를 더욱 정확하게 안내드릴 수 있습니다. 이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>제물포역 남쪽의 <a href="/michuhol-gu/dohwa-dong/">도화동</a>은 미추홀구의 주요 주거 생활권으로, 빌라·아파트가 혼재된 지역입니다. 숭의동은 제물포역과 주안역 사이의 주거지로, 재개발 구역과 기존 주거지가 공존하고 있습니다.</p>
+<p>도화동 및 숭의동 방면 방문 시에는 구체적인 주소와 함께 주변 랜드마크(학교·의원·편의점 등)를 알려주시면 방문 경로를 더욱 정확하게 안내드릴 수 있습니다. 이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>제물포 인접 지역 — 동인천·주안·도화 연계</h2>
-<p>제물포역 북쪽으로는 <a href="/incheon/jung-gu/dongincheon-area/">동인천</a> 생활권과 연결되며, 남쪽으로는 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>과 <a href="/incheon/michuhol-gu/juan-dong/">주안역</a> 방면이 이어집니다. 제물포역에서 1호선 한 정거장 이동하면 주안역에 도달하며, 주안 생활권과 생활권이 자연스럽게 연결됩니다.</p>
-<p>미추홀구 전체 안내는 <a href="/incheon/michuhol-gu/">인천 미추홀구</a> 페이지를, 동인천·제물포 통합 생활권 정보는 <a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지를 참고하시기 바랍니다. 예약 전 <a href="/incheon/reservation/">예약 안내</a>를 먼저 확인해 주세요.</p>
+<p>제물포역 북쪽으로는 <a href="/jung-gu/dongincheon-area/">동인천</a> 생활권과 연결되며, 남쪽으로는 <a href="/michuhol-gu/dohwa-dong/">도화동</a>과 <a href="/michuhol-gu/juan-dong/">주안역</a> 방면이 이어집니다. 제물포역에서 1호선 한 정거장 이동하면 주안역에 도달하며, 주안 생활권과 생활권이 자연스럽게 연결됩니다.</p>
+<p>미추홀구 전체 안내는 <a href="/michuhol-gu/">인천 미추홀구</a> 페이지를, 동인천·제물포 통합 생활권 정보는 <a href="/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 페이지를 참고하시기 바랍니다. 예약 전 <a href="/reservation/">예약 안내</a>를 먼저 확인해 주세요.</p>
 </section>
 
 <section>
@@ -699,31 +699,31 @@ _jemulpo_body = """
 <li>건물 형태(빌라·아파트·원룸) 및 방문자 출입 가능 여부</li>
 <li>재개발 구역 내 방문 시 접근 경로 사전 확인</li>
 <li>예약 가능 시간대 조율</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>제물포 생활권 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
+<p>제물포 생활권 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 안내해 주시면 빠르게 상담드리겠습니다. <a href="/guide/">홈타이 이용 가이드</a>도 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>제물포 주요 생활 인프라와 방문 참고 정보</h2>
 <p>제물포역 일대는 인하대학교·숭의전문대 등 대학가 생활권과 인접해 있어, 학생 원룸·오피스텔 수요가 높은 지역입니다. 역 주변 상업가로에는 음식점·카페·편의점·학원이 밀집해 있으며, 제물포역 사거리를 중심으로 버스 노선이 다수 경유합니다.</p>
-<p>제물포역 동쪽 숭의동은 재개발이 진행 중인 지역으로, 기존 저층 주거지와 신축 건물이 혼재하고 있습니다. 재개발 구역 내 방문 시 차량 진입 제한과 골목 변경 사항이 있을 수 있으므로 방문 전 주소 확인이 더욱 중요합니다. 이용 전 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 반드시 확인하세요.</p>
-<p>제물포에서 연결되는 미추홀구 생활권으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동 출장마사지</a>·<a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/michuhol-gu/hagik-dong/">학익동 출장마사지</a>가 있습니다. 동인천 방면 연계는 <a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. 미추홀구 전체 안내는 <a href="/incheon/michuhol-gu/">인천 미추홀구</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>제물포역 동쪽 숭의동은 재개발이 진행 중인 지역으로, 기존 저층 주거지와 신축 건물이 혼재하고 있습니다. 재개발 구역 내 방문 시 차량 진입 제한과 골목 변경 사항이 있을 수 있으므로 방문 전 주소 확인이 더욱 중요합니다. 이용 전 <a href="/check/">이용 전 확인사항</a> 페이지를 반드시 확인하세요.</p>
+<p>제물포에서 연결되는 미추홀구 생활권으로는 <a href="/michuhol-gu/juan-dong/">주안동 출장마사지</a>·<a href="/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/michuhol-gu/hagik-dong/">학익동 출장마사지</a>가 있습니다. 동인천 방면 연계는 <a href="/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. 미추홀구 전체 안내는 <a href="/michuhol-gu/">인천 미추홀구</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>제물포 생활권 특성 — 인하대·숭의·도림 주거 환경</h2>
 <p>제물포역 남쪽으로는 인하대학교 캠퍼스가 위치해 학생·교직원 주거지가 형성되어 있으며, 원룸·고시원·빌라 등 1인 주거 형태가 밀집해 있습니다. 숭의동·도화동 경계의 구도심은 재개발 예정 구역과 기존 저층 주거지가 혼재하고 있어, 예약 전 건물 상태와 주소를 정확히 확인하시기 바랍니다.</p>
-<p>제물포에서 이어지는 인접 생활권으로 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/jemulpo-station/">제물포역 역세권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/incheon/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 야간 방문 시에도 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>제물포에서 이어지는 인접 생활권으로 <a href="/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/station/jemulpo-station/">제물포역 역세권</a>·<a href="/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 야간 방문 시에도 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 이용 전 <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 """
 
 p_jemulpo = create_page(
-    path="incheon/michuhol-gu/jemulpo-area/",
+    path="michuhol-gu/jemulpo-area/",
     title="제물포 출장마사지｜제물포역·도화 생활권 안내",
     desc="제물포 출장마사지 예약 전 제물포역·도화동·숭의동 인근 방문 가능 지역을 확인하세요.",
     h1="제물포 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("미추홀구", "/incheon/michuhol-gu/"), ("제물포", "")],
+    breadcrumb=[("인천", "/"), ("미추홀구", "/michuhol-gu/"), ("제물포", "")],
     body_content=_jemulpo_body,
 )
 
@@ -748,7 +748,7 @@ _ganghwa_body = """
 <section>
 <h2>강화읍 방문 가능 여부와 추가 이동비 안내</h2>
 <p>강화읍은 인천 도심 지역에 비해 이동 거리가 상당히 길기 때문에, 방문 가능 여부와 추가 이동비 발생 여부를 예약 전에 반드시 사전 확인하셔야 합니다. 이동 거리와 방문 시간대에 따라 추가 비용이 달라질 수 있으므로, 예약 상담 시 구체적인 방문 주소를 함께 알려주시면 정확한 안내가 가능합니다.</p>
-<p>방문 가능한 날짜와 시간대는 예약 상황에 따라 제한될 수 있으므로, 여유 있는 사전 예약을 권장합니다. 이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하시고, 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.</p>
+<p>방문 가능한 날짜와 시간대는 예약 상황에 따라 제한될 수 있으므로, 여유 있는 사전 예약을 권장합니다. 이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하시고, 개인정보 처리 기준은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -765,30 +765,30 @@ _ganghwa_body = """
 <li>충분한 사전 예약 시간 확보 (당일 즉시 방문 어려울 수 있음)</li>
 <li>방문 가능 시간대 (심야·새벽 제한 가능) 조율</li>
 <li>강화읍 외 면 지역 방문 시 별도 상담 필요</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>강화 방문 가능 여부와 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 방문 주소와 희망 일정을 함께 문의해 주시기 바랍니다. <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요. 강화군 전체 생활권 안내는 <a href="/incheon/life/ganghwa/">강화 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>강화 방문 가능 여부와 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 방문 주소와 희망 일정을 함께 문의해 주시기 바랍니다. <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요. 강화군 전체 생활권 안내는 <a href="/life/ganghwa/">강화 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>강화군 인근 지역 안내</h2>
-<p>강화도와 인접한 인천 서구 <a href="/incheon/seo-gu/geomdan-area/">검단 지역</a>이나 <a href="/incheon/seo-gu/cheongna/">청라국제도시</a> 방면에서 강화도로 이동하는 경우 강화대교를 통한 접근이 일반적입니다. 인천 본토 서구 방면 안내는 <a href="/incheon/seo-gu/">인천 서구</a> 페이지를, 강화군 행정 정보는 <a href="/incheon/ganghwa-gun/">강화군</a> 페이지를 참고하시기 바랍니다.</p>
+<p>강화도와 인접한 인천 서구 <a href="/seo-gu/geomdan-area/">검단 지역</a>이나 <a href="/seo-gu/cheongna/">청라국제도시</a> 방면에서 강화도로 이동하는 경우 강화대교를 통한 접근이 일반적입니다. 인천 본토 서구 방면 안내는 <a href="/seo-gu/">인천 서구</a> 페이지를, 강화군 행정 정보는 <a href="/ganghwa-gun/">강화군</a> 페이지를 참고하시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>강화읍 생활 환경과 주요 명소 방문 시 참고 사항</h2>
 <p>강화읍 내에는 강화향교·강화산성(강화읍성)·강화성당·용흥궁 등 역사 문화 명소가 분포하며, 강화중앙시장은 강화도의 특산물과 먹거리를 취급하는 전통 시장입니다. 강화읍 주거지는 단독주택·빌라 중심의 저층 주거지로 구성되어 있으며, 대규모 아파트 단지보다 소규모 주거지 비중이 높습니다.</p>
-<p>강화군은 인천광역시에 속하지만 도심과의 이동 거리로 인해 방문 가능 여부를 반드시 사전에 전화로 확인해야 하며, 숙박 목적으로 강화도를 방문하시는 경우 체류 숙소의 위치와 방문자 출입 가능 여부도 함께 확인하시기 바랍니다. 강화군 생활권 통합 정보는 <a href="/incheon/life/ganghwa/">강화 생활권</a> 페이지를 참고하시고, 예약 가능 조건은 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 상담 후 결정됩니다. 강화군 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다.</p>
-<p>강화읍을 방문하시는 경우 <a href="/incheon/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/incheon/seo-gu/cheongna/">청라국제도시 출장마사지</a>·<a href="/incheon/seo-gu/">인천 서구</a> 인근 지역 안내도 함께 참고하시어, 방문 가능 지역을 사전에 비교해 두시면 도움이 됩니다. 예약 전 <a href="/incheon/reservation/">예약 안내</a>·<a href="/incheon/check/">이용 전 확인사항</a>·<a href="/incheon/guide/">홈타이 이용 가이드</a>·<a href="/incheon/support/privacy/">개인정보처리방침</a>을 먼저 확인하시기 바랍니다.</p>
+<p>강화군은 인천광역시에 속하지만 도심과의 이동 거리로 인해 방문 가능 여부를 반드시 사전에 전화로 확인해야 하며, 숙박 목적으로 강화도를 방문하시는 경우 체류 숙소의 위치와 방문자 출입 가능 여부도 함께 확인하시기 바랍니다. 강화군 생활권 통합 정보는 <a href="/life/ganghwa/">강화 생활권</a> 페이지를 참고하시고, 예약 가능 조건은 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 상담 후 결정됩니다. 강화군 행정 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다.</p>
+<p>강화읍을 방문하시는 경우 <a href="/seo-gu/geomdan-area/">검단신도시 출장마사지</a>·<a href="/seo-gu/cheongna/">청라국제도시 출장마사지</a>·<a href="/seo-gu/">인천 서구</a> 인근 지역 안내도 함께 참고하시어, 방문 가능 지역을 사전에 비교해 두시면 도움이 됩니다. 예약 전 <a href="/reservation/">예약 안내</a>·<a href="/check/">이용 전 확인사항</a>·<a href="/guide/">홈타이 이용 가이드</a>·<a href="/support/privacy/">개인정보처리방침</a>을 먼저 확인하시기 바랍니다.</p>
 </section>
 """
 
 p_ganghwa = create_page(
-    path="incheon/ganghwa-gun/ganghwa-eup/",
+    path="ganghwa-gun/ganghwa-eup/",
     title="강화 출장마사지｜강화읍 방문 가능 지역 안내",
     desc="강화 출장마사지 방문 가능 여부·추가 이동비·사전 예약 안내. 강화읍 방문 전 반드시 전화 확인 필수.",
     h1="강화 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("강화군", "/incheon/ganghwa-gun/"), ("강화읍", "")],
+    breadcrumb=[("인천", "/"), ("강화군", "/ganghwa-gun/"), ("강화읍", "")],
     body_content=_ganghwa_body,
 )
 
@@ -813,13 +813,13 @@ _ongjin_body = """
 <section>
 <h2>옹진군 도서별 방문 가능 여부 사전 확인</h2>
 <p>옹진군 각 섬은 규모와 생활 인프라가 크게 다릅니다. 백령도·연평도처럼 상주 인구가 많은 섬은 숙박시설과 의료시설이 비교적 갖춰져 있으나, 소규모 섬은 기본 생활 인프라도 제한적입니다. 방문 목적지가 어느 섬인지, 숙박 예정인지, 당일 방문인지에 따라 방문 가능 여부가 달라집니다.</p>
-<p>방문을 원하시는 섬의 이름과 체류 일정을 사전에 알려주시면 방문 가능 여부를 정확하게 안내드릴 수 있습니다. 방문 가능 여부가 확정되기 전까지는 예약이 확정되지 않으며, 충분한 사전 예약이 필요합니다. 이용 전 확인사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
+<p>방문을 원하시는 섬의 이름과 체류 일정을 사전에 알려주시면 방문 가능 여부를 정확하게 안내드릴 수 있습니다. 방문 가능 여부가 확정되기 전까지는 예약이 확정되지 않으며, 충분한 사전 예약이 필요합니다. 이용 전 확인사항은 <a href="/check/">이용 전 확인사항</a> 페이지를 참고하세요.</p>
 </section>
 
 <section>
 <h2>옹진군 방문 시 추가 이동비 및 일정 안내</h2>
 <p>옹진군 도서 지역 방문은 여객선 왕복 교통비와 추가 이동 소요 시간이 발생하므로, 인천 도심 지역과 동일한 조건으로 방문이 이루어지지 않습니다. 추가 이동비와 일정 조율은 전화 상담을 통해 개별적으로 안내드리며, 방문 전 조건을 충분히 논의한 후 예약을 확정합니다.</p>
-<p>기상 악화로 인한 여객선 결항 시 방문 일정이 변경되거나 취소될 수 있으며, 이 경우 개인정보 처리 기준에 따라 안내드립니다. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.</p>
+<p>기상 악화로 인한 여객선 결항 시 방문 일정이 변경되거나 취소될 수 있으며, 이 경우 개인정보 처리 기준에 따라 안내드립니다. 개인정보 처리 기준은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -830,29 +830,29 @@ _ongjin_body = """
 <li>방문 가능 여부 및 추가 이동비 전화 사전 확인 필수</li>
 <li>충분한 사전 예약 (최소 수일 전 예약 권장)</li>
 <li>기상 상황에 따른 일정 변경 가능성 인지</li>
-<li>개인정보 처리 기준 — <a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+<li>개인정보 처리 기준 — <a href="/support/privacy/">개인정보처리방침</a></li>
 </ul>
-<p>옹진군 도서 지역 방문 가능 여부와 예약 상담은 <a href="tel:0508-202-4719">0508-202-4719</a>로 방문 섬 이름·체류 일정을 함께 문의해 주시기 바랍니다. <a href="/incheon/reservation/">예약 안내</a>와 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요. 옹진군 도서 생활권 정보는 <a href="/incheon/life/ongjin-islands/">옹진 도서 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>옹진군 도서 지역 방문 가능 여부와 예약 상담은 <a href="tel:0508-202-4719">0508-202-4719</a>로 방문 섬 이름·체류 일정을 함께 문의해 주시기 바랍니다. <a href="/reservation/">예약 안내</a>와 <a href="/guide/">홈타이 이용 가이드</a>도 참고하세요. 옹진군 도서 생활권 정보는 <a href="/life/ongjin-islands/">옹진 도서 생활권</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>옹진군 인근 지역 안내</h2>
-<p>옹진군과 행정적으로 연결되는 인천 본토 지역으로는 <a href="/incheon/jung-gu/">중구</a>와 <a href="/incheon/seo-gu/">서구</a>가 있습니다. 인천 연안여객터미널이 위치한 중구 항동 방면 이용 시 <a href="/incheon/jung-gu/dongincheon-area/">동인천 생활권</a> 안내도 참고하시기 바랍니다. 옹진군 전체 행정 안내는 <a href="/incheon/ongjin-gun/">옹진군</a> 페이지에서 확인하실 수 있습니다.</p>
+<p>옹진군과 행정적으로 연결되는 인천 본토 지역으로는 <a href="/jung-gu/">중구</a>와 <a href="/seo-gu/">서구</a>가 있습니다. 인천 연안여객터미널이 위치한 중구 항동 방면 이용 시 <a href="/jung-gu/dongincheon-area/">동인천 생활권</a> 안내도 참고하시기 바랍니다. 옹진군 전체 행정 안내는 <a href="/ongjin-gun/">옹진군</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
 <h2>옹진군 섬별 방문 조건 — 영흥·백령·연평·덕적 이동 기준</h2>
 <p>영흥도는 영흥대교로 차량 이동이 가능해 옹진군 도서 중 접근성이 가장 좋습니다. 그러나 영흥도를 제외한 백령도·연평도·덕적도·소야도 등은 여객선 운항 시간표에 맞춰 이동해야 하며, 기상 악화 시 결항으로 일정이 전면 변경될 수 있습니다. 백령도는 인천항에서 약 4~5시간, 연평도는 약 2~3시간, 덕적도는 약 1시간 30분~2시간 소요됩니다.</p>
-<p>옹진군 섬 지역 방문 시에는 숙박 여부·체류 일정·이동 수단을 사전에 알려주셔야 정확한 방문 가능 여부 안내가 가능합니다. 인천 연안여객터미널 출발 기준 방문 계획은 <a href="/incheon/jung-gu/dongincheon-area/">동인천 생활권</a>·<a href="/incheon/jung-gu/">인천 중구</a> 페이지와 함께 참고하시고, <a href="/incheon/life/ongjin-islands/">옹진 도서 생활권</a>·<a href="/incheon/ongjin-gun/">옹진군</a>·<a href="/incheon/reservation/">예약 안내</a>·<a href="/incheon/check/">이용 전 확인사항</a>·<a href="/incheon/support/privacy/">개인정보처리방침</a>·<a href="/incheon/guide/">홈타이 이용 가이드</a>도 확인하시기 바랍니다. 옹진군의 도서 행정 및 여객선 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 방문 가능 여부 최종 확인은 반드시 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 전화 상담 후 진행하시기 바랍니다.</p>
+<p>옹진군 섬 지역 방문 시에는 숙박 여부·체류 일정·이동 수단을 사전에 알려주셔야 정확한 방문 가능 여부 안내가 가능합니다. 인천 연안여객터미널 출발 기준 방문 계획은 <a href="/jung-gu/dongincheon-area/">동인천 생활권</a>·<a href="/jung-gu/">인천 중구</a> 페이지와 함께 참고하시고, <a href="/life/ongjin-islands/">옹진 도서 생활권</a>·<a href="/ongjin-gun/">옹진군</a>·<a href="/reservation/">예약 안내</a>·<a href="/check/">이용 전 확인사항</a>·<a href="/support/privacy/">개인정보처리방침</a>·<a href="/guide/">홈타이 이용 가이드</a>도 확인하시기 바랍니다. 옹진군의 도서 행정 및 여객선 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 방문 가능 여부 최종 확인은 반드시 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 전화 상담 후 진행하시기 바랍니다.</p>
 </section>
 """
 
 p_ongjin = create_page(
-    path="incheon/ongjin-gun/ongjin-area/",
+    path="ongjin-gun/ongjin-area/",
     title="옹진 출장마사지｜도서 지역 방문 가능 여부 안내",
     desc="옹진 출장마사지 도서 지역 방문 가능 여부·여객선 이동 시간·추가 이동비·사전 예약 안내.",
     h1="옹진 출장마사지",
-    breadcrumb=[("인천", "/incheon/"), ("옹진군", "/incheon/ongjin-gun/"), ("옹진", "")],
+    breadcrumb=[("인천", "/"), ("옹진군", "/ongjin-gun/"), ("옹진", "")],
     body_content=_ongjin_body,
 )
 

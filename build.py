@@ -310,7 +310,7 @@ def render_page(page: dict) -> str:
   <div class="header-accent" aria-hidden="true"></div>
   <div class="header-top">
     <div class="header-inner">
-      <a class="brand" href="/incheon/"><span class="brand-mark">간</span> <span class="brand-text">{BRAND}</span></a>
+      <a class="brand" href="/"><span class="brand-mark">간</span> <span class="brand-text">{BRAND}</span></a>
       <p class="header-tagline"><span class="tag-gem">◆</span> {SERVICE_AREA_TEXT} 방문 관리 <span class="tag-gem">◆</span> 24시간 상담</p>
       <a class="header-call" href="tel:{PHONE}"><span class="call-label">예약전화</span> {PHONE_DISPLAY}</a>
       <button class="nav-toggle" aria-label="메뉴 열기" aria-expanded="false"><span></span><span></span><span></span></button>
@@ -344,26 +344,26 @@ def render_page(page: dict) -> str:
     <nav class="footer-col" aria-label="서비스 안내">
       <p class="footer-title">서비스</p>
       <ul>
-        <li><a href="/incheon/">인천 출장마사지</a></li>
-        <li><a href="/incheon/yeonsu-gu/">구·군별 안내</a></li>
-        <li><a href="/incheon/yeonsu-gu/songdo/">지역별 안내</a></li>
-        <li><a href="/incheon/station/bupyeong-station/">역세권 안내</a></li>
-        <li><a href="/incheon/life/songdo-international-city/">생활권 안내</a></li>
+        <li><a href="/">인천 출장마사지</a></li>
+        <li><a href="/yeonsu-gu/">구·군별 안내</a></li>
+        <li><a href="/yeonsu-gu/songdo/">지역별 안내</a></li>
+        <li><a href="/station/bupyeong-station/">역세권 안내</a></li>
+        <li><a href="/life/songdo-international-city/">생활권 안내</a></li>
       </ul>
     </nav>
     <nav class="footer-col" aria-label="이용 안내">
       <p class="footer-title">이용 안내</p>
       <ul>
-        <li><a href="/incheon/reservation/">예약안내</a></li>
-        <li><a href="/incheon/check/">이용 전 확인사항</a></li>
-        <li><a href="/incheon/guide/">홈타이 이용 가이드</a></li>
-        <li><a href="/incheon/support/">고객센터</a></li>
+        <li><a href="/reservation/">예약안내</a></li>
+        <li><a href="/check/">이용 전 확인사항</a></li>
+        <li><a href="/guide/">홈타이 이용 가이드</a></li>
+        <li><a href="/support/">고객센터</a></li>
       </ul>
     </nav>
     <nav class="footer-col" aria-label="정책 및 문의">
       <p class="footer-title">정책·문의</p>
       <ul>
-        <li><a href="/incheon/support/privacy/">개인정보처리방침</a></li>
+        <li><a href="/support/privacy/">개인정보처리방침</a></li>
         <li><a href="{TELEGRAM_URL}" target="_blank" rel="noopener nofollow">텔레그램 문의하기</a></li>
       </ul>
     </nav>

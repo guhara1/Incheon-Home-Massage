@@ -13,11 +13,11 @@ def create_page(path, title, desc, h1, breadcrumb, body_content):
 # 1. 송도 (연수구)
 # ──────────────────────────────────────────────
 _songdo = create_page(
-    path="incheon/yeonsu-gu/songdo/",
+    path="yeonsu-gu/songdo/",
     title="송도 출장마사지｜송도국제도시·센트럴파크 홈타이 안내",
     desc="송도 출장마사지 예약 전 송도국제도시, 센트럴파크, 인천대입구역 생활권을 확인하세요.",
     h1="송도 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("연수구", "/incheon/yeonsu-gu/"), ("송도", "")],
+    breadcrumb=[("인천", "/"), ("연수구", "/yeonsu-gu/"), ("송도", "")],
     body_content="""
 <section>
   <h2>송도 출장마사지 서비스 소개</h2>
@@ -40,15 +40,15 @@ _songdo = create_page(
   <h2>송도국제도시 생활권과 이동 동선</h2>
   <p>
     송도국제도시는 인천 지하철 1호선
-    <a href="/incheon/station/incheon-national-univ-station/">인천대입구역</a>과
-    <a href="/incheon/station/central-park-station/">센트럴파크역</a>,
-    <a href="/incheon/station/songdo-moonlight-festival-park-station/">송도달빛축제공원역</a>
+    <a href="/station/incheon-national-univ-station/">인천대입구역</a>과
+    <a href="/station/central-park-station/">센트럴파크역</a>,
+    <a href="/station/songdo-moonlight-festival-park-station/">송도달빛축제공원역</a>
     세 역이 관통하는 광역 생활권입니다. 1공구부터 11공구까지 구역이 넓어 예약 시
     공구 번호 또는 정확한 단지명을 알려 주시면 이동 동선을 사전에 조율해 정확한 방문
     시간을 안내드릴 수 있습니다.
   </p>
   <p>
-    <a href="/incheon/life/songdo-international-city/">송도국제도시 생활권 안내</a> 페이지에서
+    <a href="/life/songdo-international-city/">송도국제도시 생활권 안내</a> 페이지에서
     송도 전역의 주거·상업 구역 분포를 확인하실 수 있습니다.
     <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사</a>
     노선도에서 세 역의 위치와 환승 정보도 참고하실 수 있습니다.
@@ -79,10 +79,10 @@ _songdo = create_page(
     <li>트리플스트리트·현대프리미엄아울렛 인근 오피스텔</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/yeonsu-gu/yeonsu-dong/">연수동</a> 및
-    <a href="/incheon/yeonsu-gu/dongchun-dong/">동춘동</a>도 방문 범위에 포함됩니다.
+    인접한 <a href="/yeonsu-gu/yeonsu-dong/">연수동</a> 및
+    <a href="/yeonsu-gu/dongchun-dong/">동춘동</a>도 방문 범위에 포함됩니다.
     연수구 전역의 생활권 정보는
-    <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권 안내</a> 페이지에서 확인하세요.
+    <a href="/life/yeonsu-woninjae/">연수·원인재 생활권 안내</a> 페이지에서 확인하세요.
   </p>
 </section>
 
@@ -96,9 +96,9 @@ _songdo = create_page(
   </p>
   <p>
     개인정보 처리 기준에 따라 예약 시 제공하신 주소·연락처는 방문 목적 이외에
-    사용하지 않습니다. 자세한 예약 방법은 <a href="/incheon/reservation/">예약 안내</a>
-    페이지를, 방문 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a> 페이지를
-    참고하세요. 홈타이가 처음이신 분은 <a href="/incheon/guide/">홈타이 이용 가이드</a>도
+    사용하지 않습니다. 자세한 예약 방법은 <a href="/reservation/">예약 안내</a>
+    페이지를, 방문 전 준비 사항은 <a href="/check/">이용 전 확인사항</a> 페이지를
+    참고하세요. 홈타이가 처음이신 분은 <a href="/guide/">홈타이 이용 가이드</a>도
     미리 읽어보시길 권장합니다.
   </p>
 </section>
@@ -106,12 +106,12 @@ _songdo = create_page(
 <section>
   <h2>송도 인근 지역 연계 안내</h2>
   <p>
-    송도국제도시와 인접한 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>·
-    <a href="/incheon/namdong-gu/sorae-area/">소래 지역</a>도 방문 가능 범위에 포함됩니다.
-    남동구 지역은 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a> 페이지에서
+    송도국제도시와 인접한 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>·
+    <a href="/namdong-gu/sorae-area/">소래 지역</a>도 방문 가능 범위에 포함됩니다.
+    남동구 지역은 <a href="/namdong-gu/">남동구 출장마사지 안내</a> 페이지에서
     별도 확인하세요. 연수구 전반 서비스 안내는
-    <a href="/incheon/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하시고,
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서
+    <a href="/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하시고,
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>에서
     상세히 확인하실 수 있습니다.
   </p>
 </section>
@@ -146,7 +146,7 @@ _songdo = create_page(
   <h3>예약 취소 및 시간 변경은 어떻게 하나요?</h3>
   <p>
     예약 취소 또는 시간 변경은 방문 예정 시간 2시간 전까지 전화로 연락 주시면 됩니다.
-    정책 세부 내용은 <a href="/incheon/check/">이용 전 확인사항</a>을 참고하세요.
+    정책 세부 내용은 <a href="/check/">이용 전 확인사항</a>을 참고하세요.
   </p>
 </section>
 
@@ -167,7 +167,7 @@ _songdo = create_page(
   <p>
     간다GO는 방문형 관리 서비스 특성상 고객님의 공간에서 진행됩니다. 쾌적한 서비스를
     위해 방문 전 간단한 환기와 적절한 온도 설정(22~25°C 권장)을 해 두시면 더욱 편안한
-    이용이 가능합니다. 자세한 이용 방법은 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    이용이 가능합니다. 자세한 이용 방법은 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
   </p>
 </section>
 """,
@@ -178,11 +178,11 @@ _songdo = create_page(
 # 2. 연수동 (연수구)
 # ──────────────────────────────────────────────
 _yeonsu_dong = create_page(
-    path="incheon/yeonsu-gu/yeonsu-dong/",
+    path="yeonsu-gu/yeonsu-dong/",
     title="연수동 출장마사지｜원인재역·연수역 생활권 안내",
     desc="연수동 출장마사지 예약 안내. 원인재역·연수역 생활권, 동춘동 인접 지역 방문 가능 여부 확인.",
     h1="연수동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("연수구", "/incheon/yeonsu-gu/"), ("연수동", "")],
+    breadcrumb=[("인천", "/"), ("연수구", "/yeonsu-gu/"), ("연수동", "")],
     body_content="""
 <section>
   <h2>연수동 출장마사지 서비스 소개</h2>
@@ -190,7 +190,7 @@ _yeonsu_dong = create_page(
     연수동 출장마사지는 인천 연수구 연수동 일대를 방문 범위로 운영하는 간다GO의 홈타이
     서비스입니다. 연수동은 인천 연수구의 구도심에 해당하는 생활권으로, 오래된 아파트 단지와
     빌라촌이 넓게 분포해 있어 가족 단위 거주자와 개인 이용자 모두 편리하게 사용할 수 있습니다.
-    인천 지하철 1호선 <a href="/incheon/station/woninjae-station/">원인재역</a> 역세권과
+    인천 지하철 1호선 <a href="/station/woninjae-station/">원인재역</a> 역세권과
     연수역 생활권을 중심으로 방문이 이루어지며, 역 주변 빌라·오피스텔은 물론
     대단지 아파트까지 폭넓게 방문 가능합니다.
   </p>
@@ -204,14 +204,14 @@ _yeonsu_dong = create_page(
   <h2>연수동 생활권 특성과 주거 환경</h2>
   <p>
     연수동은 인천도시철도 1호선이 지나며
-    <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권</a>의 중심에 위치합니다.
+    <a href="/life/yeonsu-woninjae/">연수·원인재 생활권</a>의 중심에 위치합니다.
     연수구청 인근 관공서 밀집 지역부터 연수4동 주택가까지 다양한 주거 유형이 공존합니다.
     연수동 내에는 1980~90년대 입주한 중층 아파트 단지가 다수 있으며, 이 단지들은 현재
     재건축·리모델링 추진이 활발히 논의되는 구역도 포함됩니다.
   </p>
   <p>
     연수구청 주변은 행정 기능이 집중된 지역으로, 평일 낮 시간대 방문 예약이 비교적
-    수월합니다. 인근 <a href="/incheon/yeonsu-gu/dongchun-dong/">동춘동</a>과 생활권이
+    수월합니다. 인근 <a href="/yeonsu-gu/dongchun-dong/">동춘동</a>과 생활권이
     맞닿아 있어 두 지역을 연계 예약하시는 경우도 많습니다.
   </p>
   <p>
@@ -237,9 +237,9 @@ _yeonsu_dong = create_page(
     <li>구도심 재개발 예정 구역은 출입 가능 여부 사전 문의 필요</li>
   </ul>
   <p>
-    <a href="/incheon/yeonsu-gu/songdo/">송도국제도시</a>와 인접한 지역도 방문
+    <a href="/yeonsu-gu/songdo/">송도국제도시</a>와 인접한 지역도 방문
     가능합니다. 연수구 전역 안내는
-    <a href="/incheon/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하세요.
+    <a href="/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하세요.
   </p>
 </section>
 
@@ -257,22 +257,22 @@ _yeonsu_dong = create_page(
     개인정보 처리 기준에 따라 수집된 주소·연락처는 방문 서비스 목적으로만 사용됩니다.
   </p>
   <p>
-    예약 방법은 <a href="/incheon/reservation/">예약 안내</a>,
-    방문 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>을 참고하세요.
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>도 함께 살펴보시길 권장합니다.
+    예약 방법은 <a href="/reservation/">예약 안내</a>,
+    방문 준비 사항은 <a href="/check/">이용 전 확인사항</a>을 참고하세요.
+    <a href="/guide/">홈타이 이용 가이드</a>도 함께 살펴보시길 권장합니다.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    연수동과 생활권이 겹치는 <a href="/incheon/yeonsu-gu/dongchun-dong/">동춘동</a>,
-    <a href="/incheon/yeonsu-gu/songdo/">송도</a> 지역도 방문 가능합니다.
-    미추홀구 방향으로는 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>과
-    <a href="/incheon/michuhol-gu/hagik-dong/">학익동</a>이 인접해 있습니다.
-    남동구 방면 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>도 방문 범위에
+    연수동과 생활권이 겹치는 <a href="/yeonsu-gu/dongchun-dong/">동춘동</a>,
+    <a href="/yeonsu-gu/songdo/">송도</a> 지역도 방문 가능합니다.
+    미추홀구 방향으로는 <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>과
+    <a href="/michuhol-gu/hagik-dong/">학익동</a>이 인접해 있습니다.
+    남동구 방면 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>도 방문 범위에
     포함됩니다.
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>에서
     상세히 확인하실 수 있습니다.
   </p>
 </section>
@@ -303,7 +303,7 @@ _yeonsu_dong = create_page(
   <h3>예약 취소나 시간 변경은 어떻게 하나요?</h3>
   <p>
     방문 예정 시간 2시간 전까지 전화로 연락 주시면 취소 또는 변경이 가능합니다.
-    세부 정책은 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 주세요.
+    세부 정책은 <a href="/check/">이용 전 확인사항</a>을 참고해 주세요.
   </p>
 </section>
 
@@ -322,7 +322,7 @@ _yeonsu_dong = create_page(
   </p>
   <p>
     처음 홈타이를 이용하시는 분이라면 어떤 매트나 공간이 필요한지 궁금하실 수 있습니다.
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 방문 전 준비 사항과 공간 요건을
+    <a href="/guide/">홈타이 이용 가이드</a>에서 방문 전 준비 사항과 공간 요건을
     미리 확인하시면 더욱 편리하게 이용하실 수 있습니다.   <p>
     간다GO는 방문형 관리 서비스로, 고객님의 생활 공간에서 직접 서비스가 이루어집니다.
     위생적인 서비스를 위해 사용되는 시트·타월 등 소모품은 매 방문 시 새 것으로 교체하여
@@ -341,11 +341,11 @@ _yeonsu_dong = create_page(
 # 3. 동춘동 (연수구)
 # ──────────────────────────────────────────────
 _dongchun_dong = create_page(
-    path="incheon/yeonsu-gu/dongchun-dong/",
+    path="yeonsu-gu/dongchun-dong/",
     title="동춘동 출장마사지｜동춘역·청학동 생활권 안내",
     desc="동춘동 출장마사지 예약 안내. 동춘역·청학동 생활권, 연수동 인접 방문 가능 여부 확인.",
     h1="동춘동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("연수구", "/incheon/yeonsu-gu/"), ("동춘동", "")],
+    breadcrumb=[("인천", "/"), ("연수구", "/yeonsu-gu/"), ("동춘동", "")],
     body_content="""
 <section>
   <h2>동춘동 출장마사지 서비스 소개</h2>
@@ -366,8 +366,8 @@ _dongchun_dong = create_page(
 <section>
   <h2>동춘동·청학동 생활권 특성</h2>
   <p>
-    동춘동은 <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권</a>과
-    맞닿아 있으며, 동춘역에서 <a href="/incheon/station/woninjae-station/">원인재역</a>
+    동춘동은 <a href="/life/yeonsu-woninjae/">연수·원인재 생활권</a>과
+    맞닿아 있으며, 동춘역에서 <a href="/station/woninjae-station/">원인재역</a>
     구간이 주요 이동 축입니다. 청학동 방향으로는 학교·공원이 밀집한 주거 중심 환경이
     형성되어 있습니다. 동춘1·2·3동에 걸쳐 현대·한양·삼성 등 구 브랜드 대단지 아파트가
     자리 잡고 있으며, 일부 단지는 노후 아파트 정비 사업 대상에 포함되어 있습니다.
@@ -379,9 +379,9 @@ _dongchun_dong = create_page(
     안내해 주시면 원활한 방문이 가능합니다.
   </p>
   <p>
-    인근 <a href="/incheon/yeonsu-gu/yeonsu-dong/">연수동</a>과 인접해 두 지역을 연계
+    인근 <a href="/yeonsu-gu/yeonsu-dong/">연수동</a>과 인접해 두 지역을 연계
     예약하는 경우가 많습니다. 연수구 전반 서비스 안내는
-    <a href="/incheon/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하세요.
+    <a href="/yeonsu-gu/">연수구 출장마사지 안내</a> 페이지를 참고하세요.
   </p>
 </section>
 
@@ -401,8 +401,8 @@ _dongchun_dong = create_page(
     <li>청학산 자락 단독주택 지역(차량 진입 가능 여부 사전 확인 필요)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/yeonsu-gu/songdo/">송도</a> 지역도 함께 방문 가능합니다.
-    남동구 방향으로는 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>이
+    인접한 <a href="/yeonsu-gu/songdo/">송도</a> 지역도 함께 방문 가능합니다.
+    남동구 방향으로는 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>이
     인접해 있습니다.
   </p>
 </section>
@@ -421,20 +421,20 @@ _dongchun_dong = create_page(
     방문 목적으로만 활용됩니다.
   </p>
   <p>
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>,
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 사전에 확인하시길 권장합니다.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>,
+    <a href="/guide/">홈타이 이용 가이드</a>를 사전에 확인하시길 권장합니다.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    동춘동 남측으로는 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>과
-    <a href="/incheon/namdong-gu/sorae-area/">소래 지역</a>이 가깝습니다.
-    미추홀구 방향으로 이동하면 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>과
-    <a href="/incheon/michuhol-gu/hagik-dong/">학익동</a>이 있습니다.
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    동춘동 남측으로는 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>과
+    <a href="/namdong-gu/sorae-area/">소래 지역</a>이 가깝습니다.
+    미추홀구 방향으로 이동하면 <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>과
+    <a href="/michuhol-gu/hagik-dong/">학익동</a>이 있습니다.
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -463,7 +463,7 @@ _dongchun_dong = create_page(
   <h3>예약 변경 및 취소는 어떻게 하나요?</h3>
   <p>
     방문 예정 2시간 전까지 전화로 연락 주시면 변경·취소가 가능합니다.
-    <a href="/incheon/check/">이용 전 확인사항</a>에서 정책 세부 내용을 확인하세요.
+    <a href="/check/">이용 전 확인사항</a>에서 정책 세부 내용을 확인하세요.
   </p>
 </section>
 
@@ -485,7 +485,7 @@ _dongchun_dong = create_page(
     예약 시 안내해 주시면 혼란 없이 방문이 가능합니다.   <p>
     간다GO 방문형 서비스는 고객 공간의 위생을 최우선으로 생각합니다.
     서비스에 사용되는 소모품은 매 방문 새 것을 사용하며, 사용 후 남은 용품은 당일 수거합니다.
-    서비스 절차 전반은 <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    서비스 절차 전반은 <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
   </p>
   <p>
     동춘동은 인천 연수구 내에서도 주거 환경이 안정된 지역으로, 오랜 거주자 비율이 높습니다.
@@ -496,7 +496,7 @@ _dongchun_dong = create_page(
   <p>
     동춘동 인근 연수구 청소년수련관·체육공원 주변은 가족 단위 거주자가 선호하는 주거지입니다.
     주말 오전 체육시설 이용 후 홈타이를 예약하시는 가족 고객도 많습니다. 연수구 전반
-    서비스 안내는 <a href="/incheon/yeonsu-gu/">연수구 출장마사지 안내</a>를 참고하세요.
+    서비스 안내는 <a href="/yeonsu-gu/">연수구 출장마사지 안내</a>를 참고하세요.
   </p>
 </section>
 """,
@@ -507,11 +507,11 @@ _dongchun_dong = create_page(
 # 4. 구월동 (남동구)
 # ──────────────────────────────────────────────
 _guwol_dong = create_page(
-    path="incheon/namdong-gu/guwol-dong/",
+    path="namdong-gu/guwol-dong/",
     title="구월동 출장마사지｜인천시청·예술회관 생활권 안내",
     desc="구월동 출장마사지 예약 안내. 인천시청역·예술회관역·인천터미널 생활권 방문 가능 여부 확인.",
     h1="구월동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("남동구", "/incheon/namdong-gu/"), ("구월동", "")],
+    breadcrumb=[("인천", "/"), ("남동구", "/namdong-gu/"), ("구월동", "")],
     body_content="""
 <section>
   <h2>구월동 출장마사지 서비스 소개</h2>
@@ -520,9 +520,9 @@ _guwol_dong = create_page(
     홈타이·방문형 관리 서비스입니다. 구월동은 인천광역시청이 위치한 인천 행정·상업의
     핵심 생활권으로, 대형 쇼핑몰·의료시설·업무 빌딩이 집중되어 있어 직장인과 거주자 모두
     폭넓게 이용합니다. 인천 지하철 1호선
-    <a href="/incheon/station/incheon-cityhall-station/">인천시청역</a>,
-    <a href="/incheon/station/arts-center-station/">예술회관역</a>,
-    <a href="/incheon/station/incheon-terminal-station/">인천터미널역</a> 세 역이
+    <a href="/station/incheon-cityhall-station/">인천시청역</a>,
+    <a href="/station/arts-center-station/">예술회관역</a>,
+    <a href="/station/incheon-terminal-station/">인천터미널역</a> 세 역이
     구월동을 둘러싸고 있어 교통 접근성이 뛰어납니다.
   </p>
   <p>
@@ -534,7 +534,7 @@ _guwol_dong = create_page(
 <section>
   <h2>구월동·인천시청 생활권 특성</h2>
   <p>
-    구월동은 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>의
+    구월동은 <a href="/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>의
     중심입니다. 모래내시장·인천아트센터 주변 상업 지역과 구월주공아파트를 비롯한
     대단지 주거 지역이 공존합니다. 인천터미널 롯데백화점·NC백화점 주변 유동 인구가 많아
     저녁 시간대 예약 수요가 높은 편입니다. 길병원 등 대형 의료 시설도 인근에 위치해 있어
@@ -568,8 +568,8 @@ _guwol_dong = create_page(
     <li>길병원 인근 오피스텔·의료진 숙소</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>과의 연계 방문도 가능합니다.
-    남동구 전반 안내는 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
+    인접한 <a href="/namdong-gu/ganseok-dong/">간석동</a>과의 연계 방문도 가능합니다.
+    남동구 전반 안내는 <a href="/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
   </p>
 </section>
 
@@ -583,9 +583,9 @@ _guwol_dong = create_page(
   <p>
     추가 이동비는 구월동 기본 방문 범위 내에서 발생하지 않습니다.
     개인정보 처리 기준에 따라 수집된 예약 정보는 방문 서비스 목적으로만 사용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>와
-    <a href="/incheon/check/">이용 전 확인사항</a>을 미리 살펴보세요.
-    홈타이 이용이 처음이신 분은 <a href="/incheon/guide/">홈타이 이용 가이드</a>를
+    <a href="/reservation/">예약 안내</a>와
+    <a href="/check/">이용 전 확인사항</a>을 미리 살펴보세요.
+    홈타이 이용이 처음이신 분은 <a href="/guide/">홈타이 이용 가이드</a>를
     먼저 읽어보시길 권장합니다.
   </p>
 </section>
@@ -593,11 +593,11 @@ _guwol_dong = create_page(
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    구월동과 접하는 <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>,
-    <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>도 방문 범위에 포함됩니다.
-    미추홀구 방향으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동</a> 페이지를
+    구월동과 접하는 <a href="/namdong-gu/ganseok-dong/">간석동</a>,
+    <a href="/namdong-gu/nonhyeon-dong/">논현동</a>도 방문 범위에 포함됩니다.
+    미추홀구 방향으로는 <a href="/michuhol-gu/juan-dong/">주안동</a> 페이지를
     참고하세요. 개인정보 관련 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -625,7 +625,7 @@ _guwol_dong = create_page(
   <h3>예약 취소 및 변경 방법이 궁금합니다.</h3>
   <p>
     방문 예정 시간 2시간 전까지 전화로 연락 주시면 됩니다.
-    <a href="/incheon/check/">이용 전 확인사항</a> 페이지에서 자세한 정책을 확인하세요.
+    <a href="/check/">이용 전 확인사항</a> 페이지에서 자세한 정책을 확인하세요.
   </p>
 </section>
 
@@ -645,14 +645,14 @@ _guwol_dong = create_page(
     구월동 생활권에서 이용하시는 직장인 고객 중 점심 시간대(12~2시) 예약도 종종 있습니다.
     짧은 시간 내 효율적인 관리를 원하시는 경우 예약 시 희망 시간과 소요 시간을 함께 말씀해
     주시면 맞춤 안내드릴 수 있습니다. 서비스 관련 상세 안내는
-    <a href="/incheon/reservation/">예약 안내</a> 페이지를 참고하세요.
+    <a href="/reservation/">예약 안내</a> 페이지를 참고하세요.
   </p>
   <p>
     구월동 인근 모래내시장은 인천의 전통 재래시장으로 장날 주변 이면도로와 골목 주차가
     어렵습니다. 구월주공·구월한신·구월현대 등 대단지 아파트는 단지 규모가 커서 동 번호와
     출입구 위치를 함께 안내해 주시면 정시 방문에 도움이 됩니다. 길병원 응급실 인근
     레지던스에서 장기 체류 고객 방문도 가능합니다. 예약 시 체류 유형을 간략히 알려 주세요.
-    <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a> 페이지에서 구월동을 포함한
+    <a href="/namdong-gu/">남동구 출장마사지 안내</a> 페이지에서 구월동을 포함한
     남동구 전역 서비스 현황을 확인하실 수 있습니다.
   </p>
   <p>
@@ -669,11 +669,11 @@ _guwol_dong = create_page(
 # 5. 간석동 (남동구)
 # ──────────────────────────────────────────────
 _ganseok_dong = create_page(
-    path="incheon/namdong-gu/ganseok-dong/",
+    path="namdong-gu/ganseok-dong/",
     title="간석동 출장마사지｜간석오거리역·동암역 생활권 안내",
     desc="간석동 출장마사지 예약 안내. 간석오거리역·동암역 생활권, 구월동 인접 방문 가능 여부 확인.",
     h1="간석동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("남동구", "/incheon/namdong-gu/"), ("간석동", "")],
+    breadcrumb=[("인천", "/"), ("남동구", "/namdong-gu/"), ("간석동", "")],
     body_content="""
 <section>
   <h2>간석동 출장마사지 서비스 소개</h2>
@@ -682,8 +682,8 @@ _ganseok_dong = create_page(
     홈타이 서비스입니다. 간석동은 인천 구도심 상권과 주거지가 혼재하는 생활권으로,
     간석 재래시장·오거리 상권 인근 직장인 및 아파트·빌라 거주민 모두가 이용할 수 있습니다.
     인천 지하철 1호선
-    <a href="/incheon/station/ganseogogeori-station/">간석오거리역</a>과 수인분당선
-    <a href="/incheon/station/dongam-station/">동암역</a>이 간석동 교통의 핵심 축을
+    <a href="/station/ganseogogeori-station/">간석오거리역</a>과 수인분당선
+    <a href="/station/dongam-station/">동암역</a>이 간석동 교통의 핵심 축을
     이루며, 두 역 사이 주거 밀집 지역에서 예약이 많이 이루어집니다.
   </p>
   <p>
@@ -698,8 +698,8 @@ _ganseok_dong = create_page(
     간석동은 남동구와 부평구의 경계에 위치해 두 생활권의 영향을 함께 받습니다.
     동암역 인근은 수인분당선 환승 수요가 높아 유동 인구가 많고, 간석오거리역 주변은
     재래시장·소규모 상가가 밀집해 있습니다.
-    <a href="/incheon/namdong-gu/guwol-dong/">구월동</a> 방향으로는
-    <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과
+    <a href="/namdong-gu/guwol-dong/">구월동</a> 방향으로는
+    <a href="/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과
     자연스럽게 연결됩니다.
   </p>
   <p>
@@ -730,9 +730,9 @@ _ganseok_dong = create_page(
     <li>부평구 경계 인접 지역(산곡동 방향)은 예약 시 확인 필요</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a> 방향과
-    남쪽의 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>도 방문 범위에 포함됩니다.
-    남동구 전반 안내는 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
+    인접한 <a href="/bupyeong-gu/sangok-dong/">산곡동</a> 방향과
+    남쪽의 <a href="/namdong-gu/guwol-dong/">구월동</a>도 방문 범위에 포함됩니다.
+    남동구 전반 안내는 <a href="/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
   </p>
 </section>
 
@@ -747,21 +747,21 @@ _ganseok_dong = create_page(
     추가 이동비는 간석동 기본 방문 범위 내에서 발생하지 않으며, 부평구 경계
     외곽 지역은 예약 시 안내드립니다.
     개인정보 처리 기준에 따라 예약 정보는 서비스 목적으로만 활용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>와
-    <a href="/incheon/check/">이용 전 확인사항</a>을 미리 확인하세요.
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시길 권장합니다.
+    <a href="/reservation/">예약 안내</a>와
+    <a href="/check/">이용 전 확인사항</a>을 미리 확인하세요.
+    <a href="/guide/">홈타이 이용 가이드</a>도 참고하시길 권장합니다.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    간석동 북쪽으로는 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과
-    <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a>이 있습니다.
-    남쪽으로는 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>이 인접해 있습니다.
-    미추홀구 방향으로는 <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>이
+    간석동 북쪽으로는 <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>과
+    <a href="/bupyeong-gu/sangok-dong/">산곡동</a>이 있습니다.
+    남쪽으로는 <a href="/namdong-gu/guwol-dong/">구월동</a>이 인접해 있습니다.
+    미추홀구 방향으로는 <a href="/michuhol-gu/juan-dong/">주안동</a>이
     가깝습니다. 개인정보 관련 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -790,7 +790,7 @@ _ganseok_dong = create_page(
   <h3>예약 취소 및 변경은 어떻게 하나요?</h3>
   <p>
     방문 2시간 전까지 전화 연락으로 가능합니다.
-    <a href="/incheon/check/">이용 전 확인사항</a>에서 세부 정책을 확인하세요.
+    <a href="/check/">이용 전 확인사항</a>에서 세부 정책을 확인하세요.
   </p>
 </section>
 
@@ -809,16 +809,16 @@ _ganseok_dong = create_page(
   <p>
     동암역 인근 오피스텔은 수인분당선 이용자 중심의 생활권으로, 평일 퇴근 이후
     예약이 집중됩니다. 저녁 7~10시 시간대는 사전 예약을 강력히 권장합니다.
-    이용에 관한 자세한 정보는 <a href="/incheon/reservation/">예약 안내</a>와
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고하세요.
+    이용에 관한 자세한 정보는 <a href="/reservation/">예약 안내</a>와
+    <a href="/guide/">홈타이 이용 가이드</a>를 참고하세요.
   </p>
   <p>
     간석동 주거 밀집 지역 중 간석3·4동 일대 빌라촌은 1990년대 지어진 저층 건물이 많습니다.
     엘리베이터가 없는 건물에서는 계단 이용이 필요하며, 층수를 예약 시 안내해 주시면
     방문 소요 시간을 보다 정확하게 안내드릴 수 있습니다. 간석오거리역 생활권 정보는
-    <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권 안내</a>에서도
+    <a href="/life/guwol-incheon-cityhall/">구월·인천시청 생활권 안내</a>에서도
     부분적으로 확인할 수 있으며, 미추홀구 방면으로는
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동 출장마사지</a> 페이지를 참고하세요.
+    <a href="/michuhol-gu/juan-dong/">주안동 출장마사지</a> 페이지를 참고하세요.
   </p>
   <p>
     간석동은 부평구와 남동구의 경계에 위치해 두 방향으로 방문 연계가 가능합니다. 예를 들어
@@ -828,8 +828,8 @@ _ganseok_dong = create_page(
   </p>
   <p>
     간석동은 남동구 북단에 위치해 부평구 방향 연계 방문도 가능합니다.
-    <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>,
-    <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동</a> 방면 연계 이용을
+    <a href="/bupyeong-gu/bupyeong-dong/">부평동</a>,
+    <a href="/bupyeong-gu/sangok-dong/">산곡동</a> 방면 연계 이용을
     원하시면 예약 시 문의해 주세요. 간석오거리역과 동암역 중간 주거 지역은 두 역 모두
     접근이 용이한 최적의 방문 지점입니다.
   </p>
@@ -842,19 +842,19 @@ _ganseok_dong = create_page(
 # 6. 논현동 (남동구)
 # ──────────────────────────────────────────────
 _nonhyeon_dong = create_page(
-    path="incheon/namdong-gu/nonhyeon-dong/",
+    path="namdong-gu/nonhyeon-dong/",
     title="논현동 출장마사지｜소래포구·인천논현역 생활권 안내",
     desc="논현동 출장마사지 예약 안내. 인천논현역·소래포구 생활권, 남동공단 인접 방문 가능 여부 확인.",
     h1="논현동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("남동구", "/incheon/namdong-gu/"), ("논현동", "")],
+    breadcrumb=[("인천", "/"), ("남동구", "/namdong-gu/"), ("논현동", "")],
     body_content="""
 <section>
   <h2>논현동 출장마사지 서비스 소개</h2>
   <p>
     논현동 출장마사지는 인천 남동구 논현동 일대를 방문 범위로 운영하는 간다GO의
     홈타이·방문형 관리 서비스입니다. 논현동은 수인분당선
-    <a href="/incheon/station/incheon-nonhyeon-station/">인천논현역</a>과
-    <a href="/incheon/station/soraepogu-station/">소래포구역</a>을 끼고 있는 대형
+    <a href="/station/incheon-nonhyeon-station/">인천논현역</a>과
+    <a href="/station/soraepogu-station/">소래포구역</a>을 끼고 있는 대형
     신규 택지지구로, 최신 아파트 단지가 밀집해 있어 홈타이 서비스 수요가 높은 지역입니다.
     남동인더스파크(남동공단) 주변 직장인 숙소 및 논현신도시 대단지 아파트 거주자 모두
     이용 가능합니다.
@@ -868,7 +868,7 @@ _nonhyeon_dong = create_page(
 <section>
   <h2>논현동·소래포구 생활권 특성</h2>
   <p>
-    논현동은 <a href="/incheon/life/nonhyeon-sorae/">논현·소래 생활권</a>의 핵심입니다.
+    논현동은 <a href="/life/nonhyeon-sorae/">논현·소래 생활권</a>의 핵심입니다.
     수인분당선 개통 이후 서울·수원 방향 접근성이 크게 향상되어 광역 생활권 거주자가
     늘고 있습니다. 논현지구 내 대규모 상업시설·대형마트와 함께 교육 여건이 갖춰져
     신혼부부·어린 자녀 가족 거주자가 많습니다. 소래포구 수산시장은 인천의 대표적인
@@ -903,9 +903,9 @@ _nonhyeon_dong = create_page(
     <li>논현 호수공원 인근 신규 분양 단지</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/namdong-gu/sorae-area/">소래 지역</a>과
-    <a href="/incheon/yeonsu-gu/songdo/">송도</a> 방향도 방문 범위에 포함됩니다.
-    남동구 전반 안내는 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
+    인접한 <a href="/namdong-gu/sorae-area/">소래 지역</a>과
+    <a href="/yeonsu-gu/songdo/">송도</a> 방향도 방문 범위에 포함됩니다.
+    남동구 전반 안내는 <a href="/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
   </p>
 </section>
 
@@ -919,20 +919,20 @@ _nonhyeon_dong = create_page(
   <p>
     추가 이동비는 논현동 기본 방문 범위 내에서 발생하지 않습니다.
     개인정보 처리 기준에 따라 예약 정보는 방문 목적으로만 활용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>,
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>,
+    <a href="/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    논현동 북쪽의 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>,
-    동쪽의 <a href="/incheon/namdong-gu/sorae-area/">소래 지역</a>,
-    남쪽의 <a href="/incheon/yeonsu-gu/dongchun-dong/">동춘동</a>도 방문 범위에 포함됩니다.
+    논현동 북쪽의 <a href="/namdong-gu/guwol-dong/">구월동</a>,
+    동쪽의 <a href="/namdong-gu/sorae-area/">소래 지역</a>,
+    남쪽의 <a href="/yeonsu-gu/dongchun-dong/">동춘동</a>도 방문 범위에 포함됩니다.
     개인정보 관련 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -962,7 +962,7 @@ _nonhyeon_dong = create_page(
   <h3>예약 변경 및 취소는 어떻게 하나요?</h3>
   <p>
     방문 2시간 전까지 전화로 연락 주시면 변경·취소가 가능합니다.
-    <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 주세요.
+    <a href="/check/">이용 전 확인사항</a>을 참고해 주세요.
   </p>
 </section>
 
@@ -985,13 +985,13 @@ _nonhyeon_dong = create_page(
     확인 후 예약하시면 더욱 원활하게 진행됩니다. 간다GO는 방문형 관리 서비스의 위생
     기준을 철저히 준수합니다. 서비스에 사용되는 시트·타월 등 소모품은 매회 새 것으로
     교체하여 제공하며, 사용 후 용품은 당일 수거합니다. 서비스 상세 기준은
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
   </p>
   <p>
     논현신도시 호수공원 생활권은 인천 남동구 내에서 정주 만족도가 높은 주거 지역으로
     꼽힙니다. 호수공원 주변 대단지 아파트(논현힐스테이트·논현자이 등)는 단지 내 편의시설이
     잘 갖춰져 있어 방문 환경이 쾌적합니다. 인천논현역 역세권 홈타이 예약 관련 추가 정보는
-    <a href="/incheon/station/incheon-nonhyeon-station/">인천논현역 역세권 안내</a> 페이지를
+    <a href="/station/incheon-nonhyeon-station/">인천논현역 역세권 안내</a> 페이지를
     참고하실 수 있습니다.
   </p>
   <p>
@@ -1008,18 +1008,18 @@ _nonhyeon_dong = create_page(
 # 7. 소래 (남동구)
 # ──────────────────────────────────────────────
 _sorae_area = create_page(
-    path="incheon/namdong-gu/sorae-area/",
+    path="namdong-gu/sorae-area/",
     title="소래 출장마사지｜소래포구·논현동 생활권 안내",
     desc="소래 출장마사지 예약 안내. 소래포구역·논현동 생활권, 인천 남동구 방문 가능 여부 확인.",
     h1="소래 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("남동구", "/incheon/namdong-gu/"), ("소래", "")],
+    breadcrumb=[("인천", "/"), ("남동구", "/namdong-gu/"), ("소래", "")],
     body_content="""
 <section>
   <h2>소래 출장마사지 서비스 소개</h2>
   <p>
     소래 출장마사지는 인천 남동구 소래 지역을 방문 범위로 운영하는 간다GO의 홈타이
     서비스입니다. 소래 지역은 수인분당선
-    <a href="/incheon/station/soraepogu-station/">소래포구역</a>을 중심으로
+    <a href="/station/soraepogu-station/">소래포구역</a>을 중심으로
     소래습지생태공원, 소래포구 수산시장 인근 주거 단지가 형성된 독특한 생활권입니다.
     조용한 주거 환경을 선호하는 거주자들이 많아 홈타이 예약 수요도 꾸준합니다.
     소래포구 인근 주거 지역과 시흥시 경계 인접 지역까지 방문 가능합니다.
@@ -1033,8 +1033,8 @@ _sorae_area = create_page(
 <section>
   <h2>소래 생활권 특성과 주거 환경</h2>
   <p>
-    소래는 <a href="/incheon/life/nonhyeon-sorae/">논현·소래 생활권</a>에 속하며,
-    <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>과 생활권이 연결됩니다.
+    소래는 <a href="/life/nonhyeon-sorae/">논현·소래 생활권</a>에 속하며,
+    <a href="/namdong-gu/nonhyeon-dong/">논현동</a>과 생활권이 연결됩니다.
     소래포구 수산시장과 소래습지생태공원은 인천의 대표 자연·생태 관광지로,
     주변에 전원형 주택과 빌라촌이 발달해 있습니다. 수인분당선 소래포구역 개통 이후
     대중교통 접근성이 향상되어 서울·경기 방면 광역 이동이 편리해졌습니다.
@@ -1068,9 +1068,9 @@ _sorae_area = create_page(
     <li>소래 신규 분양 단지(단지명·동호수 사전 안내 권장)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>과
-    <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>도 방문 범위에 포함됩니다.
-    남동구 전반 안내는 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
+    인접한 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>과
+    <a href="/namdong-gu/guwol-dong/">구월동</a>도 방문 범위에 포함됩니다.
+    남동구 전반 안내는 <a href="/namdong-gu/">남동구 출장마사지 안내</a>를 참고하세요.
   </p>
 </section>
 
@@ -1083,20 +1083,20 @@ _sorae_area = create_page(
   </p>
   <p>
     개인정보 처리 기준에 따라 예약 정보는 방문 목적으로만 사용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>와
-    <a href="/incheon/check/">이용 전 확인사항</a>을 미리 살펴보세요.
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>도 함께 확인하시길 권장합니다.
+    <a href="/reservation/">예약 안내</a>와
+    <a href="/check/">이용 전 확인사항</a>을 미리 살펴보세요.
+    <a href="/guide/">홈타이 이용 가이드</a>도 함께 확인하시길 권장합니다.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    소래와 생활권이 겹치는 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>,
-    북쪽의 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>과
-    <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>도 방문 가능합니다.
-    연수구 방면으로는 <a href="/incheon/yeonsu-gu/dongchun-dong/">동춘동</a>이 인접합니다.
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 확인하세요.
+    소래와 생활권이 겹치는 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>,
+    북쪽의 <a href="/namdong-gu/guwol-dong/">구월동</a>과
+    <a href="/namdong-gu/ganseok-dong/">간석동</a>도 방문 가능합니다.
+    연수구 방면으로는 <a href="/yeonsu-gu/dongchun-dong/">동춘동</a>이 인접합니다.
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>을 확인하세요.
   </p>
 </section>
 
@@ -1126,7 +1126,7 @@ _sorae_area = create_page(
   <h3>예약 취소·변경은 어떻게 하나요?</h3>
   <p>
     방문 2시간 전까지 전화 연락으로 가능합니다.
-    <a href="/incheon/check/">이용 전 확인사항</a>을 미리 확인하세요.
+    <a href="/check/">이용 전 확인사항</a>을 미리 확인하세요.
   </p>
 </section>
 
@@ -1146,16 +1146,16 @@ _sorae_area = create_page(
   <p>
     소래 지역 단독주택 거주 고객은 방문 기사 도착 시 주소 안내와 함께 대문 또는 건물
     벨 번호를 사전에 공유해 주시면 신속하게 방문 가능합니다. 이용 전 확인사항은
-    <a href="/incheon/check/">이용 전 확인사항</a> 페이지를 꼭 읽어보세요.
+    <a href="/check/">이용 전 확인사항</a> 페이지를 꼭 읽어보세요.
     간다GO 서비스에 대한 전반적인 정보는
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다.
+    <a href="/guide/">홈타이 이용 가이드</a>에서 확인하실 수 있습니다.
   </p>
   <p>
     소래포구역 인근 신규 아파트 단지는 입주 초기 단지 내부 공사 및 조경 작업이 동시에
     진행될 수 있어 방문 동선이 바뀔 수 있습니다. 예약 시 현재 출입 가능한 정문 방향을
     알려 주시면 정확한 방문이 가능합니다. 소래 생활권 인접 지역인
-    <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a> 방문도 가능하며,
-    남동구 전반 서비스는 <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>를
+    <a href="/namdong-gu/nonhyeon-dong/">논현동</a> 방문도 가능하며,
+    남동구 전반 서비스는 <a href="/namdong-gu/">남동구 출장마사지 안내</a>를
     참고해 주세요.
   </p>
   <p>
@@ -1163,7 +1163,7 @@ _sorae_area = create_page(
     서비스를 함께 이용하는 거주자가 많습니다. 소래포구 인근 상권은 주말·공휴일에 활성화되고,
     평일에는 조용한 주거 분위기가 유지됩니다. 평일 낮 시간대 방문 예약이 특히 원활하며,
     주말 예약은 혼잡 시간대를 피해 요청하시면 더 편리합니다.
-    <a href="/incheon/namdong-gu/">남동구 출장마사지 안내</a>에서 소래 외 남동구
+    <a href="/namdong-gu/">남동구 출장마사지 안내</a>에서 소래 외 남동구
     전체 지역 서비스 현황을 확인하세요.
   </p>
 </section>
@@ -1175,18 +1175,18 @@ _sorae_area = create_page(
 # 8. 주안동 (미추홀구)
 # ──────────────────────────────────────────────
 _juan_dong = create_page(
-    path="incheon/michuhol-gu/juan-dong/",
+    path="michuhol-gu/juan-dong/",
     title="주안동 출장마사지｜주안역·도화동 생활권 안내",
     desc="주안동 출장마사지 예약 안내. 주안역·도화동 생활권, 미추홀구 중심 방문 가능 여부 확인.",
     h1="주안동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("미추홀구", "/incheon/michuhol-gu/"), ("주안동", "")],
+    breadcrumb=[("인천", "/"), ("미추홀구", "/michuhol-gu/"), ("주안동", "")],
     body_content="""
 <section>
   <h2>주안동 출장마사지 서비스 소개</h2>
   <p>
     주안동 출장마사지는 인천 미추홀구 주안동 일대를 방문 범위로 운영하는 간다GO의
     홈타이·방문형 관리 서비스입니다. 주안동은 경인선과 인천 지하철 1호선이 교차하는
-    <a href="/incheon/station/juan-station/">주안역</a>을 중심으로 인천 서부권 최대
+    <a href="/station/juan-station/">주안역</a>을 중심으로 인천 서부권 최대
     주거·상업 생활권 중 하나를 형성합니다. 주안 1~8동에 걸쳐 다양한 주거 유형이 분포하며,
     주안역 롯데마트·주안시장 상권 주변 직장인과 주거 단지 거주자 모두 편리하게 이용할 수
     있습니다.
@@ -1200,8 +1200,8 @@ _juan_dong = create_page(
 <section>
   <h2>주안동·미추홀구 생활권 특성</h2>
   <p>
-    주안동은 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권</a>의 중심으로,
-    인접한 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>과 상업·주거 기능을
+    주안동은 <a href="/life/juan-dohwa/">주안·도화 생활권</a>의 중심으로,
+    인접한 <a href="/michuhol-gu/dohwa-dong/">도화동</a>과 상업·주거 기능을
     나눠 맡는 구조입니다. 경인선 급행 정차역인 주안역은 서울 접근성이 좋아 직장인
     수요가 높고, 저녁~심야 시간대 예약이 집중되는 경향이 있습니다. 주안역 일대에는
     상가·마트·시장이 집중되어 있어 평일 낮에도 유동 인구가 많습니다.
@@ -1234,9 +1234,9 @@ _juan_dong = create_page(
     <li>주안역 인근 고시원·고시텔(개인 공간 확보 시 방문 가능)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>,
-    <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>과의 연계 방문도 가능합니다.
-    미추홀구 전반 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를
+    인접한 <a href="/michuhol-gu/dohwa-dong/">도화동</a>,
+    <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>과의 연계 방문도 가능합니다.
+    미추홀구 전반 안내는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를
     참고하세요.
   </p>
 </section>
@@ -1252,21 +1252,21 @@ _juan_dong = create_page(
   <p>
     추가 이동비는 주안동 기본 방문 범위 내에서 발생하지 않습니다.
     개인정보 처리 기준에 따라 수집된 예약 정보는 방문 서비스 목적으로만 사용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>을 미리 확인해 주세요.
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하시길 권장합니다.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>을 미리 확인해 주세요.
+    <a href="/guide/">홈타이 이용 가이드</a>도 참고하시길 권장합니다.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    주안동과 맞닿은 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>,
-    <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>,
-    <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
-    남동구 방향으로는 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>과
-    <a href="/incheon/namdong-gu/ganseok-dong/">간석동</a>이 인접합니다.
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서
+    주안동과 맞닿은 <a href="/michuhol-gu/dohwa-dong/">도화동</a>,
+    <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>,
+    <a href="/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
+    남동구 방향으로는 <a href="/namdong-gu/guwol-dong/">구월동</a>과
+    <a href="/namdong-gu/ganseok-dong/">간석동</a>이 인접합니다.
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>에서
     확인하시기 바랍니다.
   </p>
 </section>
@@ -1297,7 +1297,7 @@ _juan_dong = create_page(
   <h3>예약 취소 및 변경은 어떻게 하나요?</h3>
   <p>
     방문 예정 시간 2시간 전까지 전화로 연락 주시면 변경·취소가 가능합니다.
-    세부 정책은 <a href="/incheon/check/">이용 전 확인사항</a>에서 확인하세요.
+    세부 정책은 <a href="/check/">이용 전 확인사항</a>에서 확인하세요.
   </p>
 </section>
 
@@ -1316,15 +1316,15 @@ _juan_dong = create_page(
   <p>
     주안국가산업단지 주변은 낮 시간대 화물차 통행이 많아 이동 시간이 다소 소요될 수
     있습니다. 공단 방면 방문은 오전 10시~오후 4시 사이가 상대적으로 원활합니다.
-    서비스 이용 안내는 <a href="/incheon/reservation/">예약 안내</a>와
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
+    서비스 이용 안내는 <a href="/reservation/">예약 안내</a>와
+    <a href="/guide/">홈타이 이용 가이드</a>를 참고해 주세요.
   </p>
   <p>
     주안역 주변 재정비촉진구역은 단계적으로 이주와 철거가 진행되고 있어 정확한 현황을
     예약 시 공유해 주시면 방문 가능 여부를 신속하게 안내드릴 수 있습니다.
-    미추홀구 내 인접 생활권인 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권</a>과
-    <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 가능합니다.
-    미추홀구 전반 서비스는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를
+    미추홀구 내 인접 생활권인 <a href="/life/juan-dohwa/">주안·도화 생활권</a>과
+    <a href="/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 가능합니다.
+    미추홀구 전반 서비스는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를
     참고해 주세요.
   </p>
   <p>
@@ -1341,21 +1341,21 @@ _juan_dong = create_page(
 # 9. 도화동 (미추홀구)
 # ──────────────────────────────────────────────
 _dohwa_dong = create_page(
-    path="incheon/michuhol-gu/dohwa-dong/",
+    path="michuhol-gu/dohwa-dong/",
     title="도화동 출장마사지｜도화역·주안역 생활권 안내",
     desc="도화동 출장마사지 예약 안내. 도화역·제물포역 생활권, 주안동 인접 방문 가능 여부 확인.",
     h1="도화동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("미추홀구", "/incheon/michuhol-gu/"), ("도화동", "")],
+    breadcrumb=[("인천", "/"), ("미추홀구", "/michuhol-gu/"), ("도화동", "")],
     body_content="""
 <section>
   <h2>도화동 출장마사지 서비스 소개</h2>
   <p>
     도화동 출장마사지는 인천 미추홀구 도화동 일대를 방문 범위로 운영하는 간다GO의
     홈타이·방문형 관리 서비스입니다. 도화동은 경인선
-    <a href="/incheon/station/jemulpo-station/">제물포역</a>과
+    <a href="/station/jemulpo-station/">제물포역</a>과
     인천 지하철 1호선 구간이 지나는 생활권으로, 인천대학교 제물포캠퍼스와 가까운
     학생·직장인 주거 밀집 지역입니다. 도화동은
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>과 생활권이 맞닿아 있어
+    <a href="/michuhol-gu/juan-dong/">주안동</a>과 생활권이 맞닿아 있어
     두 지역을 함께 서비스합니다.
   </p>
   <p>
@@ -1367,7 +1367,7 @@ _dohwa_dong = create_page(
 <section>
   <h2>도화동 생활권 특성</h2>
   <p>
-    도화동은 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권</a> 내에서 주거 기능을
+    도화동은 <a href="/life/juan-dohwa/">주안·도화 생활권</a> 내에서 주거 기능을
     중심으로 발전한 지역입니다. 도화동 내 빌라·연립·아파트가 혼재하며, 인천대 제물포캠퍼스
     주변 원룸·고시텔 수요도 있습니다. 도화초·도화중 등 학교가 밀집해 있어
     학부모·학생 거주자 비중이 높습니다.
@@ -1403,9 +1403,9 @@ _dohwa_dong = create_page(
     <li>도화동 신규 다세대·오피스텔(단지명·호실 사전 안내 권장)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>과
-    <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
-    미추홀구 전반 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를
+    인접한 <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>과
+    <a href="/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
+    미추홀구 전반 안내는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를
     참고하세요.
   </p>
 </section>
@@ -1421,21 +1421,21 @@ _dohwa_dong = create_page(
   <p>
     추가 이동비는 도화동 기본 방문 범위 내에서 발생하지 않습니다.
     개인정보 처리 기준에 따라 수집된 예약 정보는 방문 목적 이외에 사용되지 않습니다.
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>,
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>,
+    <a href="/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    도화동 인근 <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>,
-    <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>,
-    <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
-    남동구 방향으로는 <a href="/incheon/namdong-gu/guwol-dong/">구월동</a>이 인접합니다.
+    도화동 인근 <a href="/michuhol-gu/juan-dong/">주안동</a>,
+    <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>,
+    <a href="/michuhol-gu/jemulpo-area/">제물포 지역</a>도 방문 범위에 포함됩니다.
+    남동구 방향으로는 <a href="/namdong-gu/guwol-dong/">구월동</a>이 인접합니다.
     개인정보 관련 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -1464,7 +1464,7 @@ _dohwa_dong = create_page(
   <h3>예약 취소나 변경은 어떻게 하나요?</h3>
   <p>
     방문 예정 2시간 전까지 전화로 연락 주시면 됩니다.
-    <a href="/incheon/check/">이용 전 확인사항</a>에서 세부 정책을 확인하세요.
+    <a href="/check/">이용 전 확인사항</a>에서 세부 정책을 확인하세요.
   </p>
 </section>
 
@@ -1483,22 +1483,22 @@ _dohwa_dong = create_page(
   <p>
     제물포역 환승 구간은 출퇴근 시간 혼잡도가 높습니다. 오전 7~9시, 오후 6~8시 시간대
     방문은 이동 시간을 여유 있게 설정해 예약해 주시길 권장합니다. 서비스 이용 안내는
-    <a href="/incheon/reservation/">예약 안내</a>를,
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 확인하세요.
+    <a href="/reservation/">예약 안내</a>를,
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>을 확인하세요.
   </p>
   <p>
     도화동은 인천대학교 제물포캠퍼스와 인접해 학원가 및 편의 상권이 발달한 지역입니다.
     학원가 인근 고시원·원룸은 1인 거주자 비율이 높아 홈타이 방문 수요가 꾸준합니다.
-    도화동 주거 생활권 연계 정보는 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권 안내</a>
+    도화동 주거 생활권 연계 정보는 <a href="/life/juan-dohwa/">주안·도화 생활권 안내</a>
     페이지에서 확인하실 수 있으며, 인접 지역인
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동 출장마사지</a> 페이지도 참고하세요.
+    <a href="/michuhol-gu/juan-dong/">주안동 출장마사지</a> 페이지도 참고하세요.
   </p>
   <p>
     도화동은 제물포역 환승 중심지로 인하대·인천대 두 캠퍼스 생활권이 연결되는 지역입니다.
     학생·교직원·직장인·가족 거주자 등 다양한 고객층이 이용합니다. 서비스 이용 후
     재예약을 원하시는 경우 전화 한 통으로 간편하게 다음 일정을 잡아드립니다.
-    미추홀구 전반 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를,
-    개인정보 처리는 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 확인하세요.
+    미추홀구 전반 안내는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를,
+    개인정보 처리는 <a href="/support/privacy/">개인정보처리방침</a>을 확인하세요.
   </p>
 </section>
 """,
@@ -1509,11 +1509,11 @@ _dohwa_dong = create_page(
 # 10. 용현동 (미추홀구)
 # ──────────────────────────────────────────────
 _yonghyeon_dong = create_page(
-    path="incheon/michuhol-gu/yonghyeon-dong/",
+    path="michuhol-gu/yonghyeon-dong/",
     title="용현동 출장마사지｜인하대역·숭의 생활권 안내",
     desc="용현동 출장마사지 예약 안내. 인하대역·숭의동 생활권, 학익동 인접 방문 가능 여부 확인.",
     h1="용현동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("미추홀구", "/incheon/michuhol-gu/"), ("용현동", "")],
+    breadcrumb=[("인천", "/"), ("미추홀구", "/michuhol-gu/"), ("용현동", "")],
     body_content="""
 <section>
   <h2>용현동 출장마사지 서비스 소개</h2>
@@ -1534,7 +1534,7 @@ _yonghyeon_dong = create_page(
 <section>
   <h2>용현동·숭의동 생활권 특성</h2>
   <p>
-    용현동은 <a href="/incheon/life/yonghyeon-hagik/">용현·학익 생활권</a>의 북쪽에
+    용현동은 <a href="/life/yonghyeon-hagik/">용현·학익 생활권</a>의 북쪽에
     위치합니다. 숭의동과 생활권이 연결되어 있어 학산문화원, 숭의초등학교 주변 주거
     지역까지 방문 범위에 포함됩니다. 인하대병원 방면 의료 종사자 거주 오피스텔 수요도
     있습니다.
@@ -1542,7 +1542,7 @@ _yonghyeon_dong = create_page(
   <p>
     <a href="https://www.ictr.or.kr/" target="_blank" rel="noopener nofollow">인천교통공사</a>
     노선도에서 인하대역의 위치와 인근 역 간 거리를 확인할 수 있습니다. 인하대역에서
-    <a href="/incheon/station/jemulpo-station/">제물포역</a> 방향으로는 도화동이 이어지고,
+    <a href="/station/jemulpo-station/">제물포역</a> 방향으로는 도화동이 이어지고,
     반대쪽으로는 학익동과 연수동이 연결됩니다.
   </p>
   <p>
@@ -1568,9 +1568,9 @@ _yonghyeon_dong = create_page(
     <li>용현주공아파트 단지(동·호수 사전 안내 권장)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/michuhol-gu/hagik-dong/">학익동</a>과
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>도 방문 범위에 포함됩니다.
-    미추홀구 전반 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를
+    인접한 <a href="/michuhol-gu/hagik-dong/">학익동</a>과
+    <a href="/michuhol-gu/juan-dong/">주안동</a>도 방문 범위에 포함됩니다.
+    미추홀구 전반 안내는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를
     참고하세요.
   </p>
 </section>
@@ -1586,22 +1586,22 @@ _yonghyeon_dong = create_page(
   <p>
     추가 이동비는 용현동 기본 방문 범위 내에서 발생하지 않습니다.
     개인정보 처리 기준에 따라 예약 시 수집된 정보는 방문 목적으로만 활용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>,
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 사전에 참고해 주세요.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>,
+    <a href="/guide/">홈타이 이용 가이드</a>를 사전에 참고해 주세요.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    용현동 남쪽의 <a href="/incheon/michuhol-gu/hagik-dong/">학익동</a>,
-    북쪽의 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>과
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>,
-    연수구 방향의 <a href="/incheon/yeonsu-gu/yeonsu-dong/">연수동</a>도
+    용현동 남쪽의 <a href="/michuhol-gu/hagik-dong/">학익동</a>,
+    북쪽의 <a href="/michuhol-gu/dohwa-dong/">도화동</a>과
+    <a href="/michuhol-gu/juan-dong/">주안동</a>,
+    연수구 방향의 <a href="/yeonsu-gu/yeonsu-dong/">연수동</a>도
     방문 가능합니다. 남동구 방면의
-    <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>도 인접합니다.
-    개인정보 관련 사항은 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 확인하세요.
+    <a href="/namdong-gu/nonhyeon-dong/">논현동</a>도 인접합니다.
+    개인정보 관련 사항은 <a href="/support/privacy/">개인정보처리방침</a>을 확인하세요.
   </p>
 </section>
 
@@ -1630,7 +1630,7 @@ _yonghyeon_dong = create_page(
   <h3>예약 취소 및 변경 방법이 궁금합니다.</h3>
   <p>
     방문 예정 시간 2시간 전까지 전화로 연락 주시면 됩니다.
-    자세한 정책은 <a href="/incheon/check/">이용 전 확인사항</a>을 참고하세요.
+    자세한 정책은 <a href="/check/">이용 전 확인사항</a>을 참고하세요.
   </p>
 </section>
 
@@ -1650,13 +1650,13 @@ _yonghyeon_dong = create_page(
     용현동 숭의동 경계 지역은 학산문화원·체육시설 인근 주거지로, 문화·체육 행사 일정과
     겹치는 날에는 주차 혼잡이 발생할 수 있습니다. 행사 일정을 확인하고 방문 예약을
     조율하시면 더욱 편리합니다. 서비스 상세 안내는
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>에서 확인하세요.
+    <a href="/guide/">홈타이 이용 가이드</a>에서 확인하세요.
   </p>
   <p>
     인하대 주변 용현동은 인천 미추홀구 내에서도 1인 가구 비율이 높은 생활권입니다.
     소규모 원룸 방문 시 작업 공간 최소 요건(2×1.5m 가량)을 확인해 주세요. 예약 시
     방 크기와 구조를 간략히 알려 주시면 가능 여부를 안내드립니다.
-    <a href="/incheon/life/yonghyeon-hagik/">용현·학익 생활권 안내</a>에서 인근 지역
+    <a href="/life/yonghyeon-hagik/">용현·학익 생활권 안내</a>에서 인근 지역
     정보를 더 확인하실 수 있습니다.
   </p>
   <p>
@@ -1664,7 +1664,7 @@ _yonghyeon_dong = create_page(
     기능이 집약되어 있습니다. 서비스 이용 후 재예약을 원하시거나 방문 관련 문의가 있으시면
     언제든 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락 주세요. 방문 가능 여부,
     이동 소요 시간, 예약 변경 등 모든 사항을 전화로 안내해 드립니다.
-    용현동 인근 <a href="/incheon/michuhol-gu/hagik-dong/">학익동</a>과 함께 방문하는
+    용현동 인근 <a href="/michuhol-gu/hagik-dong/">학익동</a>과 함께 방문하는
     연계 예약도 가능합니다.
   </p>
 </section>
@@ -1676,11 +1676,11 @@ _yonghyeon_dong = create_page(
 # 11. 학익동 (미추홀구)
 # ──────────────────────────────────────────────
 _hagik_dong = create_page(
-    path="incheon/michuhol-gu/hagik-dong/",
+    path="michuhol-gu/hagik-dong/",
     title="학익동 출장마사지｜문학경기장역·관교 생활권 안내",
     desc="학익동 출장마사지 예약 안내. 문학경기장역·관교동 생활권, 용현동 인접 방문 가능 여부 확인.",
     h1="학익동 출장마사지·홈타이 안내",
-    breadcrumb=[("인천", "/incheon/"), ("미추홀구", "/incheon/michuhol-gu/"), ("학익동", "")],
+    breadcrumb=[("인천", "/"), ("미추홀구", "/michuhol-gu/"), ("학익동", "")],
     body_content="""
 <section>
   <h2>학익동 출장마사지 서비스 소개</h2>
@@ -1700,7 +1700,7 @@ _hagik_dong = create_page(
 <section>
   <h2>학익동·관교동 생활권 특성</h2>
   <p>
-    학익동은 <a href="/incheon/life/yonghyeon-hagik/">용현·학익 생활권</a>의 남쪽에
+    학익동은 <a href="/life/yonghyeon-hagik/">용현·학익 생활권</a>의 남쪽에
     위치하며 문학산 자락을 끼고 주거 단지가 형성되어 있습니다. 관교동은 행정 특성상
     주거와 녹지가 공존하는 지역으로, 두 동을 함께 방문하는 예약이 많습니다.
     문학경기장 인근 대규모 아파트 단지가 주요 방문 대상입니다.
@@ -1737,9 +1737,9 @@ _hagik_dong = create_page(
     <li>문학경기장 인근 신규 분양 단지(단지명·동호수 사전 안내 권장)</li>
   </ul>
   <p>
-    인접한 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>과
-    <a href="/incheon/yeonsu-gu/yeonsu-dong/">연수동</a>도 방문 범위에 포함됩니다.
-    미추홀구 전반 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를
+    인접한 <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>과
+    <a href="/yeonsu-gu/yeonsu-dong/">연수동</a>도 방문 범위에 포함됩니다.
+    미추홀구 전반 안내는 <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를
     참고하세요.
   </p>
 </section>
@@ -1756,22 +1756,22 @@ _hagik_dong = create_page(
     추가 이동비는 학익동 기본 방문 범위 내에서 발생하지 않으며, 관교동 외곽이나
     문학산 상단부 주거지는 예약 시 별도 확인드립니다.
     개인정보 처리 기준에 따라 예약 정보는 방문 목적으로만 사용됩니다.
-    <a href="/incheon/reservation/">예약 안내</a>,
-    <a href="/incheon/check/">이용 전 확인사항</a>,
-    <a href="/incheon/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
+    <a href="/reservation/">예약 안내</a>,
+    <a href="/check/">이용 전 확인사항</a>,
+    <a href="/guide/">홈타이 이용 가이드</a>를 사전에 확인하세요.
   </p>
 </section>
 
 <section>
   <h2>인근 지역 연계 안내</h2>
   <p>
-    학익동 북쪽의 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동</a>,
-    <a href="/incheon/michuhol-gu/juan-dong/">주안동</a>과
-    <a href="/incheon/michuhol-gu/dohwa-dong/">도화동</a>도 방문 가능합니다.
-    연수구 방향으로는 <a href="/incheon/yeonsu-gu/yeonsu-dong/">연수동</a>이 인접하고,
-    남동구 방면으로는 <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>이
+    학익동 북쪽의 <a href="/michuhol-gu/yonghyeon-dong/">용현동</a>,
+    <a href="/michuhol-gu/juan-dong/">주안동</a>과
+    <a href="/michuhol-gu/dohwa-dong/">도화동</a>도 방문 가능합니다.
+    연수구 방향으로는 <a href="/yeonsu-gu/yeonsu-dong/">연수동</a>이 인접하고,
+    남동구 방면으로는 <a href="/namdong-gu/nonhyeon-dong/">논현동</a>이
     가깝습니다. 개인정보 관련 사항은
-    <a href="/incheon/support/privacy/">개인정보처리방침</a>에서 확인하세요.
+    <a href="/support/privacy/">개인정보처리방침</a>에서 확인하세요.
   </p>
 </section>
 
@@ -1802,7 +1802,7 @@ _hagik_dong = create_page(
   <h3>예약 취소 및 변경은 어떻게 하나요?</h3>
   <p>
     방문 예정 시간 2시간 전까지 전화로 연락 주시면 변경·취소가 가능합니다.
-    세부 정책은 <a href="/incheon/check/">이용 전 확인사항</a>을 확인하세요.
+    세부 정책은 <a href="/check/">이용 전 확인사항</a>을 확인하세요.
   </p>
 </section>
 
@@ -1822,7 +1822,7 @@ _hagik_dong = create_page(
   <p>
     관교동 일부 지역은 대형 시설(산업·물류) 인접 주거지로 야간 소음이 있을 수 있습니다.
     방문형 서비스 이용 시 방음이 잘 되는 환경에서 더욱 편안하게 이용하실 수 있습니다.
-    이용 전 궁금한 사항은 <a href="/incheon/check/">이용 전 확인사항</a>을,
+    이용 전 궁금한 사항은 <a href="/check/">이용 전 확인사항</a>을,
       <p>
     간다GO는 방문형 서비스의 위생 기준을 엄격히 유지합니다. 서비스에 사용하는 시트·타월 등
     소모품은 매 방문 새 것을 지참하며, 사용 후 즉시 수거합니다. 서비스 품질에 대한
@@ -1832,7 +1832,7 @@ _hagik_dong = create_page(
     학익동과 관교동은 문학산·문학경기장이 조성한 자연·스포츠 친화 생활권입니다.
     조용한 주거 환경을 선호하는 가족 거주자가 많아 주말 오전~오후 방문 예약 수요가
     높은 편입니다. 미추홀구 전반 서비스 안내는
-    <a href="/incheon/michuhol-gu/">미추홀구 출장마사지 안내</a>를 참고해 주세요.
+    <a href="/michuhol-gu/">미추홀구 출장마사지 안내</a>를 참고해 주세요.
   </p>
 </section>
 """,
