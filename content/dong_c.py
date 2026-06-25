@@ -129,7 +129,7 @@ _geomdan_body = """
 <section>
 <h2>검단 방문형 관리 서비스 예약 문의</h2>
 <p>검단신도시·검단사거리 생활권의 방문형 관리 서비스는 사전 예약제로 운영되며, 입주 진행 단지는 방문 가능 여부가 달라질 수 있습니다. 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 주소와 희망 시간을 함께 알려주시면 빠르게 안내드리겠습니다.</p>
-<p>검단신도시와 이어지는 <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 참고하세요. <a href="/incheon/station/geomam-station/">검암역 인근 생활권</a>과 <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a> 안내도 확인하시고, 개인정보 수집·이용 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서, 상세 예약 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 검단신도시 야간 방문은 단지 보안 게이트 운영 시간을 확인하신 후 예약하시기 바랍니다. 검단신도시 행정 및 도시개발 현황 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>검단신도시와 이어지는 <a href="/incheon/seo-gu/seongnam-dong/">석남동 출장마사지</a>·<a href="/incheon/seo-gu/gajeong-dong/">가정동 출장마사지</a>·<a href="/incheon/seo-gu/luwon-area/">루원시티 출장마사지</a> 페이지도 참고하세요. <a href="/incheon/station/geomam-station/">검암역 인근 생활권</a>과 <a href="/incheon/life/geomam-ara/">검암·아라 생활권</a> 안내도 확인하시고, 개인정보 수집·이용 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에서, 상세 예약 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 검단신도시 야간 방문은 단지 보안 게이트 운영 시간을 확인하신 후 예약하시기 바랍니다. 검단 지역의 추가 이동비 및 거리 기준도 예약 전 반드시 확인하세요. 검단신도시 행정 및 도시개발 현황 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인하실 수 있습니다. <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 """
 
@@ -714,7 +714,7 @@ _jemulpo_body = """
 <section>
 <h2>제물포 생활권 특성 — 인하대·숭의·도림 주거 환경</h2>
 <p>제물포역 남쪽으로는 인하대학교 캠퍼스가 위치해 학생·교직원 주거지가 형성되어 있으며, 원룸·고시원·빌라 등 1인 주거 형태가 밀집해 있습니다. 숭의동·도화동 경계의 구도심은 재개발 예정 구역과 기존 저층 주거지가 혼재하고 있어, 예약 전 건물 상태와 주소를 정확히 확인하시기 바랍니다.</p>
-<p>제물포에서 이어지는 인접 생활권으로 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/jemulpo-station/">제물포역 역세권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/incheon/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 예약 시 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
+<p>제물포에서 이어지는 인접 생활권으로 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/jemulpo-station/">제물포역 역세권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/incheon/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 야간 방문 시에도 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 """
 
