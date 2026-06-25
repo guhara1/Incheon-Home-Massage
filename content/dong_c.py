@@ -714,7 +714,7 @@ _jemulpo_body = """
 <section>
 <h2>제물포 생활권 특성 — 인하대·숭의·도림 주거 환경</h2>
 <p>제물포역 남쪽으로는 인하대학교 캠퍼스가 위치해 학생·교직원 주거지가 형성되어 있으며, 원룸·고시원·빌라 등 1인 주거 형태가 밀집해 있습니다. 숭의동·도화동 경계의 구도심은 재개발 예정 구역과 기존 저층 주거지가 혼재하고 있어, 예약 전 건물 상태와 주소를 정확히 확인하시기 바랍니다.</p>
-<p>제물포에서 이어지는 인접 생활권으로 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/jemulpo-station/">제물포역 역세권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/incheon/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 예약 시 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다.</p>
+<p>제물포에서 이어지는 인접 생활권으로 <a href="/incheon/michuhol-gu/dohwa-dong/">도화동 출장마사지</a>·<a href="/incheon/michuhol-gu/juan-dong/">주안역 출장마사지</a>·<a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지</a>·<a href="/incheon/jung-gu/dongincheon-area/">동인천 출장마사지</a> 페이지를 참고하세요. <a href="/incheon/station/jemulpo-station/">제물포역 역세권</a>·<a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a> 통합 안내·<a href="/incheon/michuhol-gu/">인천 미추홀구</a> 전체 페이지도 확인하시기 바랍니다. 예약 방법과 절차는 <a href="/incheon/reservation/">예약 안내</a>에서 안내드립니다. 제물포역 인근은 학생 주거 수요가 많아 1인 가구 원룸의 공동현관 도어락 출입 방식이 일반적이며, 예약 시 출입 방식을 미리 알려주시기 바랍니다. 인천광역시 미추홀구 관련 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>도 참고하세요.</p>
 </section>
 """
 
@@ -843,7 +843,7 @@ _ongjin_body = """
 <section>
 <h2>옹진군 섬별 방문 조건 — 영흥·백령·연평·덕적 이동 기준</h2>
 <p>영흥도는 영흥대교로 차량 이동이 가능해 옹진군 도서 중 접근성이 가장 좋습니다. 그러나 영흥도를 제외한 백령도·연평도·덕적도·소야도 등은 여객선 운항 시간표에 맞춰 이동해야 하며, 기상 악화 시 결항으로 일정이 전면 변경될 수 있습니다. 백령도는 인천항에서 약 4~5시간, 연평도는 약 2~3시간, 덕적도는 약 1시간 30분~2시간 소요됩니다.</p>
-<p>옹진군 섬 지역 방문 시에는 숙박 여부·체류 일정·이동 수단을 사전에 알려주셔야 정확한 방문 가능 여부 안내가 가능합니다. 인천 연안여객터미널 출발 기준 방문 계획은 <a href="/incheon/jung-gu/dongincheon-area/">동인천 생활권</a>·<a href="/incheon/jung-gu/">인천 중구</a> 페이지와 함께 참고하시고, <a href="/incheon/life/ongjin-islands/">옹진 도서 생활권</a>·<a href="/incheon/ongjin-gun/">옹진군</a>·<a href="/incheon/reservation/">예약 안내</a>·<a href="/incheon/check/">이용 전 확인사항</a>·<a href="/incheon/support/privacy/">개인정보처리방침</a>도 확인하시기 바랍니다. 옹진군의 도서 행정 및 여객선 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 방문 가능 여부 최종 확인은 반드시 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 전화 상담 후 진행하시기 바랍니다.</p>
+<p>옹진군 섬 지역 방문 시에는 숙박 여부·체류 일정·이동 수단을 사전에 알려주셔야 정확한 방문 가능 여부 안내가 가능합니다. 인천 연안여객터미널 출발 기준 방문 계획은 <a href="/incheon/jung-gu/dongincheon-area/">동인천 생활권</a>·<a href="/incheon/jung-gu/">인천 중구</a> 페이지와 함께 참고하시고, <a href="/incheon/life/ongjin-islands/">옹진 도서 생활권</a>·<a href="/incheon/ongjin-gun/">옹진군</a>·<a href="/incheon/reservation/">예약 안내</a>·<a href="/incheon/check/">이용 전 확인사항</a>·<a href="/incheon/support/privacy/">개인정보처리방침</a>·<a href="/incheon/guide/">홈타이 이용 가이드</a>도 확인하시기 바랍니다. 옹진군의 도서 행정 및 여객선 정보는 <a href="https://www.incheon.go.kr/" target="_blank" rel="noopener nofollow">인천광역시청 공식 홈페이지</a>에서도 확인 가능합니다. 방문 가능 여부 최종 확인은 반드시 <a href="tel:0508-202-4719">0508-202-4719</a>로 사전 전화 상담 후 진행하시기 바랍니다.</p>
 </section>
 """
 
