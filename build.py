@@ -232,7 +232,7 @@ def render_page(page: dict) -> str:
     path = page["path"]
     title = page["title"]
     desc = page["desc"]
-    h1 = page["h1"]
+    h1 = page.get("h1") or title
     body = page["body"]
     crumbs = page.get("breadcrumb") or []
     extra_head = page.get("extra_head", "")
