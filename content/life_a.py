@@ -77,6 +77,11 @@ p2 = create_page(
 </section>
 
 <section>
+<h2>연수·원인재 생활권 허브 역할과 롱테일 내부링크</h2>
+<p>연수·원인재 생활권은 송도와 구월을 잇는 중간 허브로 역할을 합니다. <a href="/incheon/station/woninjae-station/">원인재역 인근 연수동 주거 단지 홈타이 방문 안내</a>와 <a href="/incheon/station/songdo-moonlight-festival-park-station/">송도달빛축제공원역 방면 방문 가능 지역 확인</a>을 통해 역세권별 방문 범위를 파악하시면 좋습니다. <a href="/incheon/yeonsu-gu/songdo/">송도동 국제도시 방문 안내</a>와도 이 생활권에서 연계 이동이 가능합니다.</p>
+</section>
+
+<section>
 <h2>인접 생활권 연결 및 예약 안내</h2>
 <p>연수·원인재 생활권은 북측으로 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과 도시 생활 인프라를 공유합니다. 간석동·구월동 방면으로의 이동도 도시철도로 수월하게 이어집니다. 남동측으로는 <a href="/incheon/life/nonhyeon-sorae/">논현·소래 생활권</a>이 이어지며, <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동</a>과 <a href="/incheon/namdong-gu/sorae-area/">소래</a> 지역 방문도 동일한 권역에서 조율이 가능합니다. 구 단위 정보는 <a href="/incheon/yeonsu-gu/">연수구 출장마사지 안내</a>에서 확인할 수 있습니다. 방문형 관리 서비스의 정확한 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 간다GO는 방문 가능 지역 범위를 투명하게 안내하며, 이용 가능 여부가 불분명한 경우에도 사전 상담을 통해 최대한 방문 가능 방법을 함께 검토합니다. 추가 이동비가 발생하는 경우 예약 확정 전에 고지합니다. 예약 과정에서 수집하는 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따릅니다. 전체 방문 가능 지역 목록은 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하실 수 있습니다.</p>
 </section>
@@ -160,6 +165,11 @@ p4 = create_page(
 
 <section>
 <h2>인접 생활권과의 연결 및 예약 안내</h2>
+<p>논현·소래 생활권의 롱테일 허브로서, <a href="/incheon/station/incheon-nonhyeon-station/">인천논현역 논현 택지지구 아파트 홈타이 방문 안내</a>와 <a href="/incheon/station/soraepogu-station/">소래포구역 수변 주거지 출장마사지 방문 가능 지역</a>에서 역세권별 세부 정보를 확인하세요. <a href="/incheon/namdong-gu/nonhyeon-dong/">논현동 신도시 아파트 단지 방문 안내</a>와 <a href="/incheon/namdong-gu/sorae-area/">소래 구시가지 방문 가능 지역 안내</a>도 함께 살펴보시면 도움이 됩니다.</p>
+</section>
+
+<section>
+<h2>인접 생활권과의 연결 및 예약 안내</h2>
 <p>논현·소래 생활권은 북서쪽으로 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과 인접하며, 구월동·간석동 방면 방문과 연계해 동선을 조율하는 것이 가능합니다. 서쪽으로는 <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권</a> 및 <a href="/incheon/life/songdo-international-city/">송도국제도시 생활권</a>으로 연결되어, 연수구 방면 예약 시에도 동선 조율이 가능합니다. 논현·소래 생활권의 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>을 따르며, 예약 접수 외 목적으로는 사용하지 않습니다. 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다.</p>
 </section>
 """,
@@ -200,7 +210,7 @@ p5 = create_page(
 
 <section>
 <h2>인접 생활권 연결 및 예약 안내</h2>
-<p>주안·도화 생활권은 동쪽으로 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과 인천 도시철도로 연결됩니다. 남쪽으로는 <a href="/incheon/life/yonghyeon-hagik/">용현·학익 생활권</a>이 이어지며, 용현동·학익동 방면 예약도 같은 미추홀구 권역 안에서 조율할 수 있습니다. 북서쪽으로는 동인천·제물포 방면과도 지리적으로 가깝게 연결되어 있습니다. 미추홀구 전체 방문 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지</a> 페이지를 참고해 주세요. 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 개인정보 수집·처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따르며, 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 간다GO는 주안동·도화동 권역 방문형 서비스를 운영하면서 다양한 주거 환경에 맞게 방문 준비를 안내합니다. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 방문 당일 원활한 진행이 되도록 준비해 주세요.</p>
+<p>주안·도화 생활권은 동쪽으로 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>과 인천 도시철도로 연결됩니다. 남쪽으로는 <a href="/incheon/life/yonghyeon-hagik/">용현·학익 생활권</a>이 이어지며, 용현동·학익동 방면 예약도 같은 미추홀구 권역 안에서 조율할 수 있습니다. 북서쪽으로는 <a href="/incheon/life/dongincheon-jemulpo/">동인천·제물포 생활권</a>과도 지리적으로 가깝게 연결되어 있어, 동인천역·제물포역 방면 방문과 연계해 일정을 조율할 수 있습니다. <a href="/incheon/michuhol-gu/jemulpo-area/">제물포 구도심 방문 가능 지역 안내</a>도 함께 확인하세요. 미추홀구 전체 방문 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지</a> 페이지를 참고해 주세요. 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 연락해 주세요. 개인정보 수집·처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따르며, 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 간다GO는 주안동·도화동 권역 방문형 서비스를 운영하면서 다양한 주거 환경에 맞게 방문 준비를 안내합니다. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 방문 당일 원활한 진행이 되도록 준비해 주세요.</p>
 </section>
 """,
 )
@@ -240,7 +250,7 @@ p6 = create_page(
 
 <section>
 <h2>인접 생활권과의 연결 및 예약 안내</h2>
-<p>용현·학익 생활권은 북쪽으로 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권</a>과 이어지며, 주안역·도화동 방면 예약과 연계해 이동 동선을 조율할 수 있습니다. 동쪽으로는 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>의 도로망과 연결됩니다. 미추홀구 남서측으로는 학익동이 연수구 경계와 접해 있어, <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권</a> 방면과도 간접적으로 연결됩니다. 미추홀구 전체 방문 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지</a> 페이지에서 확인해 주세요. 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 예약 접수 과정에서 수집되는 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리되며, 전체 예약 가능 지역 목록은 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하세요.</p>
+<p>용현·학익 생활권은 북쪽으로 <a href="/incheon/life/juan-dohwa/">주안·도화 생활권</a>과 이어지며, 주안역·도화동 방면 예약과 연계해 이동 동선을 조율할 수 있습니다. 동쪽으로는 <a href="/incheon/life/guwol-incheon-cityhall/">구월·인천시청 생활권</a>의 도로망과 연결됩니다. 미추홀구 남서측으로는 학익동이 연수구 경계와 접해 있어, <a href="/incheon/life/yeonsu-woninjae/">연수·원인재 생활권</a> 방면과도 간접적으로 연결됩니다. 미추홀구 전체 방문 안내는 <a href="/incheon/michuhol-gu/">미추홀구 출장마사지</a> 페이지에서 확인해 주세요. 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 예약 접수 과정에서 수집되는 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리되며, 전체 예약 가능 지역 목록은 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하세요. 또한 <a href="/incheon/michuhol-gu/yonghyeon-dong/">용현동 출장마사지 방문 안내</a>와 <a href="/incheon/michuhol-gu/hagik-dong/">학익동 아파트 단지 홈타이 방문 가능 지역</a>도 함께 참조하시면 방문 환경을 세부적으로 파악하실 수 있습니다. <a href="/incheon/michuhol-gu/">미추홀구 전체 방문 안내</a>도 함께 확인해 주세요.</p>
 </section>
 """,
 )
@@ -280,7 +290,7 @@ p7 = create_page(
 
 <section>
 <h2>인접 생활권과의 연결 및 예약 안내</h2>
-<p>부평역·부평시장 생활권은 북쪽으로 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>과 인천 1호선으로 직접 연결되며, 삼산동·갈산 방면 예약과의 동선 조율도 가능합니다. 남쪽으로는 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>과 이어지며, 산곡동·청천동 방면 방문과 연계할 수 있습니다. 동쪽으로는 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>이 인접해 있어 계양구 방면과도 간접 연결됩니다. 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 수집한 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리됩니다. 방문 가능 지역 전체 목록은 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하실 수 있습니다. 부평구 생활권 허브로서의 역할을 하는 이 권역은 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 <a href="/incheon/bupyeong-gu/bugae-dong/">부개동</a> 방문 수요가 고루 분포하며, 예약 시 각 동의 세부 주소를 기준으로 방문 가능 여부를 확인합니다. 방문형 서비스 이용 안내는 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 주세요.</p>
+<p>부평역·부평시장 생활권은 북쪽으로 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>과 인천 1호선으로 직접 연결되며, 삼산동·갈산 방면 예약과의 동선 조율도 가능합니다. 남쪽으로는 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>과 이어지며, 산곡동·청천동 방면 방문과 연계할 수 있습니다. 동쪽으로는 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>이 인접해 있어 계양구 방면과도 간접 연결됩니다. 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 수집한 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리됩니다. 방문 가능 지역 전체 목록은 <a href="/incheon/reservation/">예약 안내</a> 페이지에서 확인하실 수 있습니다. 부평구 생활권 허브로서의 역할을 하는 이 권역은 <a href="/incheon/bupyeong-gu/bupyeong-dong/">부평동</a>과 <a href="/incheon/bupyeong-gu/bugae-dong/">부개동</a> 방문 수요가 고루 분포하며, 예약 시 각 동의 세부 주소를 기준으로 방문 가능 여부를 확인합니다. 방문형 서비스 이용 안내는 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 주세요. <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동 방문 가능 지역 안내</a>와 <a href="/incheon/station/bupyeong-station/">부평역 인근 환승 역세권 방문 안내</a>도 인접 생활권 정보로 함께 확인하시면 방문 범위를 보다 정확히 파악하실 수 있습니다. 방문 가능 지역 전체 목록은 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인해 주세요.</p>
 </section>
 """,
 )
@@ -320,7 +330,7 @@ p8 = create_page(
 
 <section>
 <h2>인접 생활권과의 연결 및 예약 안내</h2>
-<p>삼산·부평구청 생활권은 남쪽으로 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과 인천 1호선으로 직접 연결됩니다. 북쪽으로는 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>과 접해 있어, 계산역·작전역 방면 방문 일정과 함께 조율하는 경우도 많습니다. 서측으로는 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>이 인접하며, 산곡동·청천동 방향과도 생활권이 연결됩니다. 삼산·부평구청 생활권의 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 예약 접수 시 수집하는 정보의 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따릅니다. 예약 안내 전반은 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 삼산동 택지지구의 계획형 주거 환경은 방문형 관리 서비스 이용에 유리한 조건을 갖추고 있습니다. <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동 출장마사지 세부 안내</a>와 <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역 인근 방문 안내</a>도 함께 확인하시면 방문 가능 범위를 더욱 정밀하게 파악할 수 있습니다. 방문 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>과 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고하세요.</p>
+<p>삼산·부평구청 생활권은 남쪽으로 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과 인천 1호선으로 직접 연결됩니다. 북쪽으로는 <a href="/incheon/life/gyesan-jakjeon/">계산·작전 생활권</a>과 접해 있어, 계산역·작전역 방면 방문 일정과 함께 조율하는 경우도 많습니다. 서측으로는 <a href="/incheon/life/sangok-cheongcheon/">산곡·청천 생활권</a>이 인접하며, 산곡동·청천동 방향과도 생활권이 연결됩니다. 삼산·부평구청 생활권의 방문형 관리 서비스 예약은 <a href="tel:0508-202-4719">0508-202-4719</a>로 문의해 주세요. 예약 접수 시 수집하는 정보의 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따릅니다. 예약 안내 전반은 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 삼산동 택지지구의 계획형 주거 환경은 방문형 관리 서비스 이용에 유리한 조건을 갖추고 있습니다. <a href="/incheon/bupyeong-gu/samsan-dong/">삼산동 출장마사지 세부 안내</a>와 <a href="/incheon/station/bupyeong-gu-office-station/">부평구청역 인근 방문 안내</a>도 함께 확인하시면 방문 가능 범위를 더욱 정밀하게 파악할 수 있습니다. 방문 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>과 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고하세요. 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하시기 바랍니다.</p>
 </section>
 """,
 )
@@ -350,12 +360,12 @@ p9 = create_page(
 
 <section>
 <h2>청천동 주거 환경 특성</h2>
-<p>청천동은 산곡동에 비해 재개발 영향이 덜한 안정적 주거지로, 소규모 아파트와 다가구주택 중심의 생활권이 유지되고 있습니다. 오랜 기간 형성된 구도심 주거지 특성상 골목길이 많고 주차 공간이 제한적인 편입니다. 청천동 내 일부 아파트 단지는 소규모로 엘리베이터가 없거나 1개만 운영하는 경우도 있으므로, 층수 정보를 미리 안내해 주시면 방문 준비에 도움이 됩니다. 전반적으로 장기 거주민 비중이 높고 이웃 간 친밀도가 높은 전통 주거지 성격을 보이며, 고연령층 거주자 비중도 상대적으로 높습니다. 청천동은 서구와 인접한 지역이기도 하여, 가정동·석남동 방면과의 생활권 중첩이 일부 있습니다.</p>
+<p>청천동은 산곡동에 비해 재개발 영향이 덜한 안정적 주거지로, 소규모 아파트와 다가구주택 중심의 생활권이 유지되고 있습니다. 오랜 기간 형성된 구도심 주거지 특성상 골목길이 많고 주차 공간이 제한적인 편입니다. 청천동 내 일부 아파트 단지는 소규모로 엘리베이터가 없거나 1개만 운영하는 경우도 있으므로, 층수 정보를 미리 안내해 주시면 방문 준비에 도움이 됩니다. 전반적으로 장기 거주민 비중이 높고 이웃 간 친밀도가 높은 전통 주거지 성격을 보이며, 고연령층 거주자 비중도 상대적으로 높습니다. 청천동은 서구와 인접한 지역이기도 하여, 가정동·석남동 방면과의 생활권 중첩이 일부 있습니다. 청천동 주거지의 경우 노후 건물 비중이 높아 방문 시 층수와 엘리베이터 유무 등 이동 환경을 사전에 확인하는 것이 중요하며, 간다GO는 이런 정보를 예약 상담 단계에서 꼼꼼하게 확인하고 안내해 드립니다.</p>
 </section>
 
 <section>
 <h2>인접 생활권 연결 및 예약 안내</h2>
-<p>산곡·청천 생활권은 동쪽으로 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과 인접해 있으며, 부평동·부개동 방면 방문과 동선을 함께 조율하는 것이 가능합니다. 북동쪽으로는 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>이 이어지며, 삼산동 방면 예약과도 연계할 수 있습니다. 부평구 전체 방문 안내는 <a href="/incheon/bupyeong-gu/">부평구 출장마사지</a> 페이지를 참고하세요. 산곡·청천 생활권의 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 간다GO는 재개발 구역 등 특수 상황에서도 투명하게 방문 가능 여부와 대안을 안내해 드립니다. 추가 이동비가 발생하는 경우 예약 확정 전에 미리 안내드립니다. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따르며, 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 산곡·청천 생활권의 동 단위 세부 안내는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동 출장마사지 안내</a>와 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동 홈타이 방문 안내</a>를 통해 확인하실 수 있습니다. 부평구 전체 방문 가능 범위는 <a href="/incheon/bupyeong-gu/">부평구 출장마사지 페이지</a>에서 확인해 주세요. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 반드시 참고하시기 바랍니다.</p>
+<p>산곡·청천 생활권은 동쪽으로 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과 인접해 있으며, 부평동·부개동 방면 방문과 동선을 함께 조율하는 것이 가능합니다. 북동쪽으로는 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>이 이어지며, 삼산동 방면 예약과도 연계할 수 있습니다. 부평구 전체 방문 안내는 <a href="/incheon/bupyeong-gu/">부평구 출장마사지</a> 페이지를 참고하세요. 산곡·청천 생활권의 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 간다GO는 재개발 구역 등 특수 상황에서도 투명하게 방문 가능 여부와 대안을 안내해 드립니다. 추가 이동비가 발생하는 경우 예약 확정 전에 미리 안내드립니다. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따르며, 전체 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 산곡·청천 생활권의 동 단위 세부 안내는 <a href="/incheon/bupyeong-gu/sangok-dong/">산곡동 출장마사지 안내</a>와 <a href="/incheon/bupyeong-gu/cheongcheon-dong/">청천동 홈타이 방문 안내</a>를 통해 확인하실 수 있습니다. 부평구 전체 방문 가능 범위는 <a href="/incheon/bupyeong-gu/">부평구 출장마사지 페이지</a>에서 확인해 주세요. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 반드시 참고하시기 바랍니다. 산곡·청천 권역에서 서쪽 방향으로 인접한 <a href="/incheon/seo-gu/gajeong-dong/">가정동 방문 가능 지역</a>과 <a href="/incheon/seo-gu/seongnam-dong/">석남동 서구 접경 주거지 방문 안내</a>도 필요 시 이 생활권에서 차량으로 연계 이동이 가능합니다. 예약 전 방문 가능 범위를 상담으로 확인하시기 바랍니다. 방문 가능 지역 전체 목록과 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인해 주세요. 개인정보 처리 기준은 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따릅니다.</p>
 </section>
 """,
 )
@@ -385,12 +395,12 @@ p10 = create_page(
 
 <section>
 <h2>계양구 남부 생활권으로서의 역할</h2>
-<p>계산·작전 생활권은 계양구 내에서도 인구 밀도가 가장 높은 권역 중 하나입니다. 계산동 일대는 가족 단위 주거 비중이 높고, 작전동은 젊은 층 1~2인 가구도 상당한 비중을 차지합니다. 이 권역은 계양구의 행정·교육·의료 인프라가 집중된 곳이기도 하며, 구청이 가까워 주민 생활 편의도 높습니다. 계양구 외곽 방면으로의 이동을 포함한 방문 일정이 있을 경우, <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a> 등 인접 동과의 연계 방문 가능 여부도 상담 시 함께 확인하실 수 있습니다. 대단지 아파트 지역에서 방문 시, 단지 규모가 크므로 정확한 동 번호와 호수를 예약 시점에 안내해 주시면 방문 동선을 효율적으로 계획할 수 있습니다. 방문 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>을, 홈타이 서비스 전반에 대해서는 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고하세요.</p>
+<p>계산·작전 생활권은 계양구 내에서도 인구 밀도가 가장 높은 권역 중 하나입니다. 계산동 일대는 가족 단위 주거 비중이 높고, 작전동은 젊은 층 1~2인 가구도 상당한 비중을 차지합니다. 이 권역은 계양구의 행정·교육·의료 인프라가 집중된 곳이기도 하며, 구청이 가까워 주민 생활 편의도 높습니다. 계양구 외곽 방면으로의 이동을 포함한 방문 일정이 있을 경우, <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동</a> 등 인접 동과의 연계 방문 가능 여부도 상담 시 함께 확인하실 수 있습니다. 대단지 아파트 지역에서 방문 시, 단지 규모가 크므로 정확한 동 번호와 호수를 예약 시점에 안내해 주시면 방문 동선을 효율적으로 계획할 수 있습니다. 방문 전 준비 사항은 <a href="/incheon/check/">이용 전 확인사항</a>을, 홈타이 서비스 전반에 대해서는 <a href="/incheon/guide/">홈타이 이용 가이드</a>를 참고하세요. 계산역과 작전역 인근 아파트 단지들은 2000년대 이전 입주 단지가 많지만 생활 편의시설이 잘 갖춰진 완성형 주거지로서 쾌적한 방문형 서비스 이용이 가능합니다. 작전동 상업지구 인근 오피스텔 거주자는 방문자 사전 등록 여부를 예약 전에 확인해 두시기 바랍니다.</p>
 </section>
 
 <section>
 <h2>인접 생활권 연결 및 예약 안내</h2>
-<p>계산·작전 생활권은 남쪽으로 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>과 인접하며, 삼산동·갈산역 방면 방문과 동선을 함께 조율할 수 있습니다. 또한 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과도 경인선을 통해 쉽게 연결되어 부평 방면 예약과 연계가 가능합니다. 계양구 전체 방문 안내는 <a href="/incheon/gyeyang-gu/">계양구 출장마사지</a> 페이지를 참고해 주세요. 계산·작전 생활권의 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 간다GO는 계산동·작전동·경인교대 인근 지역의 방문 가능 여부를 상담 단계에서 명확히 안내하며, 추가 이동비 여부도 예약 확정 전에 고지합니다. 예약 접수 과정에서 수집하는 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리됩니다. 전체 방문 가능 지역과 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 계양구 내 세부 동 방문 안내는 <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동 출장마사지 안내</a>와 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동 홈타이 방문 안내</a>에서 확인하실 수 있습니다. 계양구 북부 방면의 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동 방문 가능 여부</a>도 상담 시 함께 문의해 주세요. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 방문 당일 준비를 완료해 주시면 원활한 서비스가 가능합니다.</p>
+<p>계산·작전 생활권은 남쪽으로 <a href="/incheon/life/samsan-bupyeong-gu-office/">삼산·부평구청 생활권</a>과 인접하며, 삼산동·갈산역 방면 방문과 동선을 함께 조율할 수 있습니다. 또한 <a href="/incheon/life/bupyeong-station-market/">부평역·부평시장 생활권</a>과도 경인선을 통해 쉽게 연결되어 부평 방면 예약과 연계가 가능합니다. 계양구 전체 방문 안내는 <a href="/incheon/gyeyang-gu/">계양구 출장마사지</a> 페이지를 참고해 주세요. 계산·작전 생활권의 방문형 관리 서비스 예약 문의는 <a href="tel:0508-202-4719">0508-202-4719</a>로 해주세요. 간다GO는 계산동·작전동·경인교대 인근 지역의 방문 가능 여부를 상담 단계에서 명확히 안내하며, 추가 이동비 여부도 예약 확정 전에 고지합니다. 예약 접수 과정에서 수집하는 개인정보는 <a href="/incheon/support/privacy/">개인정보처리방침</a>에 따라 처리됩니다. 전체 방문 가능 지역과 예약 안내는 <a href="/incheon/reservation/">예약 안내 페이지</a>에서 확인하실 수 있습니다. 계양구 내 세부 동 방문 안내는 <a href="/incheon/gyeyang-gu/gyesan-dong/">계산동 출장마사지 안내</a>와 <a href="/incheon/gyeyang-gu/jakjeon-dong/">작전동 홈타이 방문 안내</a>에서 확인하실 수 있습니다. 계양구 북부 방면의 <a href="/incheon/gyeyang-gu/hyoseong-dong/">효성동 방문 가능 여부</a>도 상담 시 함께 문의해 주세요. 방문 서비스 이용 전 <a href="/incheon/guide/">홈타이 이용 가이드</a>와 <a href="/incheon/check/">이용 전 확인사항</a>을 참고해 방문 당일 준비를 완료해 주시면 원활한 서비스가 가능합니다. 계양구 전체 방문 가능 안내는 <a href="/incheon/gyeyang-gu/">계양구 출장마사지 안내</a>를 반드시 확인해 주세요. <a href="/incheon/station/gyeyang-station/">계양역 광역 교통 거점 방문 안내</a>도 참고하시면 인접 지역 이동 범위를 파악하는 데 유용합니다.</p>
 </section>
 """,
 )
